@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+# Fetches all public data files and documentation for the pre-1999 National
+# Health and Nutrition Examination Surveys (NHANES I 1971-75, NHANES II
+# 1976-80, NHANES III 1988-94) into raw_data/nhanes1, raw_data/nhanes2,
+# raw_data/nhanes3. NHANES III files keep their release subdirectory (1a, 2a...).
+#
+# File lists are scraped from each survey's CDC page, so anything CDC adds
+# there gets picked up. Existing files are skipped unless --force is given.
+# The NHANES II/III X-ray image archives (69 GB / 247 GB on ftp.cdc.gov) are
+# not fetched.
+#
+# Usage: bin/fetch_nhanes_data [--force] [nhanes1 nhanes2 nhanes3]
+
+require_relative "../lib/fetcher"
+
+Fetcher.run({
+  "nhanes1" => { page: "https://wwwn.cdc.gov/nchs/nhanes/nhanes1/default.aspx", data_dir: "nhanes1" },
+  "nhanes2" => { page: "https://wwwn.cdc.gov/nchs/nhanes/nhanes2/default.aspx", data_dir: "nhanes2" },
+  "nhanes3" => {
+    page: "https://wwwn.cdc.gov/nchs/nhanes/nhanes3/datafiles.aspx",
+    data_dir: "nhanes3",
+    fixes: {
+      # Prescription drug lookup table shared with NHANES 1999-2000, page links its old location
+      "http://wwwn.cdc.gov/nchs/nhanes/1999-2000/RXQ_DRUG.xpt" => "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1988/DataFiles/RXQ_DRUG.xpt",
+      "http://wwwn.cdc.gov/nchs/nhanes/1999-2000/RXQ_DRUG.htm" => "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/1988/DataFiles/RXQ_DRUG.htm",
+    },
+  },
+}, ARGV)
