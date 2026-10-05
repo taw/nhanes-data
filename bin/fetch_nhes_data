@@ -1,0 +1,74 @@
+#!/usr/bin/env ruby
+# Fetches all public data files and documentation for the National Health
+# Examination Surveys (NHES I 1959-62, NHES II 1963-65, NHES III 1966-70)
+# into raw_data/nhes1, raw_data/nhes2, raw_data/nhes3.
+#
+# File lists are scraped from each survey's CDC page, so anything CDC adds
+# there gets picked up. Existing files are skipped unless --force is given.
+
+require "net/http"
+require "uri"
+require "fileutils"
+
+SURVEYS = {
+  "nhes1" => "https://wwwn.cdc.gov/nchs/nhanes/nhes1/default.aspx",
+  "nhes2" => "https://wwwn.cdc.gov/nchs/nhanes/nhes2/default.aspx",
+  "nhes3" => "https://wwwn.cdc.gov/nchs/nhanes/nhes3/default.aspx",
+}
+
+ROOT = File.expand_path("..", __dir__)
+USER_AGENT = "Mozilla/5.0 (nhanes data fetcher)"
+
+def get(url, limit: 5)
+  raise "Too many redirects: #{url}" if limit == 0
+  uri = URI(url)
+  Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == "https", read_timeout: 300) do |http|
+    response = http.request(Net::HTTP::Get.new(uri, "User-Agent" => USER_AGENT))
+    case response
+    when Net::HTTPSuccess
+      response
+    when Net::HTTPRedirection
+      get(URI.join(url, response["location"]).to_s, limit: limit - 1)
+    else
+      raise "HTTP #{response.code} for #{url}"
+    end
+  end
+end
+
+# Data files, SAS input scripts, and PDF/HTML codebooks all live under /nchs/data/
+def file_urls(page_url)
+  html = get(page_url).body
+  html.scan(/href="([^"#]+)"/i).flatten
+      .map { |href| URI.join(page_url, href.strip).to_s }
+      .select { |url| URI(url).host == "wwwn.cdc.gov" && URI(url).path.start_with?("/nchs/data/") }
+      .uniq
+end
+
+force = ARGV.delete("--force")
+selected = ARGV.empty? ? SURVEYS.keys : ARGV
+unknown = selected - SURVEYS.keys
+abort "Unknown survey(s): #{unknown.join(", ")}. Known: #{SURVEYS.keys.join(", ")}" unless unknown.empty?
+
+selected.each do |survey|
+  dir = File.join(ROOT, "raw_data", survey)
+  FileUtils.mkdir_p(dir)
+  urls = file_urls(SURVEYS[survey])
+  abort "No files found on #{SURVEYS[survey]}, page layout may have changed" if urls.empty?
+  puts "#{survey}: #{urls.size} files"
+
+  urls.each do |url|
+    path = File.join(dir, File.basename(URI(url).path))
+    if File.exist?(path) && !force
+      puts "  skip #{File.basename(path)}"
+      next
+    end
+    response = get(url)
+    if response["content-type"].to_s.include?("text/html") && !path.match?(/\.html?\z/i)
+      warn "  WARNING: #{url} returned HTML, not saving"
+      next
+    end
+    File.binwrite("#{path}.tmp", response.body)
+    File.rename("#{path}.tmp", path)
+    puts "  got  #{File.basename(path)} (#{response.body.bytesize} bytes)"
+  end
+end
