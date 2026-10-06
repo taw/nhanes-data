@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+# Converts continuous NHANES data in raw_data/nhanes_<cycle> into JSONL in
+# data/nhanes_<cycle>. Dataset names drop the cycle suffix (BMX_I -> BMX), so
+# the same name works in every cycle. See lib/survey_converter.rb for the
+# output format.
+#
+# Usage: bin/convert_continuous_nhanes [nhanes_1999_2000 ...]
+
+require_relative "../lib/survey_converter"
+require_relative "../lib/continuous_nhanes"
+
+surveys = ContinuousNhanes::CYCLES.keys
+selected = ARGV.empty? ? surveys.select { |s| Dir.exist?(File.join(SurveyConverter::ROOT, "raw_data", s)) } : ARGV
+unknown = selected - surveys
+abort "Unknown survey(s): #{unknown.join(", ")}. Known: #{surveys.join(", ")}" unless unknown.empty?
+
+selected.each { |survey| SurveyConverter.new(survey, dataset_name: ContinuousNhanes.method(:stem)).run }

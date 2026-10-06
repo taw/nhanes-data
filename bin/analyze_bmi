@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+# Survey-weighted mean BMI by sex and single year of age, for every survey
+# in data/. Prints one JSON object per line. See lib/anthropometry.rb for
+# where the measurements come from.
+#
+# Usage: bin/analyze_bmi [survey ...]
+
+require_relative "../lib/anthropometry"
+
+Anthropometry.report(ARGV, :bmi) do |weight_kg, height_cm|
+  weight_kg && height_cm && weight_kg / (height_cm / 100.0)**2
+end

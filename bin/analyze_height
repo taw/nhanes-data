@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+# Survey-weighted mean standing height (cm) by sex and single year of age,
+# for every survey in data/. Prints one JSON object per line. See
+# lib/anthropometry.rb for where the measurements come from.
+#
+# Usage: bin/analyze_height [survey ...]
+
+require_relative "../lib/anthropometry"
+
+Anthropometry.report(ARGV, :height) { |_weight_kg, height_cm| height_cm }

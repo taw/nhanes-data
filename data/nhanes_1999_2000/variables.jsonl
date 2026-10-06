@@ -1,0 +1,182 @@
+{"dataset":"BMX","name":"SEQN","label":"Respondent sequence number","type":"numeric"}
+{"dataset":"BMX","name":"BMAEXLEN","label":"length of a MEC exam (sec)","type":"numeric"}
+{"dataset":"BMX","name":"BMAEXSTS","label":"Status of a MEC exam","type":"numeric"}
+{"dataset":"BMX","name":"BMAEXCMT","label":"Comment code for an exam","type":"numeric"}
+{"dataset":"BMX","name":"BMXWT","label":"Weight (kg)","type":"numeric"}
+{"dataset":"BMX","name":"BMIWT","label":"Weight Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXRECUM","label":"Recumbent Length (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIRECUM","label":"Recumbent Length Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXHEAD","label":"Head Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIHEAD","label":"Head Circumference Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXHT","label":"Standing Height (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIHT","label":"Standing Height Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXBMI","label":"Body Mass Index (kg/m**2)","type":"numeric"}
+{"dataset":"BMX","name":"BMXLEG","label":"Upper Leg Length (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMILEG","label":"Upper Leg Length Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXCALF","label":"Maximal Calf Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMICALF","label":"Maximal Calf Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXARML","label":"Upper Arm Length (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIARML","label":"Upper Arm Length Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXARMC","label":"Arm Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIARMC","label":"Arm Circumference Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXWAIST","label":"Waist Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIWAIST","label":"Waist Circumference Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXTHICR","label":"Thigh Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMITHICR","label":"Thigh Circumference Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXTRI","label":"Triceps Skinfold (mm)","type":"numeric"}
+{"dataset":"BMX","name":"BMITRI","label":"Triceps Skinfold Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXSUB","label":"Subscapular Skinfold (mm)","type":"numeric"}
+{"dataset":"BMX","name":"BMISUB","label":"Subscapular Skinfold Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMAAMP","label":"Amputations?","type":"numeric"}
+{"dataset":"BMX","name":"BMAUREXT","label":"Amputations: Upper Right Extremity?","type":"numeric"}
+{"dataset":"BMX","name":"BMAUPREL","label":"Amputations: UR  Above or Below Elbow?","type":"numeric"}
+{"dataset":"BMX","name":"BMAULEXT","label":"Amputations: Upper Left Extremity?","type":"numeric"}
+{"dataset":"BMX","name":"BMAUPLEL","label":"Amputations: UL  Above or Below Elbow?","type":"numeric"}
+{"dataset":"BMX","name":"BMALOREX","label":"Amputations: Lower Right Extremity?","type":"numeric"}
+{"dataset":"BMX","name":"BMALORKN","label":"Amputations: LR  Above or Below Knee?","type":"numeric"}
+{"dataset":"BMX","name":"BMALLEXT","label":"Amputations: Lower Left Extremity?","type":"numeric"}
+{"dataset":"BMX","name":"BMALLKNE","label":"Amputations: LL  Above or Below Knee?","type":"numeric"}
+{"dataset":"DEMO","name":"SEQN","label":"Respondent sequence number","type":"numeric"}
+{"dataset":"DEMO","name":"SDDSRVYR","label":"Data Release Number","type":"numeric"}
+{"dataset":"DEMO","name":"RIDSTATR","label":"Interview/Examination Status","type":"numeric"}
+{"dataset":"DEMO","name":"RIDEXMON","label":"Six month time period","type":"numeric"}
+{"dataset":"DEMO","name":"RIAGENDR","label":"Gender","type":"numeric"}
+{"dataset":"DEMO","name":"RIDAGEYR","label":"Age at Screening Adjudicated - Recode","type":"numeric"}
+{"dataset":"DEMO","name":"RIDAGEMN","label":"Age in Months - Recode","type":"numeric"}
+{"dataset":"DEMO","name":"RIDAGEEX","label":"Exam Age in Months - Recode","type":"numeric"}
+{"dataset":"DEMO","name":"RIDRETH1","label":"Race/Ethnicity - Recode","type":"numeric"}
+{"dataset":"DEMO","name":"RIDRETH2","label":"Linked NH3 Race/Ethnicity - Recode","type":"numeric"}
+{"dataset":"DEMO","name":"DMQMILIT","label":"Veteran/Military Status","type":"numeric"}
+{"dataset":"DEMO","name":"DMDBORN","label":"Country of Birth - Recode","type":"numeric"}
+{"dataset":"DEMO","name":"DMDCITZN","label":"Citizenship Status","type":"numeric"}
+{"dataset":"DEMO","name":"DMDYRSUS","label":"Length of time in US","type":"numeric"}
+{"dataset":"DEMO","name":"DMDEDUC3","label":"Education Level - Children/Youth 6-19","type":"numeric"}
+{"dataset":"DEMO","name":"DMDEDUC2","label":"Education Level - Adults 20+","type":"numeric"}
+{"dataset":"DEMO","name":"DMDEDUC","label":"Education - Recode (old version)","type":"numeric"}
+{"dataset":"DEMO","name":"DMDSCHOL","label":"Now attending school?","type":"numeric"}
+{"dataset":"DEMO","name":"DMDMARTL","label":"Marital Status","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHHSIZ","label":"Total number of people in the Household","type":"numeric"}
+{"dataset":"DEMO","name":"INDHHINC","label":"Annual Household Income","type":"numeric"}
+{"dataset":"DEMO","name":"INDFMINC","label":"Annual Family Income","type":"numeric"}
+{"dataset":"DEMO","name":"INDFMPIR","label":"Family PIR","type":"numeric"}
+{"dataset":"DEMO","name":"RIDEXPRG","label":"Pregnancy Status at Exam - Recode","type":"numeric"}
+{"dataset":"DEMO","name":"RIDPREG","label":"Pregnancy Status - Recode (old version)","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRGND","label":"HH Ref Person Gender","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRAGE","label":"HH Ref Person Age","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRBRN","label":"HH Ref Person Country of Birth","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHREDU","label":"HH Ref Person Education Level","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRMAR","label":"HH Ref Person Marital Status","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHSEDU","label":"HH Ref Person's Spouse Education Level","type":"numeric"}
+{"dataset":"DEMO","name":"WTINT2YR","label":"Full Sample 2 Year Interview Weight","type":"numeric"}
+{"dataset":"DEMO","name":"WTINT4YR","label":"Full Sample 4 Year Interview Weight","type":"numeric"}
+{"dataset":"DEMO","name":"WTMEC2YR","label":"Full Sample 2 Year MEC Exam Weight","type":"numeric"}
+{"dataset":"DEMO","name":"WTMEC4YR","label":"Full Sample 4 Year MEC Exam Weight","type":"numeric"}
+{"dataset":"DEMO","name":"SDMVPSU","label":"Masked Variance Pseudo-PSU","type":"numeric"}
+{"dataset":"DEMO","name":"SDMVSTRA","label":"Masked Variance Pseudo-Stratum","type":"numeric"}
+{"dataset":"DEMO","name":"SDJ1REPN","label":"Jack Knife Replicate Number","type":"numeric"}
+{"dataset":"DEMO","name":"DMAETHN","label":"Logical Imputation Flag for Ethnicity","type":"numeric"}
+{"dataset":"DEMO","name":"DMARACE","label":"Logical Imputation Flag for Race Recode","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP01","label":"MEC Exam Weight Jack Knife Replicate 01","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP02","label":"MEC Exam Weight Jack Knife Replicate 02","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP03","label":"MEC Exam Weight Jack Knife Replicate 03","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP04","label":"MEC Exam Weight Jack Knife Replicate 04","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP05","label":"MEC Exam Weight Jack Knife Replicate 05","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP06","label":"MEC Exam Weight Jack Knife Replicate 06","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP07","label":"MEC Exam Weight Jack Knife Replicate 07","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP08","label":"MEC Exam Weight Jack Knife Replicate 08","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP09","label":"MEC Exam Weight Jack Knife Replicate 09","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP10","label":"MEC Exam Weight Jack Knife Replicate 10","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP11","label":"MEC Exam Weight Jack Knife Replicate 11","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP12","label":"MEC Exam Weight Jack Knife Replicate 12","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP13","label":"MEC Exam Weight Jack Knife Replicate 13","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP14","label":"MEC Exam Weight Jack Knife Replicate 14","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP15","label":"MEC Exam Weight Jack Knife Replicate 15","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP16","label":"MEC Exam Weight Jack Knife Replicate 16","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP17","label":"MEC Exam Weight Jack Knife Replicate 17","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP18","label":"MEC Exam Weight Jack Knife Replicate 18","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP19","label":"MEC Exam Weight Jack Knife Replicate 19","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP20","label":"MEC Exam Weight Jack Knife Replicate 20","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP21","label":"MEC Exam Weight Jack Knife Replicate 21","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP22","label":"MEC Exam Weight Jack Knife Replicate 22","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP23","label":"MEC Exam Weight Jack Knife Replicate 23","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP24","label":"MEC Exam Weight Jack Knife Replicate 24","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP25","label":"MEC Exam Weight Jack Knife Replicate 25","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP26","label":"MEC Exam Weight Jack Knife Replicate 26","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP27","label":"MEC Exam Weight Jack Knife Replicate 27","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP28","label":"MEC Exam Weight Jack Knife Replicate 28","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP29","label":"MEC Exam Weight Jack Knife Replicate 29","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP30","label":"MEC Exam Weight Jack Knife Replicate 30","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP31","label":"MEC Exam Weight Jack Knife Replicate 31","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP32","label":"MEC Exam Weight Jack Knife Replicate 32","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP33","label":"MEC Exam Weight Jack Knife Replicate 33","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP34","label":"MEC Exam Weight Jack Knife Replicate 34","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP35","label":"MEC Exam Weight Jack Knife Replicate 35","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP36","label":"MEC Exam Weight Jack Knife Replicate 36","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP37","label":"MEC Exam Weight Jack Knife Replicate 37","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP38","label":"MEC Exam Weight Jack Knife Replicate 38","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP39","label":"MEC Exam Weight Jack Knife Replicate 39","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP40","label":"MEC Exam Weight Jack Knife Replicate 40","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP41","label":"MEC Exam Weight Jack Knife Replicate 41","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP42","label":"MEC Exam Weight Jack Knife Replicate 42","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP43","label":"MEC Exam Weight Jack Knife Replicate 43","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP44","label":"MEC Exam Weight Jack Knife Replicate 44","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP45","label":"MEC Exam Weight Jack Knife Replicate 45","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP46","label":"MEC Exam Weight Jack Knife Replicate 46","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP47","label":"MEC Exam Weight Jack Knife Replicate 47","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP48","label":"MEC Exam Weight Jack Knife Replicate 48","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP49","label":"MEC Exam Weight Jack Knife Replicate 49","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP50","label":"MEC Exam Weight Jack Knife Replicate 50","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP51","label":"MEC Exam Weight Jack Knife Replicate 51","type":"numeric"}
+{"dataset":"DEMO","name":"WTMREP52","label":"MEC Exam Weight Jack Knife Replicate 52","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP01","label":"Interview Weight Jack Knife Replicate 01","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP02","label":"Interview Weight Jack Knife Replicate 02","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP03","label":"Interview Weight Jack Knife Replicate 03","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP04","label":"Interview Weight Jack Knife Replicate 04","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP05","label":"Interview Weight Jack Knife Replicate 05","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP06","label":"Interview Weight Jack Knife Replicate 06","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP07","label":"Interview Weight Jack Knife Replicate 07","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP08","label":"Interview Weight Jack Knife Replicate 08","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP09","label":"Interview Weight Jack Knife Replicate 09","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP10","label":"Interview Weight Jack Knife Replicate 10","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP11","label":"Interview Weight Jack Knife Replicate 11","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP12","label":"Interview Weight Jack Knife Replicate 12","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP13","label":"Interview Weight Jack Knife Replicate 13","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP14","label":"Interview Weight Jack Knife Replicate 14","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP15","label":"Interview Weight Jack Knife Replicate 15","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP16","label":"Interview Weight Jack Knife Replicate 16","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP17","label":"Interview Weight Jack Knife Replicate 17","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP18","label":"Interview Weight Jack Knife Replicate 18","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP19","label":"Interview Weight Jack Knife Replicate 19","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP20","label":"Interview Weight Jack Knife Replicate 20","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP21","label":"Interview Weight Jack Knife Replicate 21","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP22","label":"Interview Weight Jack Knife Replicate 22","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP23","label":"Interview Weight Jack Knife Replicate 23","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP24","label":"Interview Weight Jack Knife Replicate 24","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP25","label":"Interview Weight Jack Knife Replicate 25","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP26","label":"Interview Weight Jack Knife Replicate 26","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP27","label":"Interview Weight Jack Knife Replicate 27","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP28","label":"Interview Weight Jack Knife Replicate 28","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP29","label":"Interview Weight Jack Knife Replicate 29","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP30","label":"Interview Weight Jack Knife Replicate 30","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP31","label":"Interview Weight Jack Knife Replicate 31","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP32","label":"Interview Weight Jack Knife Replicate 32","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP33","label":"Interview Weight Jack Knife Replicate 33","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP34","label":"Interview Weight Jack Knife Replicate 34","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP35","label":"Interview Weight Jack Knife Replicate 35","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP36","label":"Interview Weight Jack Knife Replicate 36","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP37","label":"Interview Weight Jack Knife Replicate 37","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP38","label":"Interview Weight Jack Knife Replicate 38","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP39","label":"Interview Weight Jack Knife Replicate 39","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP40","label":"Interview Weight Jack Knife Replicate 40","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP41","label":"Interview Weight Jack Knife Replicate 41","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP42","label":"Interview Weight Jack Knife Replicate 42","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP43","label":"Interview Weight Jack Knife Replicate 43","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP44","label":"Interview Weight Jack Knife Replicate 44","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP45","label":"Interview Weight Jack Knife Replicate 45","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP46","label":"Interview Weight Jack Knife Replicate 46","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP47","label":"Interview Weight Jack Knife Replicate 47","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP48","label":"Interview Weight Jack Knife Replicate 48","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP49","label":"Interview Weight Jack Knife Replicate 49","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP50","label":"Interview Weight Jack Knife Replicate 50","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP51","label":"Interview Weight Jack Knife Replicate 51","type":"numeric"}
+{"dataset":"DEMO","name":"WTIREP52","label":"Interview Weight Jack Knife Replicate 52","type":"numeric"}

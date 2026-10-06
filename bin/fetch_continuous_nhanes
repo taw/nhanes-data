@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+# Fetches selected data files and their codebooks from continuous NHANES
+# (1999-2023) into raw_data/nhanes_<cycle>. Only files whose name stem (BMX
+# for BMX_I.xpt) is listed in --files are fetched, DEMO is always included
+# because it holds age, sex and sample weights for every other file.
+#
+# File lists are scraped from each cycle's CDC data pages. Existing files are
+# skipped unless --force is given.
+#
+# Usage: bin/fetch_continuous_nhanes [--force] [--files=DEMO,BMX,...] [nhanes_1999_2000 ...]
+
+require_relative "../lib/fetcher"
+require_relative "../lib/continuous_nhanes"
+
+argv = ARGV.dup
+files_arg = argv.find { |a| a.start_with?("--files=") }
+argv.delete(files_arg)
+stems = ["DEMO", *(files_arg ? files_arg.delete_prefix("--files=").upcase.split(",") : %w[BMX])].uniq
+
+surveys = ContinuousNhanes::CYCLES.to_h do |survey, (cycle, year)|
+  [survey, {
+    pages: ContinuousNhanes::COMPONENTS.map { |c| "https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=#{c}&Cycle=#{cycle}" },
+    data_dir: "nhanes/public/#{year}/datafiles",
+    filter: ->(url) { stems.include?(ContinuousNhanes.stem(File.basename(URI(url).path).sub(/\.(xpt|htm)\z/i, ""))) },
+  }]
+end
+
+Fetcher.run(surveys, argv)

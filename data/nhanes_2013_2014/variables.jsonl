@@ -1,0 +1,73 @@
+{"dataset":"BMX","name":"SEQN","label":"Respondent sequence number","type":"numeric"}
+{"dataset":"BMX","name":"BMDSTATS","label":"Body Measures Component Status Code","type":"numeric"}
+{"dataset":"BMX","name":"BMXWT","label":"Weight (kg)","type":"numeric"}
+{"dataset":"BMX","name":"BMIWT","label":"Weight Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXRECUM","label":"Recumbent Length (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIRECUM","label":"Recumbent Length Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXHEAD","label":"Head Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIHEAD","label":"Head Circumference Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXHT","label":"Standing Height (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIHT","label":"Standing Height Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXBMI","label":"Body Mass Index (kg/m**2)","type":"numeric"}
+{"dataset":"BMX","name":"BMDBMIC","label":"BMI Category - Children/Youth","type":"numeric"}
+{"dataset":"BMX","name":"BMXLEG","label":"Upper Leg Length (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMILEG","label":"Upper Leg Length Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXARML","label":"Upper Arm Length (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIARML","label":"Upper Arm Length Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXARMC","label":"Arm Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIARMC","label":"Arm Circumference Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXWAIST","label":"Waist Circumference (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMIWAIST","label":"Waist Circumference Comment","type":"numeric"}
+{"dataset":"BMX","name":"BMXSAD1","label":"Sagittal Abdominal Diameter 1st (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMXSAD2","label":"Sagittal Abdominal Diameter 2nd (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMXSAD3","label":"Sagittal Abdominal Diameter 3rd (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMXSAD4","label":"Sagittal Abdominal Diameter 4th (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMDAVSAD","label":"Average Sagittal Abdominal Diameter (cm)","type":"numeric"}
+{"dataset":"BMX","name":"BMDSADCM","label":"Sagittal Abdominal Diameter Comment","type":"numeric"}
+{"dataset":"DEMO","name":"SEQN","label":"Respondent sequence number","type":"numeric"}
+{"dataset":"DEMO","name":"SDDSRVYR","label":"Data release cycle","type":"numeric"}
+{"dataset":"DEMO","name":"RIDSTATR","label":"Interview/Examination status","type":"numeric"}
+{"dataset":"DEMO","name":"RIAGENDR","label":"Gender","type":"numeric"}
+{"dataset":"DEMO","name":"RIDAGEYR","label":"Age in years at screening","type":"numeric"}
+{"dataset":"DEMO","name":"RIDAGEMN","label":"Age in months at screening - 0 to 24 mos","type":"numeric"}
+{"dataset":"DEMO","name":"RIDRETH1","label":"Race/Hispanic origin","type":"numeric"}
+{"dataset":"DEMO","name":"RIDRETH3","label":"Race/Hispanic origin w/ NH Asian","type":"numeric"}
+{"dataset":"DEMO","name":"RIDEXMON","label":"Six month time period","type":"numeric"}
+{"dataset":"DEMO","name":"RIDEXAGM","label":"Age in months at exam - 0 to 19 years","type":"numeric"}
+{"dataset":"DEMO","name":"DMQMILIZ","label":"Served active duty in US Armed Forces","type":"numeric"}
+{"dataset":"DEMO","name":"DMQADFC","label":"Served in a foreign country","type":"numeric"}
+{"dataset":"DEMO","name":"DMDBORN4","label":"Country of birth","type":"numeric"}
+{"dataset":"DEMO","name":"DMDCITZN","label":"Citizenship status","type":"numeric"}
+{"dataset":"DEMO","name":"DMDYRSUS","label":"Length of time in US","type":"numeric"}
+{"dataset":"DEMO","name":"DMDEDUC3","label":"Education level - Children/Youth 6-19","type":"numeric"}
+{"dataset":"DEMO","name":"DMDEDUC2","label":"Education level - Adults 20+","type":"numeric"}
+{"dataset":"DEMO","name":"DMDMARTL","label":"Marital status","type":"numeric"}
+{"dataset":"DEMO","name":"RIDEXPRG","label":"Pregnancy status at exam","type":"numeric"}
+{"dataset":"DEMO","name":"SIALANG","label":"Language of SP Interview","type":"numeric"}
+{"dataset":"DEMO","name":"SIAPROXY","label":"Proxy used in SP Interview?","type":"numeric"}
+{"dataset":"DEMO","name":"SIAINTRP","label":"Interpreter used in SP Interview?","type":"numeric"}
+{"dataset":"DEMO","name":"FIALANG","label":"Language of Family Interview","type":"numeric"}
+{"dataset":"DEMO","name":"FIAPROXY","label":"Proxy used in Family Interview?","type":"numeric"}
+{"dataset":"DEMO","name":"FIAINTRP","label":"Interpreter used in Family Interview?","type":"numeric"}
+{"dataset":"DEMO","name":"MIALANG","label":"Language of MEC Interview","type":"numeric"}
+{"dataset":"DEMO","name":"MIAPROXY","label":"Proxy used in MEC Interview?","type":"numeric"}
+{"dataset":"DEMO","name":"MIAINTRP","label":"Interpreter used in MEC Interview?","type":"numeric"}
+{"dataset":"DEMO","name":"AIALANGA","label":"Language of ACASI Interview","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHHSIZ","label":"Total number of people in the Household","type":"numeric"}
+{"dataset":"DEMO","name":"DMDFMSIZ","label":"Total number of people in the Family","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHHSZA","label":"# of children 5 years or younger in HH","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHHSZB","label":"# of children 6-17 years old in HH","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHHSZE","label":"# of adults 60 years or older in HH","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRGND","label":"HH ref person's gender","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRAGE","label":"HH ref person's age in years","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRBR4","label":"HH ref person's country of birth","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHREDU","label":"HH ref person's education level","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHRMAR","label":"HH ref person's marital status","type":"numeric"}
+{"dataset":"DEMO","name":"DMDHSEDU","label":"HH ref person's spouse's education level","type":"numeric"}
+{"dataset":"DEMO","name":"WTINT2YR","label":"Full sample 2 year interview weight","type":"numeric"}
+{"dataset":"DEMO","name":"WTMEC2YR","label":"Full sample 2 year MEC exam weight","type":"numeric"}
+{"dataset":"DEMO","name":"SDMVPSU","label":"Masked variance pseudo-PSU","type":"numeric"}
+{"dataset":"DEMO","name":"SDMVSTRA","label":"Masked variance pseudo-stratum","type":"numeric"}
+{"dataset":"DEMO","name":"INDHHIN2","label":"Annual household income","type":"numeric"}
+{"dataset":"DEMO","name":"INDFMIN2","label":"Annual family income","type":"numeric"}
+{"dataset":"DEMO","name":"INDFMPIR","label":"Ratio of family income to poverty","type":"numeric"}

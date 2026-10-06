@@ -30,8 +30,10 @@ class SurveyConverter
   INTEGER = /\A[-+]?\d+\z/
   FLOAT = /\A[-+]?(?:\d+\.\d*|\.\d+|\d+)(?:[eE][-+]?\d+)?\z/
 
-  def initialize(survey)
+  # dataset_name: optional ->(file basename) { dataset name } for .xpt files
+  def initialize(survey, dataset_name: nil)
     @survey = survey
+    @dataset_name = dataset_name
     @raw_dir = File.join(ROOT, "raw_data", survey)
     @out_dir = File.join(ROOT, "data", survey)
   end
@@ -165,13 +167,17 @@ class SurveyConverter
       abort "#{path}: #{xpt.members.size} members, only single-member files are supported" if xpt.members.size != 1
       member = xpt.members.first
       {
-        name: File.basename(f).sub(/\.xpt\z/i, ""),
+        name: dataset_name(File.basename(f).sub(/\.xpt\z/i, "")),
         title: member.label,
         data: path,
         variables: member.variables.map { |v| { name: v.name, label: v.label, type: v.type } },
         records: xpt.each_record,
       }
     end
+  end
+
+  def dataset_name(basename)
+    @dataset_name ? @dataset_name.(basename) : basename
   end
 
   ## Output

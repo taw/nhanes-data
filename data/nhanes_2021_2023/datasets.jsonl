@@ -1,0 +1,2 @@
+{"dataset":"BMX","records":8860,"variables":22,"source_data":"raw_data/nhanes_2021_2023/BMX_L.xpt"}
+{"dataset":"DEMO","title":"Demographic Variables and Sample Weights","records":11933,"variables":27,"source_data":"raw_data/nhanes_2021_2023/DEMO_L.xpt"}

@@ -48,6 +48,8 @@ module Fetcher
   end
 
   # surveys: { "name" => { page: url, data_dir: "nhanes3", fixes: {...} } }
+  # Instead of page, pages: [url, ...] scrapes several pages, and
+  # filter: ->(url) { ... } keeps only matching files.
   def run(surveys, argv)
     argv = argv.dup
     force = argv.delete("--force")
@@ -59,8 +61,10 @@ module Fetcher
     selected.each do |survey|
       config = surveys[survey]
       dir = File.join(ROOT, "raw_data", survey)
-      urls = file_urls(config[:page], fixes: config.fetch(:fixes, {}))
-      abort "No files found on #{config[:page]}, page layout may have changed" if urls.empty?
+      pages = config[:pages] || [config[:page]]
+      urls = pages.flat_map { |page| file_urls(page, fixes: config.fetch(:fixes, {})) }.uniq
+      urls = urls.select(&config[:filter]) if config[:filter]
+      abort "No files found on #{pages.join(", ")}, page layout may have changed" if urls.empty?
       puts "#{survey}: #{urls.size} files"
 
       urls.each do |url|

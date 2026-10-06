@@ -1,0 +1,2 @@
+{"dataset":"BMX","title":"Body Measures","records":14300,"variables":22,"source_data":"raw_data/nhanes_2017_2020/P_BMX.xpt"}
+{"dataset":"DEMO","records":15560,"variables":29,"source_data":"raw_data/nhanes_2017_2020/P_DEMO.xpt"}

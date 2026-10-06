@@ -1,0 +1,2 @@
+{"dataset":"BMX","records":9338,"variables":26,"source_data":"raw_data/nhanes_2011_2012/BMX_G.xpt"}
+{"dataset":"DEMO","records":9756,"variables":48,"source_data":"raw_data/nhanes_2011_2012/DEMO_G.xpt"}
