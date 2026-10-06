@@ -1,0 +1,2 @@
+{"dataset":"DU3edt","title":"Extended Data Tapes","records":6768,"variables":776,"source_data":"raw_data/nhes3/DU3edt.txt","source_layout":"raw_data/nhes3/DU3edt.sas"}
+{"dataset":"growthch","title":"Growth Chart","records":50076,"variables":21,"source_data":"raw_data/nhes3/growthch.xpt"}

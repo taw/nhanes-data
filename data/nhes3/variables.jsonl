@@ -1,0 +1,797 @@
+{"dataset":"DU3edt","name":"SEQN","label":"SAMPLE SEQUENCE NUMBER","type":"numeric","start":1,"end":4}
+{"dataset":"DU3edt","name":"H3ED0005","label":"BLANK-DATA USER WORK AREA","type":"character","start":5,"end":22}
+{"dataset":"DU3edt","name":"H3ED0023","label":"STRATA","type":"numeric","start":23,"end":24}
+{"dataset":"DU3edt","name":"H3ED0025","label":"PSEUDO PRIMARY SAMPLING UNIT","type":"numeric","start":25,"end":25}
+{"dataset":"DU3edt","name":"H3ED0026","label":"BLANK- USER WORK AREA","type":"character","start":26,"end":27}
+{"dataset":"DU3edt","name":"H3ED0028","label":"HEALTH EXAMINATION SURVEY CYCLE II S ...","type":"numeric","start":28,"end":31}
+{"dataset":"DU3edt","name":"H3ED0032","label":"DATE OF EXAMINATION (MONTH, DAY, YEAR)","type":"numeric","start":32,"end":37}
+{"dataset":"DU3edt","name":"H3ED0038","label":"DATE OF BIRTH (MONTH, YEAR)","type":"numeric","start":38,"end":41}
+{"dataset":"DU3edt","name":"H3ED0042","label":"FINAL ADJUSTED SAMPLE WEIGHT","type":"numeric","start":42,"end":46}
+{"dataset":"DU3edt","name":"H3ED0047","label":"PERSONAL AND DEMOGRAPHIC CHARACTERIS ...","type":"numeric","start":47,"end":47}
+{"dataset":"DU3edt","name":"H3ED0048","label":"RACE","type":"numeric","start":48,"end":48}
+{"dataset":"DU3edt","name":"H3ED0049","label":"SEX-RACE RECODE","type":"numeric","start":49,"end":49}
+{"dataset":"DU3edt","name":"H3ED0050","label":"AGE IN YEARS (AT TIME OF EXAMINATION)","type":"numeric","start":50,"end":51}
+{"dataset":"DU3edt","name":"H3ED0052","label":"AGE-SEX RECODE","type":"numeric","start":52,"end":53}
+{"dataset":"DU3edt","name":"H3ED0054","label":"AGE IN 6-MONTH INTERVALS (AT TIME OF ...","type":"numeric","start":54,"end":55}
+{"dataset":"DU3edt","name":"H3ED0056","label":"AGE IN 4-MONTH INTERVALS (AT TIME OF ...","type":"numeric","start":56,"end":57}
+{"dataset":"DU3edt","name":"H3ED0058","label":"AGE OF MONTHS (AT TIME OF EXAMINATION)","type":"numeric","start":58,"end":60}
+{"dataset":"DU3edt","name":"H3ED0061","label":"HIGHEST GRADE YOUTH ATTENDED IN SCHOOL","type":"numeric","start":61,"end":62}
+{"dataset":"DU3edt","name":"H3ED0063","label":"DID YOUTH FINISH THIS GRADE (STANDS  ...","type":"numeric","start":63,"end":63}
+{"dataset":"DU3edt","name":"H3ED0064","label":"YOUTH GOING TO SCHOOL (STANDS 01-05  ...","type":"numeric","start":64,"end":64}
+{"dataset":"DU3edt","name":"H3ED0065","label":"NOT GOING TO SCHOOL-JOB STATUS","type":"numeric","start":65,"end":65}
+{"dataset":"DU3edt","name":"H3ED0066","label":"PRESENT GRADE STATUS","type":"numeric","start":66,"end":67}
+{"dataset":"DU3edt","name":"H3ED0068","label":"TWIN STATUS","type":"numeric","start":68,"end":68}
+{"dataset":"DU3edt","name":"H3ED0069","label":"REGION","type":"numeric","start":69,"end":69}
+{"dataset":"DU3edt","name":"H3ED0070","label":"POPULATION SIZE","type":"numeric","start":70,"end":70}
+{"dataset":"DU3edt","name":"H3ED0071","label":"RATE OF POPULATION SIZE","type":"numeric","start":71,"end":71}
+{"dataset":"DU3edt","name":"H3ED0072","label":"RATE OF POPULATION CHANGE","type":"numeric","start":72,"end":72}
+{"dataset":"DU3edt","name":"H3ED0073","label":"SIZE OF PLACE","type":"numeric","start":73,"end":73}
+{"dataset":"DU3edt","name":"H3ED0074","label":"SMSA-NOT SMSA","type":"character","start":74,"end":74}
+{"dataset":"DU3edt","name":"H3ED0075","label":"TOTAL FAMILY INCOME (ANNUAL)","type":"numeric","start":75,"end":76}
+{"dataset":"DU3edt","name":"H3ED0077","label":"PARENT OR GUARDIAN RELATIONSHIP TO Y ...","type":"character","start":77,"end":77}
+{"dataset":"DU3edt","name":"H3ED0078","label":"PARENT OR GUARDIAN RELATIONSHIP TO Y ...","type":"character","start":78,"end":78}
+{"dataset":"DU3edt","name":"H3ED0079","label":"HIGHEST GRADE FINISHED (1ST AND 2ND  ...","type":"numeric","start":79,"end":79}
+{"dataset":"DU3edt","name":"H3ED0080","label":"HIGHEST GRADE FINISHES(1ST LISTED PA ...","type":"numeric","start":80,"end":81}
+{"dataset":"DU3edt","name":"H3ED0082","label":"HIGHEST GRADE FINISHED (2ND LISTED P ...","type":"numeric","start":82,"end":83}
+{"dataset":"DU3edt","name":"H3ED0084","label":"SEX AND RACE (1ST LISTED PARENT)","type":"numeric","start":84,"end":84}
+{"dataset":"DU3edt","name":"H3ED0085","label":"SEX AND RACE (2ND LISTED PARENT)","type":"numeric","start":85,"end":85}
+{"dataset":"DU3edt","name":"H3ED0086","label":"AGE (1ST LISTED PARENT)","type":"numeric","start":86,"end":87}
+{"dataset":"DU3edt","name":"H3ED0088","label":"AGE (2ND LISTED PARENT)","type":"numeric","start":88,"end":89}
+{"dataset":"DU3edt","name":"H3ED0090","label":"PLACE OF BIRTH (1ST LISTED PARENT)","type":"numeric","start":90,"end":90}
+{"dataset":"DU3edt","name":"H3ED0091","label":"PLACE OF BIRTH (2ND LISTED PARENT)","type":"numeric","start":91,"end":91}
+{"dataset":"DU3edt","name":"H3ED0092","label":"HANDEDNESS (1ST LISTED PARENT)","type":"numeric","start":92,"end":92}
+{"dataset":"DU3edt","name":"H3ED0093","label":"HANDEDNESS (2ND LISTED PARENT)","type":"numeric","start":93,"end":93}
+{"dataset":"DU3edt","name":"H3ED0094","label":"USUAL ACTIVITY (1ST LISTED PARENT)","type":"character","start":94,"end":94}
+{"dataset":"DU3edt","name":"H3ED0095","label":"USUAL ACTIVITY (2ND LISTED PARENT)","type":"character","start":95,"end":95}
+{"dataset":"DU3edt","name":"H3ED0096","label":"MARITAL STATUS (1ST LISTED PARENT)","type":"character","start":96,"end":96}
+{"dataset":"DU3edt","name":"H3ED0097","label":"MARITAL STATUS (2ND LISTED PARENT)","type":"character","start":97,"end":97}
+{"dataset":"DU3edt","name":"H3ED0098","label":"OTHER CHILDREN (NOT LIVING IN HOUSEHOLD)","type":"numeric","start":98,"end":98}
+{"dataset":"DU3edt","name":"H3ED0099","label":"NUMBER OF PERSONS IN HOUSEHOLD (20 Y ...","type":"numeric","start":99,"end":99}
+{"dataset":"DU3edt","name":"H3ED0100","label":"AGE, ORDER OF YOUTH (IN HOUSE 20 YEA ...","type":"numeric","start":100,"end":100}
+{"dataset":"DU3edt","name":"H3ED0101","label":"TOTAL NUMBER OF PERSONS IN THE HOUSEHOLD","type":"character","start":101,"end":102}
+{"dataset":"DU3edt","name":"H3ED0103","label":"FOREIGN LANGUAGE SPOKEN IN HOME","type":"numeric","start":103,"end":103}
+{"dataset":"DU3edt","name":"H3ED0104","label":"HOUSEHOLD HEALTH EPISODES SINCE OLDE ...","type":"numeric","start":104,"end":104}
+{"dataset":"DU3edt","name":"H3ED0105","label":"#1.  SINCE (OLDEST EXAMINED YOUTH) W ...","type":"character","start":105,"end":105}
+{"dataset":"DU3edt","name":"H3ED0106","label":"YEAR OF OCCURRENCE OF #1 EPISODE","type":"numeric","start":106,"end":107}
+{"dataset":"DU3edt","name":"H3ED0108","label":"#2.  DURING THAT PERIOD HAS ANYONE I ...","type":"numeric","start":108,"end":108}
+{"dataset":"DU3edt","name":"H3ED0109","label":"YEAR OF OCCURRENCE OF #2 EPISODE","type":"numeric","start":109,"end":110}
+{"dataset":"DU3edt","name":"H3ED0111","label":"#3. SINCE THIS PERIOD HAS ANY RELATI ...","type":"numeric","start":111,"end":111}
+{"dataset":"DU3edt","name":"H3ED0112","label":"YEAR OF OCCURRENCE OF #3 EPISODE","type":"numeric","start":112,"end":113}
+{"dataset":"DU3edt","name":"H3ED0114","label":"WORK AREA","type":"character","start":114,"end":123}
+{"dataset":"DU3edt","name":"H3ED0124","label":"BIRTH CERTIFICATE INFORMATION AVAILABLE","type":"numeric","start":124,"end":124}
+{"dataset":"DU3edt","name":"H3ED0125","label":"STATE OF BIRTH (SEE ATTACHED LIST FO ...","type":"numeric","start":125,"end":126}
+{"dataset":"DU3edt","name":"H3ED0127","label":"PLACE OF BIRTH","type":"numeric","start":127,"end":127}
+{"dataset":"DU3edt","name":"H3ED0128","label":"RESIDENCE OF MOTHER","type":"numeric","start":128,"end":128}
+{"dataset":"DU3edt","name":"H3ED0129","label":"WORK AREA","type":"numeric","start":129,"end":129}
+{"dataset":"DU3edt","name":"H3ED0130","label":"AGE OF FATHER","type":"numeric","start":130,"end":131}
+{"dataset":"DU3edt","name":"H3ED0132","label":"AGE OF MOTHER","type":"numeric","start":132,"end":133}
+{"dataset":"DU3edt","name":"H3ED0134","label":"BIRTHPLACE OF FATHER","type":"numeric","start":134,"end":134}
+{"dataset":"DU3edt","name":"H3ED0135","label":"BIRTHPLACE OF MOTHER","type":"numeric","start":135,"end":135}
+{"dataset":"DU3edt","name":"H3ED0136","label":"RACE OF FATHER","type":"numeric","start":136,"end":136}
+{"dataset":"DU3edt","name":"H3ED0137","label":"RACE OF MOTHER","type":"numeric","start":137,"end":137}
+{"dataset":"DU3edt","name":"H3ED0138","label":"ALL OTHER CHILDREN NOW LIVING","type":"numeric","start":138,"end":139}
+{"dataset":"DU3edt","name":"H3ED0140","label":"ALL OTHER CHILDREN BORN ALIVE, NOW DEAD","type":"numeric","start":140,"end":141}
+{"dataset":"DU3edt","name":"H3ED0142","label":"ALL OTHER CHILDREN DEAD(INCLUDES FET ...","type":"numeric","start":142,"end":143}
+{"dataset":"DU3edt","name":"H3ED0144","label":"ATTENDANT AT BIRTH","type":"numeric","start":144,"end":144}
+{"dataset":"DU3edt","name":"H3ED0145","label":"LENGTH OF PREGNANCY (IN WEEKS)","type":"numeric","start":145,"end":146}
+{"dataset":"DU3edt","name":"H3ED0147","label":"WEIGHT AT BIRTH (IN POUNDS & OUNCES)","type":"numeric","start":147,"end":150}
+{"dataset":"DU3edt","name":"H3ED0151","label":"NUMBER AT BIRTH (IF NOT INDICATED, 1 ...","type":"numeric","start":151,"end":151}
+{"dataset":"DU3edt","name":"H3ED0152","label":"BIRTH ORDER-MULTIPLE BIRTHS","type":"numeric","start":152,"end":152}
+{"dataset":"DU3edt","name":"H3ED0153","label":"LEGITIMACY","type":"numeric","start":153,"end":153}
+{"dataset":"DU3edt","name":"H3ED0154","label":"CONGENITAL MALFORMATION","type":"numeric","start":154,"end":154}
+{"dataset":"DU3edt","name":"H3ED0155","label":"COMPLICATIONS OF PREGNANCY OR LABOR","type":"numeric","start":155,"end":155}
+{"dataset":"DU3edt","name":"H3ED0156","label":"BIRTH INJURY","type":"numeric","start":156,"end":156}
+{"dataset":"DU3edt","name":"H3ED0157","label":"PROPHYLACTIC DRUG USED IN EYES","type":"numeric","start":157,"end":157}
+{"dataset":"DU3edt","name":"H3ED0158","label":"INDUCTION ATTEMPTED (LABOR INDUCED)","type":"numeric","start":158,"end":158}
+{"dataset":"DU3edt","name":"H3ED0159","label":"WORK AREA","type":"character","start":159,"end":168}
+{"dataset":"DU3edt","name":"H3ED0169","label":"MEDICAL HISTORY OF YOUTH FROM PARENT ...","type":"numeric","start":169,"end":169}
+{"dataset":"DU3edt","name":"H3ED0170","label":"BORN IN A HOSPITAL","type":"numeric","start":170,"end":170}
+{"dataset":"DU3edt","name":"H3ED0171","label":"PROBLEMS DURING PREGNANCY OR DELIVERY","type":"numeric","start":171,"end":171}
+{"dataset":"DU3edt","name":"H3ED0172","label":"ANYTHING WRONG WITH BABY AT BIRTH","type":"numeric","start":172,"end":172}
+{"dataset":"DU3edt","name":"H3ED0173","label":"DIFFICULTY WITH CHILD BEFORE AGE 1 YEAR","type":"numeric","start":173,"end":173}
+{"dataset":"DU3edt","name":"H3ED0174","label":"DOCTOR CONSULTED ABOUT DIFFICULTY","type":"numeric","start":174,"end":174}
+{"dataset":"DU3edt","name":"H3ED0175","label":"SERIOUS HEALTH PROBLEM SINCE 1 YEAR  ...","type":"numeric","start":175,"end":175}
+{"dataset":"DU3edt","name":"H3ED0176","label":"HEATH PROBLEM(S) OF YOUTH THAT WORRI ...","type":"numeric","start":176,"end":176}
+{"dataset":"DU3edt","name":"H3ED0177","label":"YOUTH'S PRESENT HEALTH EVALUATION","type":"numeric","start":177,"end":177}
+{"dataset":"DU3edt","name":"H3ED0178","label":"MEDICINE USED REGULARLY","type":"numeric","start":178,"end":178}
+{"dataset":"DU3edt","name":"H3ED0179","label":"NAME OF MEDICINE GIVEN","type":"numeric","start":179,"end":179}
+{"dataset":"DU3edt","name":"H3ED0180","label":"REASON USING MEDICINE","type":"numeric","start":180,"end":180}
+{"dataset":"DU3edt","name":"H3ED0181","label":"IS MEDICINE TAKEN UNDER DOCTOR'S ORDERS","type":"numeric","start":181,"end":181}
+{"dataset":"DU3edt","name":"H3ED0182","label":"ANY BONES EVER BROKEN","type":"numeric","start":182,"end":182}
+{"dataset":"DU3edt","name":"H3ED0183","label":"EVER ANY SERIOUS ACCIDENTS OR INJURIES","type":"numeric","start":183,"end":183}
+{"dataset":"DU3edt","name":"H3ED0184","label":"HOW MANY SERIOUS ACCIDENTS OR INJURIES","type":"numeric","start":184,"end":184}
+{"dataset":"DU3edt","name":"H3ED0185","label":"WAS YOUTH HOSPITALIZED FOR ACCIDENT  ...","type":"numeric","start":185,"end":185}
+{"dataset":"DU3edt","name":"H3ED0186","label":"EVER BEEN UNCONSCIOUS","type":"numeric","start":186,"end":186}
+{"dataset":"DU3edt","name":"H3ED0187","label":"HOW LONG WAS UNCONSCIOUS","type":"numeric","start":187,"end":187}
+{"dataset":"DU3edt","name":"H3ED0188","label":"OPERATION","type":"numeric","start":188,"end":189}
+{"dataset":"DU3edt","name":"H3ED0190","label":"HOSPITALIZED OVERNIGHT OR LONGER","type":"numeric","start":190,"end":190}
+{"dataset":"DU3edt","name":"H3ED0191","label":"LONGEST TIME EVER SPENT IN HOSPITAL","type":"numeric","start":191,"end":191}
+{"dataset":"DU3edt","name":"H3ED0192","label":"HOW OLD WHEN IN HOSPITAL LONGEST TIME","type":"numeric","start":192,"end":193}
+{"dataset":"DU3edt","name":"H3ED0194","label":"DID AN ADULT MEMBER OF FAMILY SPEND  ...","type":"numeric","start":194,"end":194}
+{"dataset":"DU3edt","name":"H3ED0195","label":"HISTORY OF DISEASES A. MEASLES","type":"numeric","start":195,"end":195}
+{"dataset":"DU3edt","name":"H3ED0196","label":"B. MUMPS","type":"numeric","start":196,"end":196}
+{"dataset":"DU3edt","name":"H3ED0197","label":"C. CHICKENPOX","type":"numeric","start":197,"end":197}
+{"dataset":"DU3edt","name":"H3ED0198","label":"D. WHOOPING COUGH","type":"numeric","start":198,"end":198}
+{"dataset":"DU3edt","name":"H3ED0199","label":"E. SCARLET FEVER","type":"numeric","start":199,"end":199}
+{"dataset":"DU3edt","name":"H3ED0200","label":"F. ASTHMA","type":"numeric","start":200,"end":200}
+{"dataset":"DU3edt","name":"H3ED0201","label":"G. HAY FEVER","type":"numeric","start":201,"end":201}
+{"dataset":"DU3edt","name":"H3ED0202","label":"H. OTHER ALLERGIES","type":"numeric","start":202,"end":202}
+{"dataset":"DU3edt","name":"H3ED0203","label":"I. KIDNEY TROUBLE","type":"numeric","start":203,"end":203}
+{"dataset":"DU3edt","name":"H3ED0204","label":"J. HEART MURMUR OR ANYTHING ELSE WRO ...","type":"numeric","start":204,"end":204}
+{"dataset":"DU3edt","name":"H3ED0205","label":"K. FIT, CONVULSION, OR SEIZURE","type":"numeric","start":205,"end":205}
+{"dataset":"DU3edt","name":"H3ED0206","label":"L. PNEUMONIA","type":"numeric","start":206,"end":206}
+{"dataset":"DU3edt","name":"H3ED0207","label":"M. DIABETES OR SUGAR DIABETES","type":"numeric","start":207,"end":207}
+{"dataset":"DU3edt","name":"H3ED0208","label":"N. RHEUMATIC FEVER","type":"numeric","start":208,"end":208}
+{"dataset":"DU3edt","name":"H3ED0209","label":"O. POLIO (INFANTILE PARALYSIS)","type":"numeric","start":209,"end":209}
+{"dataset":"DU3edt","name":"H3ED0210","label":"P. EPILEPSY","type":"numeric","start":210,"end":210}
+{"dataset":"DU3edt","name":"H3ED0211","label":"Q. CHOREA OR ST. VITUS DANCE","type":"numeric","start":211,"end":211}
+{"dataset":"DU3edt","name":"H3ED0212","label":"R. DIPHTHERIA","type":"numeric","start":212,"end":212}
+{"dataset":"DU3edt","name":"H3ED0213","label":"S. TUBERCULOSIS (T.B.)","type":"numeric","start":213,"end":213}
+{"dataset":"DU3edt","name":"H3ED0214","label":"T. CEREBRAL PALSY","type":"numeric","start":214,"end":214}
+{"dataset":"DU3edt","name":"H3ED0215","label":"U. MENINGITIS OR SLEEPING SICKNESS","type":"numeric","start":215,"end":215}
+{"dataset":"DU3edt","name":"H3ED0216","label":"MOST SERIOUS ILLNESS OR DISEASE (I.C ...","type":"character","start":216,"end":219}
+{"dataset":"DU3edt","name":"H3ED0220","label":"AGE WHEN ILLNESS STARTED","type":"numeric","start":220,"end":221}
+{"dataset":"DU3edt","name":"H3ED0222","label":"SERIOUSNESS OF ABOUVE ILLNESS OR DISEASE","type":"numeric","start":222,"end":222}
+{"dataset":"DU3edt","name":"H3ED0223","label":"ANY LASTING EFFECTS FROM ABOVE ILLNE ...","type":"numeric","start":223,"end":223}
+{"dataset":"DU3edt","name":"H3ED0224","label":"BED WETTING PAST YEAR","type":"numeric","start":224,"end":224}
+{"dataset":"DU3edt","name":"H3ED0225","label":"DOES YOUTH WEAR GLASSES OR CONTACT L ...","type":"numeric","start":225,"end":225}
+{"dataset":"DU3edt","name":"H3ED0226","label":"IF NO: DO YOUTH NEED GLASSES","type":"numeric","start":226,"end":226}
+{"dataset":"DU3edt","name":"H3ED0227","label":"YOUTH EVER HAD EYE TROUBLES","type":"numeric","start":227,"end":227}
+{"dataset":"DU3edt","name":"H3ED0228","label":"ANY EYE OPERATIONS","type":"numeric","start":228,"end":228}
+{"dataset":"DU3edt","name":"H3ED0229","label":"ANY INJURY TO EARS","type":"numeric","start":229,"end":229}
+{"dataset":"DU3edt","name":"H3ED0230","label":"EAR DRUMS OPENED OR LANCED","type":"numeric","start":230,"end":230}
+{"dataset":"DU3edt","name":"H3ED0231","label":"HOW MANY TIMES EAR DRUMS OPENED OR L ...","type":"numeric","start":231,"end":231}
+{"dataset":"DU3edt","name":"H3ED0232","label":"WHICH EAR DRUM OPENED OR LANCED","type":"numeric","start":232,"end":232}
+{"dataset":"DU3edt","name":"H3ED0233","label":"ANY OTHER EAR OPERATIONS","type":"numeric","start":233,"end":233}
+{"dataset":"DU3edt","name":"H3ED0234","label":"IF YES: WHICH EAR","type":"numeric","start":234,"end":234}
+{"dataset":"DU3edt","name":"H3ED0235","label":"EAR HAVE RUNNING EAR OR DISCHARGE FR ...","type":"numeric","start":235,"end":235}
+{"dataset":"DU3edt","name":"H3ED0236","label":"IF YES: HOW OFTEN","type":"numeric","start":236,"end":236}
+{"dataset":"DU3edt","name":"H3ED0237","label":"IF YES: WHICH EAR","type":"numeric","start":237,"end":237}
+{"dataset":"DU3edt","name":"H3ED0238","label":"EARACHE IN PAST YEAR","type":"numeric","start":238,"end":238}
+{"dataset":"DU3edt","name":"H3ED0239","label":"ANY DIFFICULTY HEARING","type":"numeric","start":239,"end":239}
+{"dataset":"DU3edt","name":"H3ED0240","label":"ANY OTHER EAR TROUBLE","type":"numeric","start":240,"end":240}
+{"dataset":"DU3edt","name":"H3ED0241","label":"ANY SPEECH DEFECTS (STUTTERING, STAM ...","type":"numeric","start":241,"end":241}
+{"dataset":"DU3edt","name":"H3ED0242","label":"LIMP OR OTHER TROUBLE WALKING","type":"numeric","start":242,"end":242}
+{"dataset":"DU3edt","name":"H3ED0243","label":"ANYTHING PREVENTS COMPLETE USE OF LEGS","type":"numeric","start":243,"end":243}
+{"dataset":"DU3edt","name":"H3ED0244","label":"ANYTHING PREVENTS COMPLETE USE OF ARMS","type":"numeric","start":244,"end":244}
+{"dataset":"DU3edt","name":"H3ED0245","label":"EXERCISE OR PLAYING NOW RESTRICTED","type":"numeric","start":245,"end":245}
+{"dataset":"DU3edt","name":"H3ED0246","label":"IF YES: DID DOCTOR ADVISE THIS","type":"numeric","start":246,"end":246}
+{"dataset":"DU3edt","name":"H3ED0247","label":"EXERCISE OR PLAYING EVER RESTRICTED","type":"numeric","start":247,"end":247}
+{"dataset":"DU3edt","name":"H3ED0248","label":"EVER HAD TEETH STRAIGHTENED OR BANDS ...","type":"numeric","start":248,"end":248}
+{"dataset":"DU3edt","name":"H3ED0249","label":"IF NO: DOES PARENT THINK THEY NEED S ...","type":"numeric","start":249,"end":249}
+{"dataset":"DU3edt","name":"H3ED0250","label":"DOES DENTIST THINK THEY NEED STRAIGH ...","type":"numeric","start":250,"end":250}
+{"dataset":"DU3edt","name":"H3ED0251","label":"OVER-UNDER WEIGHT AT PRESENT","type":"numeric","start":251,"end":251}
+{"dataset":"DU3edt","name":"H3ED0252","label":"RATE OF PHYSICAL GROWTH","type":"numeric","start":252,"end":252}
+{"dataset":"DU3edt","name":"H3ED0253","label":"RATE OF MENTAL DEVELOPMENT","type":"numeric","start":253,"end":253}
+{"dataset":"DU3edt","name":"H3ED0254","label":"HOW OFTEN STAYED OVERNIGHT WITH FRIENDS","type":"numeric","start":254,"end":254}
+{"dataset":"DU3edt","name":"H3ED0255","label":"DID YOUTH ATTEND NURSERY SCHOOL","type":"numeric","start":255,"end":255}
+{"dataset":"DU3edt","name":"H3ED0256","label":"DID YOUTH ATTEND KINDERGARTEN","type":"numeric","start":256,"end":256}
+{"dataset":"DU3edt","name":"H3ED0257","label":"WAS KINDERGARTEN ATTENDANCE COMPULSO ...","type":"numeric","start":257,"end":257}
+{"dataset":"DU3edt","name":"H3ED0258","label":"AGE STARTED FIRST GRADE","type":"numeric","start":258,"end":258}
+{"dataset":"DU3edt","name":"H3ED0259","label":"FIRST REACTION TO SCHOOL AT FIRST GRADE","type":"numeric","start":259,"end":259}
+{"dataset":"DU3edt","name":"H3ED0260","label":"EASE IN MAKING FRIENDS (AT PRESENT)","type":"numeric","start":260,"end":260}
+{"dataset":"DU3edt","name":"H3ED0261","label":"HOW MANY FRIENDS PARENT KNOWS WELL","type":"numeric","start":261,"end":261}
+{"dataset":"DU3edt","name":"H3ED0262","label":"HOW MUCH TROUBLE TO BRING UP","type":"numeric","start":262,"end":262}
+{"dataset":"DU3edt","name":"H3ED0263","label":"HOW NERVOUS (TENSE, HIGH-STRUNG)","type":"numeric","start":263,"end":263}
+{"dataset":"DU3edt","name":"H3ED0264","label":"HAS YOUTH EVER BEEN TO A MENTAL HOSP ...","type":"numeric","start":264,"end":264}
+{"dataset":"DU3edt","name":"H3ED0265","label":"HAS YOUTH EVER SEEN A PSYCHIATRIST,  ...","type":"numeric","start":265,"end":265}
+{"dataset":"DU3edt","name":"H3ED0266","label":"AMOUNT EATEN BY YOUTH","type":"numeric","start":266,"end":266}
+{"dataset":"DU3edt","name":"H3ED0267","label":"HOW FUSSY AN EATER IS YOUTH","type":"numeric","start":267,"end":267}
+{"dataset":"DU3edt","name":"H3ED0268","label":"HOW MANY MEALS YOUTH EATS WITH ADULT ...","type":"numeric","start":268,"end":268}
+{"dataset":"DU3edt","name":"H3ED0269","label":"WHO MAKES MOST OF THE DECISIONS ON:  ...","type":"character","start":269,"end":269}
+{"dataset":"DU3edt","name":"H3ED0270","label":"B. HOW TO SPEND HIS MONEY","type":"character","start":270,"end":270}
+{"dataset":"DU3edt","name":"H3ED0271","label":"C. WHICH FRIENDS TO GO OUT WITH","type":"character","start":271,"end":271}
+{"dataset":"DU3edt","name":"H3ED0272","label":"D. HOW LATE TO STAY OUT","type":"character","start":272,"end":272}
+{"dataset":"DU3edt","name":"H3ED0273","label":"DOES YOUTH GET AN ALLOWANCE","type":"numeric","start":273,"end":273}
+{"dataset":"DU3edt","name":"H3ED0274","label":"IF YES: WHO DECIDES","type":"numeric","start":274,"end":274}
+{"dataset":"DU3edt","name":"H3ED0275","label":"IF NO: DOES YOUTH EARN MONEY FORM WORK","type":"numeric","start":275,"end":275}
+{"dataset":"DU3edt","name":"H3ED0276","label":"PARENTS DESIRES ON YOUTH'S SCHOOLING","type":"numeric","start":276,"end":276}
+{"dataset":"DU3edt","name":"H3ED0277","label":"WHAT PARENT THINKS WILL HAPPEN REGAR ...","type":"numeric","start":277,"end":277}
+{"dataset":"DU3edt","name":"H3ED0278","label":"IMPORTANCE OF CERTAIN QUALITIES AND  ...","type":"numeric","start":278,"end":278}
+{"dataset":"DU3edt","name":"H3ED0279","label":"B. TO BE ABLE TO DEFEND ONESELF","type":"numeric","start":279,"end":279}
+{"dataset":"DU3edt","name":"H3ED0280","label":"C. TO HAVE SELF CONTROL","type":"numeric","start":280,"end":280}
+{"dataset":"DU3edt","name":"H3ED0281","label":"D. TO BE HAPPY","type":"numeric","start":281,"end":281}
+{"dataset":"DU3edt","name":"H3ED0282","label":"E. TO OBEY ONE'S PARENTS","type":"numeric","start":282,"end":282}
+{"dataset":"DU3edt","name":"H3ED0283","label":"F. TO BE DEPENDABLE","type":"numeric","start":283,"end":283}
+{"dataset":"DU3edt","name":"H3ED0284","label":"G. TO BE CONSIDERATE OF OTHERS","type":"numeric","start":284,"end":284}
+{"dataset":"DU3edt","name":"H3ED0285","label":"H. TO FACE LIFE'S PROBLEMS CALMLY","type":"numeric","start":285,"end":285}
+{"dataset":"DU3edt","name":"H3ED0286","label":"I. TO OBEY THE LAW","type":"numeric","start":286,"end":286}
+{"dataset":"DU3edt","name":"H3ED0287","label":"J. TO BE AMBITIOUS","type":"numeric","start":287,"end":287}
+{"dataset":"DU3edt","name":"H3ED0288","label":"K. TO KNOW HOW TO KEEP IN GOOD HEALTH","type":"numeric","start":288,"end":288}
+{"dataset":"DU3edt","name":"H3ED0289","label":"IF YOUTH HAD ANY OF FOLLOWING CONDIT ...","type":"numeric","start":289,"end":289}
+{"dataset":"DU3edt","name":"H3ED0290","label":"B. SORE THROAT","type":"numeric","start":290,"end":290}
+{"dataset":"DU3edt","name":"H3ED0291","label":"C. HURT ALL OVER","type":"numeric","start":291,"end":291}
+{"dataset":"DU3edt","name":"H3ED0292","label":"D. STIFF NECK OR BACK","type":"numeric","start":292,"end":292}
+{"dataset":"DU3edt","name":"H3ED0293","label":"E. HEADACHE","type":"numeric","start":293,"end":293}
+{"dataset":"DU3edt","name":"H3ED0294","label":"F. VOMIT","type":"numeric","start":294,"end":294}
+{"dataset":"DU3edt","name":"H3ED0295","label":"G. LOSS OF APPETITE","type":"numeric","start":295,"end":295}
+{"dataset":"DU3edt","name":"H3ED0296","label":"H. OVERTIREDNESS","type":"numeric","start":296,"end":296}
+{"dataset":"DU3edt","name":"H3ED0297","label":"I. CHEST PAIN","type":"numeric","start":297,"end":297}
+{"dataset":"DU3edt","name":"H3ED0298","label":"J. LUMP IN STOMACH OR ABDOMEN","type":"numeric","start":298,"end":298}
+{"dataset":"DU3edt","name":"H3ED0299","label":"K. BLOOD IN URINE OR BOWEL MOVEMENT","type":"numeric","start":299,"end":299}
+{"dataset":"DU3edt","name":"H3ED0300","label":"L. NERVOUSNESS","type":"numeric","start":300,"end":300}
+{"dataset":"DU3edt","name":"H3ED0301","label":"HOW OFTEN DOES YOUTH EXAGGERATE WHEN ILL","type":"numeric","start":301,"end":301}
+{"dataset":"DU3edt","name":"H3ED0302","label":"HOW OFTEN PARENT THINKS IT'S  ALL RI ...","type":"numeric","start":302,"end":302}
+{"dataset":"DU3edt","name":"H3ED0303","label":"LAST TIME YOUTH SAW A DOCTOR FOR A C ...","type":"numeric","start":303,"end":303}
+{"dataset":"DU3edt","name":"H3ED0304","label":"LAST TIME YOUTH SEEN BY A DOCTOR FOR ...","type":"numeric","start":304,"end":304}
+{"dataset":"DU3edt","name":"H3ED0305","label":"LAST TIME YOUTH SAW A DENTIST FOR A  ...","type":"numeric","start":305,"end":305}
+{"dataset":"DU3edt","name":"H3ED0306","label":"LAST TIME YOUTH SAW A DENTIST FOR TR ...","type":"numeric","start":306,"end":306}
+{"dataset":"DU3edt","name":"H3ED0307","label":"GIRLS ONLY-MONTHLY PERIODS STARTED YET","type":"numeric","start":307,"end":307}
+{"dataset":"DU3edt","name":"H3ED0308","label":"IF YES, WAS GIRL TOLD ABOUT PERIODS  ...","type":"numeric","start":308,"end":308}
+{"dataset":"DU3edt","name":"H3ED0309","label":"AGE WHEN PERIODS STARTED","type":"numeric","start":309,"end":312}
+{"dataset":"DU3edt","name":"H3ED0313","label":"PAIN OR DISCOMFORT FROM PERIODS","type":"numeric","start":313,"end":313}
+{"dataset":"DU3edt","name":"H3ED0314","label":"HOW OFTEN WHEN PAINFUL","type":"numeric","start":314,"end":314}
+{"dataset":"DU3edt","name":"H3ED0315","label":"HOW SEVERE IS PAIN OR DISCOMFORT WHE ...","type":"numeric","start":315,"end":315}
+{"dataset":"DU3edt","name":"H3ED0316","label":"REMEDY USED TO EASE PAIN","type":"numeric","start":316,"end":317}
+{"dataset":"DU3edt","name":"H3ED0318","label":"HAS GIRL TALKED TO A DOCTOR ABOUT PA ...","type":"numeric","start":318,"end":318}
+{"dataset":"DU3edt","name":"H3ED0319","label":"YOUTH'S MEDICAL HISTORY FORM COMPLET ...","type":"numeric","start":319,"end":319}
+{"dataset":"DU3edt","name":"H3ED0320","label":"WORK AREA","type":"character","start":320,"end":329}
+{"dataset":"DU3edt","name":"H3ED0330","label":"SCHOOL QUESTIONNAIRE","type":"numeric","start":330,"end":330}
+{"dataset":"DU3edt","name":"H3ED0331","label":"PRESENT GRADE PLACEMENT OF YOUTH AS  ...","type":"numeric","start":331,"end":332}
+{"dataset":"DU3edt","name":"H3ED0333","label":"GRADE QUALIFICATION","type":"numeric","start":333,"end":333}
+{"dataset":"DU3edt","name":"H3ED0334","label":"ANY GRADES SKIPPED OR DOUBLE PROMOTI ...","type":"numeric","start":334,"end":334}
+{"dataset":"DU3edt","name":"H3ED0335","label":"ANY GRADES REPEATED","type":"numeric","start":335,"end":335}
+{"dataset":"DU3edt","name":"H3ED0336","label":"MAIN REASON GRADE REPEATED","type":"numeric","start":336,"end":336}
+{"dataset":"DU3edt","name":"H3ED0337","label":"ABSENT FROM SCHOOL AN UNUSUAL NUMBER ...","type":"numeric","start":337,"end":337}
+{"dataset":"DU3edt","name":"H3ED0338","label":"MAIN REASON FOR SUCH ABSENCES","type":"numeric","start":338,"end":338}
+{"dataset":"DU3edt","name":"H3ED0339","label":"FREQUENCY DISCIPLINARY ACTION REQUIRED","type":"numeric","start":339,"end":339}
+{"dataset":"DU3edt","name":"H3ED0340","label":"SPECIAL RESOURCES NEEDED OR CURRENTL ...","type":"character","start":340,"end":340}
+{"dataset":"DU3edt","name":"H3ED0341","label":"A. FOR THE GIFTED","type":"numeric","start":341,"end":341}
+{"dataset":"DU3edt","name":"H3ED0342","label":"B. FOR THE MENTALLY RETARDED","type":"numeric","start":342,"end":342}
+{"dataset":"DU3edt","name":"H3ED0343","label":"C. FOR SLOW LEARNERS NOT CLASSIFIED  ...","type":"numeric","start":343,"end":343}
+{"dataset":"DU3edt","name":"H3ED0344","label":"D. FOR EMOTIONALLY DISTURBED","type":"numeric","start":344,"end":344}
+{"dataset":"DU3edt","name":"H3ED0345","label":"E. FOR OTHOPEDICALLY HANDICAPPED","type":"numeric","start":345,"end":345}
+{"dataset":"DU3edt","name":"H3ED0346","label":"F. SPECIAL FACILITIES FOR THE HARD O ...","type":"numeric","start":346,"end":346}
+{"dataset":"DU3edt","name":"H3ED0347","label":"G. SPECIAL FACILITIES FOR THE VISUAL ...","type":"numeric","start":347,"end":347}
+{"dataset":"DU3edt","name":"H3ED0348","label":"H. SPEECH THERAPY","type":"numeric","start":348,"end":348}
+{"dataset":"DU3edt","name":"H3ED0349","label":"I. REMEDIAL READING","type":"numeric","start":349,"end":349}
+{"dataset":"DU3edt","name":"H3ED0350","label":"J. ENGLISH FOR NON-ENGLISH SPEAKING","type":"numeric","start":350,"end":350}
+{"dataset":"DU3edt","name":"H3ED0351","label":"K. REMEDIAL TRAINING IN SPECIAL SUBJ ...","type":"numeric","start":351,"end":351}
+{"dataset":"DU3edt","name":"H3ED0352","label":"L. OTHER RESOURCES NEEDED","type":"numeric","start":352,"end":352}
+{"dataset":"DU3edt","name":"H3ED0353","label":"ADJUSTMENT EVALUATION","type":"numeric","start":353,"end":353}
+{"dataset":"DU3edt","name":"H3ED0354","label":"INTELLECTUAL ABILITY EVALUATION","type":"numeric","start":354,"end":354}
+{"dataset":"DU3edt","name":"H3ED0355","label":"ACADEMIC ACHIEVEMENT EVALUATION","type":"numeric","start":355,"end":355}
+{"dataset":"DU3edt","name":"H3ED0356","label":"POPULARITY WITH OTHER STUDENTS","type":"numeric","start":356,"end":356}
+{"dataset":"DU3edt","name":"H3ED0357","label":"TIME KNOWN","type":"numeric","start":357,"end":357}
+{"dataset":"DU3edt","name":"H3ED0358","label":"OFFICIAL TITTLE OF PERSON COMPLETING ...","type":"numeric","start":358,"end":358}
+{"dataset":"DU3edt","name":"H3ED0359","label":"WORK AREA","type":"character","start":359,"end":369}
+{"dataset":"DU3edt","name":"H3ED0370","label":"HEALTH HABITS AND HISTORY-YOUTH QUES ...","type":"numeric","start":370,"end":370}
+{"dataset":"DU3edt","name":"H3ED0371","label":"PRESENT HEALTH RATING","type":"numeric","start":371,"end":371}
+{"dataset":"DU3edt","name":"H3ED0372","label":"PROBLEM(S) TO TALK OVER WITH DOCTOR","type":"numeric","start":372,"end":372}
+{"dataset":"DU3edt","name":"H3ED0373","label":"USE MEDICINE REGULARLY","type":"numeric","start":373,"end":373}
+{"dataset":"DU3edt","name":"H3ED0374","label":"MEDICINE ORDERED BY DOCTOR","type":"numeric","start":374,"end":374}
+{"dataset":"DU3edt","name":"H3ED0375","label":"EVER BROKEN ANY BONES","type":"numeric","start":375,"end":375}
+{"dataset":"DU3edt","name":"H3ED0376","label":"HOW MANY TIMES EVER BROKEN ANY BONES","type":"numeric","start":376,"end":376}
+{"dataset":"DU3edt","name":"H3ED0377","label":"EVER ANY OTHER INJURIES OR ACCIDENTS","type":"numeric","start":377,"end":377}
+{"dataset":"DU3edt","name":"H3ED0378","label":"EVER KNOCKED UNCONSCIOUS","type":"numeric","start":378,"end":378}
+{"dataset":"DU3edt","name":"H3ED0379","label":"EVER STAYED IN HOSPITAL OVERNIGHT OR ...","type":"numeric","start":379,"end":379}
+{"dataset":"DU3edt","name":"H3ED0380","label":"YOUTH STAYED IN HOSPITAL OVERNIGHT O ...","type":"numeric","start":380,"end":380}
+{"dataset":"DU3edt","name":"H3ED0381","label":"EVER WEAR GLASSES OR CONTACT LENSES  ...","type":"numeric","start":381,"end":381}
+{"dataset":"DU3edt","name":"H3ED0382","label":"IF YES: CAN YOU SEE AS WELL AS MOST  ...","type":"numeric","start":382,"end":382}
+{"dataset":"DU3edt","name":"H3ED0383","label":"IF NOT WEARING GLASSES DO YOU NEED G ...","type":"numeric","start":383,"end":383}
+{"dataset":"DU3edt","name":"H3ED0384","label":"IF WEARING GLASSES DO YOU NEED NEW G ...","type":"numeric","start":384,"end":384}
+{"dataset":"DU3edt","name":"H3ED0385","label":"WHEN WEARS GLASSES","type":"numeric","start":385,"end":385}
+{"dataset":"DU3edt","name":"H3ED0386","label":"IF NOT ALL DAY, WHEN DO YOU WEAR GLASSES","type":"numeric","start":386,"end":387}
+{"dataset":"DU3edt","name":"H3ED0388","label":"ANYTHING WRONG WITH EYES (EXCEPT FOR ...","type":"numeric","start":388,"end":388}
+{"dataset":"DU3edt","name":"H3ED0389","label":"ANY HEARING DIFFICULTY","type":"numeric","start":389,"end":389}
+{"dataset":"DU3edt","name":"H3ED0390","label":"EARS EVER DAMAGED OR  INJURED","type":"numeric","start":390,"end":390}
+{"dataset":"DU3edt","name":"H3ED0391","label":"IF YES: WHICH EAR","type":"numeric","start":391,"end":391}
+{"dataset":"DU3edt","name":"H3ED0392","label":"ANY EARACHES IN THE PAST YEAR","type":"numeric","start":392,"end":392}
+{"dataset":"DU3edt","name":"H3ED0393","label":"ANY OTHER EAR TROUBLE","type":"numeric","start":393,"end":393}
+{"dataset":"DU3edt","name":"H3ED0394","label":"TEETH NEED STRAIGHTENING","type":"numeric","start":394,"end":394}
+{"dataset":"DU3edt","name":"H3ED0395","label":"ANY DIFFICULTY IN TALKING OR SPEAKING","type":"numeric","start":395,"end":395}
+{"dataset":"DU3edt","name":"H3ED0396","label":"ANYTHING WRONG WITH THE WAY YOU WALK","type":"numeric","start":396,"end":396}
+{"dataset":"DU3edt","name":"H3ED0397","label":"ANYTHING THAT PREVENTS COMPLETE USE  ...","type":"numeric","start":397,"end":397}
+{"dataset":"DU3edt","name":"H3ED0398","label":"ANYTHING THAT PREVENTS COMPLETE USE  ...","type":"numeric","start":398,"end":398}
+{"dataset":"DU3edt","name":"H3ED0399","label":"EVER BEEN PREVENTED FOR REASONS OF H ...","type":"numeric","start":399,"end":399}
+{"dataset":"DU3edt","name":"H3ED0400","label":"IF YES: DID DOCTOR ADVISE THIS","type":"numeric","start":400,"end":400}
+{"dataset":"DU3edt","name":"H3ED0401","label":"IF YES: ARE YOU NOW FORBIDDEN TO EXE ...","type":"numeric","start":401,"end":401}
+{"dataset":"DU3edt","name":"H3ED0402","label":"OVERWEIGHT OR UNDERWEIGHT","type":"numeric","start":402,"end":402}
+{"dataset":"DU3edt","name":"H3ED0403","label":"BODY BUILD","type":"numeric","start":403,"end":403}
+{"dataset":"DU3edt","name":"H3ED0404","label":"BODY BUILD PREFERENCE","type":"numeric","start":404,"end":404}
+{"dataset":"DU3edt","name":"H3ED0405","label":"HEIGHT PREFERENCE","type":"numeric","start":405,"end":405}
+{"dataset":"DU3edt","name":"H3ED0406","label":"HAD ANY BACKACHES IN PAST YEAR OR TOW","type":"numeric","start":406,"end":406}
+{"dataset":"DU3edt","name":"H3ED0407","label":"SLEEP ALONE IN OWN ROOM","type":"numeric","start":407,"end":407}
+{"dataset":"DU3edt","name":"H3ED0408","label":"IF NO: WHO ELSE SLEEPS IN ROOM","type":"numeric","start":408,"end":409}
+{"dataset":"DU3edt","name":"H3ED0410","label":"FREQUENCY OF TROUBLE GETTING TO SLEE ...","type":"numeric","start":410,"end":410}
+{"dataset":"DU3edt","name":"H3ED0411","label":"FREQUENCY OF HAVING DREAMS OR NIGHTMARES","type":"numeric","start":411,"end":411}
+{"dataset":"DU3edt","name":"H3ED0412","label":"WALKED IN SLEEP DURING PAST YEAR OR SO","type":"numeric","start":412,"end":412}
+{"dataset":"DU3edt","name":"H3ED0413","label":"DO YOU HAVE ACNE (PIMPLES OR BLACKHEADS)","type":"character","start":413,"end":413}
+{"dataset":"DU3edt","name":"H3ED0414","label":"AGE WHEN ACNE STARTED","type":"numeric","start":414,"end":415}
+{"dataset":"DU3edt","name":"H3ED0416","label":"ANY TREATMENT USED FOR ACNE","type":"numeric","start":416,"end":416}
+{"dataset":"DU3edt","name":"H3ED0417","label":"HAVE YOU SEEN A DOCTOR ABOUT ACNE","type":"numeric","start":417,"end":417}
+{"dataset":"DU3edt","name":"H3ED0418","label":"HOW MUCH DOES YOUR ACNE BOTHER YOU","type":"numeric","start":418,"end":418}
+{"dataset":"DU3edt","name":"H3ED0419","label":"HAVE YOU EVER BEEN AWAY FROM HOME FO ...","type":"numeric","start":419,"end":419}
+{"dataset":"DU3edt","name":"H3ED0420","label":"IF AWAY FROM HOME OVER TWO MONTH, WH ...","type":"numeric","start":420,"end":421}
+{"dataset":"DU3edt","name":"H3ED0422","label":"WHEN FIRST STAYED AWAY OVER TWO MONTHS","type":"numeric","start":422,"end":423}
+{"dataset":"DU3edt","name":"H3ED0424","label":"ARE YOU GOING TO SCHOOL","type":"numeric","start":424,"end":424}
+{"dataset":"DU3edt","name":"H3ED0425","label":"IF YES: HOW HOURS WORK DURING SCHOOL ...","type":"numeric","start":425,"end":425}
+{"dataset":"DU3edt","name":"H3ED0426","label":"IF NO: DO YOU HAVE A JOB","type":"numeric","start":426,"end":426}
+{"dataset":"DU3edt","name":"H3ED0427","label":"KIND OF WORK (FOR THOSE GOING TO SCH ...","type":"numeric","start":427,"end":427}
+{"dataset":"DU3edt","name":"H3ED0428","label":"PAID FOR WORK (GOING OT SCHOOL AND W ...","type":"numeric","start":428,"end":428}
+{"dataset":"DU3edt","name":"H3ED0429","label":"WORK DURING VACATION (GOING TO SCHOOL)","type":"numeric","start":429,"end":429}
+{"dataset":"DU3edt","name":"H3ED0430","label":"GET AN ALLOWANCE FROM FAMILY","type":"numeric","start":430,"end":430}
+{"dataset":"DU3edt","name":"H3ED0431","label":"IF YES: WHO DECIDES AMOUNT","type":"numeric","start":431,"end":431}
+{"dataset":"DU3edt","name":"H3ED0432","label":"IF GETTING AN ALLOWANCE, WHO SHOULD  ...","type":"numeric","start":432,"end":432}
+{"dataset":"DU3edt","name":"H3ED0433","label":"ARE DUTIES OR CHORES PERFORMED ALLOWANCE","type":"numeric","start":433,"end":433}
+{"dataset":"DU3edt","name":"H3ED0434","label":"IS ALLOWANCE EVER WITHHELD AS PUNISHMENT","type":"numeric","start":434,"end":434}
+{"dataset":"DU3edt","name":"H3ED0435","label":"AMOUNT EATEN","type":"numeric","start":435,"end":435}
+{"dataset":"DU3edt","name":"H3ED0436","label":"LAST TIME SAW DOCTOR FOR A CHECK-UP","type":"numeric","start":436,"end":436}
+{"dataset":"DU3edt","name":"H3ED0437","label":"LAST TIME SAW DOCTOR FOR TREATMENT","type":"numeric","start":437,"end":437}
+{"dataset":"DU3edt","name":"H3ED0438","label":"LAST TIME SAW DENTIST FOR A CHECK-UP","type":"numeric","start":438,"end":438}
+{"dataset":"DU3edt","name":"H3ED0439","label":"LAST TIME SAW DENTIST FOR TREATMENT","type":"numeric","start":439,"end":439}
+{"dataset":"DU3edt","name":"H3ED0440","label":"NUMBER OF HOURS PER DAY USUALLY SPEN ...","type":"numeric","start":440,"end":440}
+{"dataset":"DU3edt","name":"H3ED0441","label":"B. LISTENING TO RADIO","type":"numeric","start":441,"end":441}
+{"dataset":"DU3edt","name":"H3ED0442","label":"C. READING NEWSPAPERS, COMICS, MAGAZINES","type":"numeric","start":442,"end":442}
+{"dataset":"DU3edt","name":"H3ED0443","label":"D. READING BOOKS (EXCEPT COMIC BOOKS)","type":"numeric","start":443,"end":443}
+{"dataset":"DU3edt","name":"H3ED0444","label":"WORK AREA","type":"character","start":444,"end":453}
+{"dataset":"DU3edt","name":"H3ED0454","label":"HEALTH BEHAVIOR-YOUTH QUESTIONNAIRE","type":"numeric","start":454,"end":454}
+{"dataset":"DU3edt","name":"H3ED0455","label":"DOCUMENT COMPLETED BY","type":"character","start":455,"end":455}
+{"dataset":"DU3edt","name":"H3ED0456","label":"LIKE TO DO ABOUT SCHOOL","type":"numeric","start":456,"end":456}
+{"dataset":"DU3edt","name":"H3ED0457","label":"WHAT YOUTH THINKS WILL HAPPEN ABOUT  ...","type":"numeric","start":457,"end":457}
+{"dataset":"DU3edt","name":"H3ED0458","label":"EVER HAD TEETH STRAIGHTENED OR BANDS ...","type":"numeric","start":458,"end":458}
+{"dataset":"DU3edt","name":"H3ED0459","label":"IF YES: AGE AT FIRST DATE","type":"numeric","start":459,"end":460}
+{"dataset":"DU3edt","name":"H3ED0461","label":"WHO MAKES DECISIONS ON FOLLOWING: A. ...","type":"numeric","start":461,"end":461}
+{"dataset":"DU3edt","name":"H3ED0462","label":"B. HOW TO SPEND YOUR MONEY","type":"numeric","start":462,"end":462}
+{"dataset":"DU3edt","name":"H3ED0463","label":"C. WHICH FRIENDS YOU GO OUT WITH","type":"numeric","start":463,"end":463}
+{"dataset":"DU3edt","name":"H3ED0464","label":"D. HOW LATE YOU CAN STAY OUT","type":"numeric","start":464,"end":464}
+{"dataset":"DU3edt","name":"H3ED0465","label":"NUMBER OF TIMES RUN AWAY FROM HOME","type":"numeric","start":465,"end":465}
+{"dataset":"DU3edt","name":"H3ED0466","label":"AGE WHEN RAN AWAY FROM HOME","type":"numeric","start":466,"end":467}
+{"dataset":"DU3edt","name":"H3ED0468","label":"NUMBER OF TIMES IN CONTACT WITH POLI ...","type":"numeric","start":468,"end":468}
+{"dataset":"DU3edt","name":"H3ED0469","label":"ARRESTED IF CONTACTED","type":"numeric","start":469,"end":469}
+{"dataset":"DU3edt","name":"H3ED0470","label":"PUNISHED AS A RESULT OF POLICE CONTACT","type":"numeric","start":470,"end":470}
+{"dataset":"DU3edt","name":"H3ED0471","label":"AGE FIRST SMOKED","type":"numeric","start":471,"end":472}
+{"dataset":"DU3edt","name":"H3ED0473","label":"AGE STARTED SMOKING REGULARLY","type":"numeric","start":473,"end":474}
+{"dataset":"DU3edt","name":"H3ED0475","label":"NUMBER OF CIGARETTES SMOKED PER DAY","type":"numeric","start":475,"end":475}
+{"dataset":"DU3edt","name":"H3ED0476","label":"HOUR USUALLY GOES TO BED BEFORE SCHO ...","type":"numeric","start":476,"end":479}
+{"dataset":"DU3edt","name":"H3ED0480","label":"TIME USUALLY GOES TO BED (WRITTEN IN ...","type":"numeric","start":480,"end":483}
+{"dataset":"DU3edt","name":"H3ED0484","label":"EVER FEEL TENSE, NERVOUS, OR FIDGETY","type":"numeric","start":484,"end":484}
+{"dataset":"DU3edt","name":"H3ED0485","label":"IMPORTANCE FOR YOUNG PERSON TO HAVE  ...","type":"numeric","start":485,"end":485}
+{"dataset":"DU3edt","name":"H3ED0486","label":"B. TO BE ABLE TO DEFEND ONESELF","type":"numeric","start":486,"end":486}
+{"dataset":"DU3edt","name":"H3ED0487","label":"C. TO HAVE SELF CONTROL","type":"numeric","start":487,"end":487}
+{"dataset":"DU3edt","name":"H3ED0488","label":"D. TO BE HAPPY","type":"numeric","start":488,"end":488}
+{"dataset":"DU3edt","name":"H3ED0489","label":"E. TO OBEY ONE'S PARENTS","type":"numeric","start":489,"end":489}
+{"dataset":"DU3edt","name":"H3ED0490","label":"F. TO BE DEPENDABLE","type":"numeric","start":490,"end":490}
+{"dataset":"DU3edt","name":"H3ED0491","label":"G. TO BE CONSIDERATE OF OTHERS","type":"numeric","start":491,"end":491}
+{"dataset":"DU3edt","name":"H3ED0492","label":"H. TO FACE LIFE'S PROBLEMS CALMLY","type":"numeric","start":492,"end":492}
+{"dataset":"DU3edt","name":"H3ED0493","label":"I. TO OBEY THE LAW","type":"numeric","start":493,"end":493}
+{"dataset":"DU3edt","name":"H3ED0494","label":"J. TO BE AMBITIOUS","type":"numeric","start":494,"end":494}
+{"dataset":"DU3edt","name":"H3ED0495","label":"K. TO KNOW HOW TO KEEP IN GOOD HEALTH","type":"numeric","start":495,"end":495}
+{"dataset":"DU3edt","name":"H3ED0496","label":"WANT TO SEE A DOCTOR IF HAD ANY OF F ...","type":"numeric","start":496,"end":496}
+{"dataset":"DU3edt","name":"H3ED0497","label":"B. SORE THROAT","type":"numeric","start":497,"end":497}
+{"dataset":"DU3edt","name":"H3ED0498","label":"C. HURT ALL OVER","type":"numeric","start":498,"end":498}
+{"dataset":"DU3edt","name":"H3ED0499","label":"D. STIFF NECK OR BACK","type":"numeric","start":499,"end":499}
+{"dataset":"DU3edt","name":"H3ED0500","label":"E. HEADACHE","type":"numeric","start":500,"end":500}
+{"dataset":"DU3edt","name":"H3ED0501","label":"F. VOMIT","type":"numeric","start":501,"end":501}
+{"dataset":"DU3edt","name":"H3ED0502","label":"G. LOSS OF APPETITE","type":"numeric","start":502,"end":502}
+{"dataset":"DU3edt","name":"H3ED0503","label":"H. OVERTIREDNESS","type":"numeric","start":503,"end":503}
+{"dataset":"DU3edt","name":"H3ED0504","label":"I. PAIN IN CHEST","type":"numeric","start":504,"end":504}
+{"dataset":"DU3edt","name":"H3ED0505","label":"J. LUMP IN STOMACH OR ABDOMEN","type":"numeric","start":505,"end":505}
+{"dataset":"DU3edt","name":"H3ED0506","label":"K. BLOOD IN URINE OR BOWEL MOVEMENT","type":"numeric","start":506,"end":506}
+{"dataset":"DU3edt","name":"H3ED0507","label":"L. NERVOUSNESS","type":"numeric","start":507,"end":507}
+{"dataset":"DU3edt","name":"H3ED0508","label":"WANT TO SEE A DENTIST IF HAD ANY OF  ...","type":"numeric","start":508,"end":508}
+{"dataset":"DU3edt","name":"H3ED0509","label":"B. SORE GUMS","type":"numeric","start":509,"end":509}
+{"dataset":"DU3edt","name":"H3ED0510","label":"C. BAD BREATH","type":"numeric","start":510,"end":510}
+{"dataset":"DU3edt","name":"H3ED0511","label":"D. A TOOTHACHE","type":"numeric","start":511,"end":511}
+{"dataset":"DU3edt","name":"H3ED0512","label":"E. SORES IN THE MOUTH","type":"numeric","start":512,"end":512}
+{"dataset":"DU3edt","name":"H3ED0513","label":"F. STRAINS ON TEETH THAT WOULDN'T BR ...","type":"numeric","start":513,"end":513}
+{"dataset":"DU3edt","name":"H3ED0514","label":"G. HOLE OR CAVITY IN A TOOTH EVEN IF ...","type":"numeric","start":514,"end":514}
+{"dataset":"DU3edt","name":"H3ED0515","label":"WORK AREA","type":"character","start":515,"end":524}
+{"dataset":"DU3edt","name":"H3ED0525","label":"PSYCHOLOGICAL TEST DATA- WISC (WECHS ...","type":"numeric","start":525,"end":526}
+{"dataset":"DU3edt","name":"H3ED0527","label":"BLOCK DESIGN TEST-RAW SCORE","type":"numeric","start":527,"end":528}
+{"dataset":"DU3edt","name":"H3ED0529","label":"VOCABULARY AND BLOCK DESIGN TEST QUA ...","type":"numeric","start":529,"end":529}
+{"dataset":"DU3edt","name":"H3ED0530","label":"WRAT (WIDE RANGE ACHIEVEMENT TEST)-  ...","type":"numeric","start":530,"end":531}
+{"dataset":"DU3edt","name":"H3ED0532","label":"ARITHMETIC TEST-RAW SCORE","type":"numeric","start":532,"end":533}
+{"dataset":"DU3edt","name":"H3ED0534","label":"WRAT TEST QUALIFICATION","type":"numeric","start":534,"end":534}
+{"dataset":"DU3edt","name":"H3ED0535","label":"HARRIS-GOOD ENOUGH DRAW AN PERSON TE ...","type":"numeric","start":535,"end":536}
+{"dataset":"DU3edt","name":"H3ED0537","label":"SEX OF PERSON DRAWN BY SEX OF YOUTH","type":"numeric","start":537,"end":537}
+{"dataset":"DU3edt","name":"H3ED0538","label":"DRAW A PERSON TEST QUALIFICATION","type":"numeric","start":538,"end":538}
+{"dataset":"DU3edt","name":"H3ED0539","label":"LITERACY TEST-READING","type":"numeric","start":539,"end":539}
+{"dataset":"DU3edt","name":"H3ED0540","label":"HANDEDNESS BY PSYCHOLOGICAL EXAMINER","type":"numeric","start":540,"end":540}
+{"dataset":"DU3edt","name":"H3ED0541","label":"FOREIGN LANGUAGE PROBLEM (IF ENTERED ...","type":"numeric","start":541,"end":541}
+{"dataset":"DU3edt","name":"H3ED0542","label":"VOCABULARY TEST (4 MONTH AGE INTERVA ...","type":"numeric","start":542,"end":543}
+{"dataset":"DU3edt","name":"H3ED0544","label":"BLOCK DESIGN TEST (4 MONTH AGE INTER ...","type":"numeric","start":544,"end":545}
+{"dataset":"DU3edt","name":"H3ED0546","label":"READING TEST (1 YEAR AGE INTERVALS B ...","type":"numeric","start":546,"end":547}
+{"dataset":"DU3edt","name":"H3ED0548","label":"ARITHMETIC TEST (1 YEAR AGE INTERVAL ...","type":"numeric","start":548,"end":549}
+{"dataset":"DU3edt","name":"H3ED0550","label":"DRAW A PERSON TEST QUALIFICATION","type":"numeric","start":550,"end":551}
+{"dataset":"DU3edt","name":"H3ED0552","label":"INDEXES: INDEX OF INTELLECTUAL DEVEL ...","type":"numeric","start":552,"end":554}
+{"dataset":"DU3edt","name":"H3ED0555","label":"INDEX OF EDUCATIONAL ACHIEVEMENT (WRAT)","type":"numeric","start":555,"end":557}
+{"dataset":"DU3edt","name":"H3ED0558","label":"WORK AREA","type":"numeric","start":558,"end":561}
+{"dataset":"DU3edt","name":"H3ED0562","label":"VOCABULARY","type":"numeric","start":562,"end":563}
+{"dataset":"DU3edt","name":"H3ED0564","label":"BLOCK DESIGN","type":"numeric","start":564,"end":565}
+{"dataset":"DU3edt","name":"H3ED0566","label":"SUM OF VOCABULARY AND BLOCK DESIGN H ...","type":"numeric","start":566,"end":567}
+{"dataset":"DU3edt","name":"H3ED0568","label":"HES SCALED SCORES FULL SCALE WISC I. ...","type":"numeric","start":568,"end":570}
+{"dataset":"DU3edt","name":"H3ED0571","label":"VOCAULARY","type":"numeric","start":571,"end":572}
+{"dataset":"DU3edt","name":"H3ED0573","label":"BLOCK DESIGN","type":"numeric","start":573,"end":574}
+{"dataset":"DU3edt","name":"H3ED0575","label":"SUM OF WISC MANUAL SCALED SCORE","type":"numeric","start":575,"end":576}
+{"dataset":"DU3edt","name":"H3ED0577","label":"WORK AREA","type":"numeric","start":577,"end":579}
+{"dataset":"DU3edt","name":"H3ED0580","label":"RACE ADJUSTED SOCIO-INTELLECTUAL STA ...","type":"numeric","start":580,"end":583}
+{"dataset":"DU3edt","name":"H3ED0584","label":"RACE ADJUSTED DIFFERENTIAL INTELLECT ...","type":"numeric","start":584,"end":587}
+{"dataset":"DU3edt","name":"H3ED0588","label":"RESTING PULSE RATE","type":"numeric","start":588,"end":590}
+{"dataset":"DU3edt","name":"H3ED0591","label":"2 MINUTE PULSE RATE","type":"numeric","start":591,"end":593}
+{"dataset":"DU3edt","name":"H3ED0594","label":"5 MINUTE PULSE RATE","type":"numeric","start":594,"end":596}
+{"dataset":"DU3edt","name":"H3ED0597","label":"WORK AREA","type":"numeric","start":597,"end":599}
+{"dataset":"DU3edt","name":"H3ED0600","label":"DIAGNOSTIC IMPRESSION","type":"character","start":600,"end":600}
+{"dataset":"DU3edt","name":"H3ED0601","label":"CARDIOVASCULAR SYSTEM","type":"numeric","start":601,"end":601}
+{"dataset":"DU3edt","name":"H3ED0602","label":"NEUROLOGICAL CONDITIONS","type":"numeric","start":602,"end":602}
+{"dataset":"DU3edt","name":"H3ED0603","label":"MUSCULO-SKELETAL","type":"numeric","start":603,"end":603}
+{"dataset":"DU3edt","name":"H3ED0604","label":"OTHER SYSTEMS","type":"numeric","start":604,"end":604}
+{"dataset":"DU3edt","name":"H3ED0605","label":"HAND PREFERENCE (FROM PHYSICAL EXAMI ...","type":"numeric","start":605,"end":605}
+{"dataset":"DU3edt","name":"H3ED0606","label":"ABNORMAL NEUROGOGICAL FINDINGS (FROM ...","type":"numeric","start":606,"end":606}
+{"dataset":"DU3edt","name":"H3ED0607","label":"OTHER SYSTEMS","type":"numeric","start":607,"end":607}
+{"dataset":"DU3edt","name":"H3ED0608","label":"NUTRITIONAL APPRAISAL","type":"numeric","start":608,"end":608}
+{"dataset":"DU3edt","name":"H3ED0609","label":"WORK AREA","type":"character","start":609,"end":618}
+{"dataset":"DU3edt","name":"H3ED0619","label":"TEMPERATURE OF YOUTH","type":"character","start":619,"end":622}
+{"dataset":"DU3edt","name":"H3ED0623","label":"WORK AREA","type":"numeric","start":623,"end":630}
+{"dataset":"DU3edt","name":"H3ED0631","label":"GRIP STRENGTH (IN POUNDS) RIGHT HAND","type":"numeric","start":631,"end":632}
+{"dataset":"DU3edt","name":"H3ED0633","label":"LEFT HAND","type":"numeric","start":633,"end":634}
+{"dataset":"DU3edt","name":"H3ED0635","label":"HANDEDNESS","type":"numeric","start":635,"end":635}
+{"dataset":"DU3edt","name":"H3ED0636","label":"TEST SATISFACTORY","type":"numeric","start":636,"end":636}
+{"dataset":"DU3edt","name":"H3ED0637","label":"WORK AREA","type":"numeric","start":637,"end":640}
+{"dataset":"DU3edt","name":"H3ED0641","label":"CERVICALE HEIGHT","type":"numeric","start":641,"end":644}
+{"dataset":"DU3edt","name":"H3ED0645","label":"ACROMIAL HEIGHT","type":"numeric","start":645,"end":648}
+{"dataset":"DU3edt","name":"H3ED0649","label":"RADIAL HEIGHT","type":"numeric","start":649,"end":652}
+{"dataset":"DU3edt","name":"H3ED0653","label":"STYLION HEIGHT","type":"numeric","start":653,"end":656}
+{"dataset":"DU3edt","name":"H3ED0657","label":"ILIAC CREST HEIGHT","type":"numeric","start":657,"end":660}
+{"dataset":"DU3edt","name":"H3ED0661","label":"TROCHANTER HEIGHT","type":"numeric","start":661,"end":664}
+{"dataset":"DU3edt","name":"H3ED0665","label":"TIBIAL HEIGHT","type":"numeric","start":665,"end":668}
+{"dataset":"DU3edt","name":"H3ED0669","label":"SITTING HEIGHT","type":"numeric","start":669,"end":672}
+{"dataset":"DU3edt","name":"H3ED0673","label":"WORK AREA","type":"numeric","start":673,"end":675}
+{"dataset":"DU3edt","name":"H3ED0676","label":"SPHYRION HEIGHT","type":"numeric","start":676,"end":678}
+{"dataset":"DU3edt","name":"H3ED0679","label":"FOOT BREADTH","type":"numeric","start":679,"end":681}
+{"dataset":"DU3edt","name":"H3ED0682","label":"WORK AREA","type":"numeric","start":682,"end":682}
+{"dataset":"DU3edt","name":"H3ED0683","label":"ANKLE BREADTH","type":"numeric","start":683,"end":685}
+{"dataset":"DU3edt","name":"H3ED0686","label":"KNEE BREADTH","type":"numeric","start":686,"end":688}
+{"dataset":"DU3edt","name":"H3ED0689","label":"ELBOW BREADTH","type":"numeric","start":689,"end":691}
+{"dataset":"DU3edt","name":"H3ED0692","label":"WRIST BREADTH","type":"numeric","start":692,"end":694}
+{"dataset":"DU3edt","name":"H3ED0695","label":"WORK AREA","type":"numeric","start":695,"end":695}
+{"dataset":"DU3edt","name":"H3ED0696","label":"CALF SKINFOLD","type":"numeric","start":696,"end":698}
+{"dataset":"DU3edt","name":"H3ED0699","label":"STANDING HEIGHTS IN CM","type":"numeric","start":699,"end":702}
+{"dataset":"DU3edt","name":"H3ED0703","label":"BIZYGOMATIC BREADTH","type":"numeric","start":703,"end":705}
+{"dataset":"DU3edt","name":"H3ED0706","label":"BIGONIAL BREADTH","type":"numeric","start":706,"end":708}
+{"dataset":"DU3edt","name":"H3ED0709","label":"WORK AREA","type":"numeric","start":709,"end":711}
+{"dataset":"DU3edt","name":"H3ED0712","label":"SEAT BREADTH","type":"numeric","start":712,"end":714}
+{"dataset":"DU3edt","name":"H3ED0715","label":"FOOT LENGTH","type":"numeric","start":715,"end":717}
+{"dataset":"DU3edt","name":"H3ED0718","label":"BIOCROMIAL BREADTH","type":"numeric","start":718,"end":720}
+{"dataset":"DU3edt","name":"H3ED0721","label":"BICRISTAL BREADTH","type":"numeric","start":721,"end":723}
+{"dataset":"DU3edt","name":"H3ED0724","label":"BITROCHANTERIC BREADTH","type":"numeric","start":724,"end":726}
+{"dataset":"DU3edt","name":"H3ED0727","label":"UPPER ARM GIRTH","type":"numeric","start":727,"end":729}
+{"dataset":"DU3edt","name":"H3ED0730","label":"FOREARM GIRTH","type":"numeric","start":730,"end":732}
+{"dataset":"DU3edt","name":"H3ED0733","label":"CHEST GIRTH","type":"numeric","start":733,"end":736}
+{"dataset":"DU3edt","name":"H3ED0737","label":"WAIST GIRTH","type":"numeric","start":737,"end":740}
+{"dataset":"DU3edt","name":"H3ED0741","label":"HIP GIRTH","type":"numeric","start":741,"end":744}
+{"dataset":"DU3edt","name":"H3ED0745","label":"CALF GIRTH","type":"numeric","start":745,"end":747}
+{"dataset":"DU3edt","name":"H3ED0748","label":"TRICEPS SKINFOLD","type":"numeric","start":748,"end":750}
+{"dataset":"DU3edt","name":"H3ED0751","label":"SUBSCAPULAR SKINFOLD","type":"numeric","start":751,"end":753}
+{"dataset":"DU3edt","name":"H3ED0754","label":"LATERAL CHEST WALL SKINFOLD","type":"numeric","start":754,"end":756}
+{"dataset":"DU3edt","name":"H3ED0757","label":"SUPRA-ILIAC SKINFOLD","type":"numeric","start":757,"end":759}
+{"dataset":"DU3edt","name":"H3ED0760","label":"WEIGHT IN POUNDS","type":"numeric","start":760,"end":763}
+{"dataset":"DU3edt","name":"H3ED0764","label":"THIGH HEIGHT","type":"numeric","start":764,"end":766}
+{"dataset":"DU3edt","name":"H3ED0767","label":"ELBOW-ELBOW BREADTH","type":"numeric","start":767,"end":769}
+{"dataset":"DU3edt","name":"H3ED0770","label":"WORK AREA","type":"numeric","start":770,"end":770}
+{"dataset":"DU3edt","name":"H3ED0771","label":"DENTAL EXAMINATION-NUMBER OF MISSING ...","type":"numeric","start":771,"end":772}
+{"dataset":"DU3edt","name":"H3ED0773","label":"NUMBER OF DECAYED PERMANENT TEETH","type":"numeric","start":773,"end":774}
+{"dataset":"DU3edt","name":"H3ED0775","label":"NUMBER OF FILLED PERMANENT TEETH","type":"numeric","start":775,"end":776}
+{"dataset":"DU3edt","name":"H3ED0777","label":"TOTAL NUMBER OF DECAYED, MISSING & F ...","type":"numeric","start":777,"end":778}
+{"dataset":"DU3edt","name":"H3ED0779","label":"NUMBER OF DECAYED PRIMARY TEETH","type":"numeric","start":779,"end":780}
+{"dataset":"DU3edt","name":"H3ED0781","label":"NUMBER OF FILLED PRIMARY TEETH","type":"numeric","start":781,"end":782}
+{"dataset":"DU3edt","name":"H3ED0783","label":"NUMBER OF PRIMARY TEETH ENDING EXTRA ...","type":"numeric","start":783,"end":784}
+{"dataset":"DU3edt","name":"H3ED0785","label":"TOTAL NUMBER OF PRIMARYTEETH DECAYED ...","type":"numeric","start":785,"end":786}
+{"dataset":"DU3edt","name":"H3ED0787","label":"NUMBER OF PERMANENT TEETH PRESENT","type":"numeric","start":787,"end":788}
+{"dataset":"DU3edt","name":"H3ED0789","label":"NUMBER OF PRIMARY TEETH PRESENT","type":"numeric","start":789,"end":790}
+{"dataset":"DU3edt","name":"H3ED0791","label":"NUMBER OF PERMANENT TEETH ERUPTED","type":"numeric","start":791,"end":792}
+{"dataset":"DU3edt","name":"H3ED0793","label":"PERIODONTAL INDEX","type":"numeric","start":793,"end":793}
+{"dataset":"DU3edt","name":"H3ED0794","label":"PRESENCE OF GINGIVITIS AND PERIODONT ...","type":"numeric","start":794,"end":795}
+{"dataset":"DU3edt","name":"H3ED0796","label":"SIMPLIFIED DEBRIS INDEX (DI-S)","type":"numeric","start":796,"end":796}
+{"dataset":"DU3edt","name":"H3ED0797","label":"SIMPLIFIED CALCULUS INDEX (CI-S)","type":"numeric","start":797,"end":799}
+{"dataset":"DU3edt","name":"H3ED0800","label":"WORK AREA","type":"numeric","start":800,"end":800}
+{"dataset":"DU3edt","name":"H3ED0801","label":"SIMPLIFIED ORAL HYGIENE INDEX (OHI-S)","type":"numeric","start":801,"end":803}
+{"dataset":"DU3edt","name":"H3ED0804","label":"MALOCCLUSION SYNDROME","type":"numeric","start":804,"end":805}
+{"dataset":"DU3edt","name":"H3ED0806","label":"EXAMINATION QUALIFICATIONS","type":"numeric","start":806,"end":806}
+{"dataset":"DU3edt","name":"H3ED0807","label":"TREATMENT PRIORITY INDEX (TPI)","type":"character","start":807,"end":807}
+{"dataset":"DU3edt","name":"H3ED0808","label":"BUCCAL SEGMENT RELATION (RIGHT)","type":"numeric","start":808,"end":810}
+{"dataset":"DU3edt","name":"H3ED0811","label":"BUCCAL SEGMENT RELATION (LEFT)","type":"numeric","start":811,"end":812}
+{"dataset":"DU3edt","name":"H3ED0813","label":"BUCCAL SEGMENT RELATION (LEFT)-PRIMA ...","type":"numeric","start":813,"end":814}
+{"dataset":"DU3edt","name":"H3ED0815","label":"POSTERIOR CROSSBITE","type":"numeric","start":815,"end":815}
+{"dataset":"DU3edt","name":"H3ED0816","label":"NUMBER OF UPPER TEETH ON RIGHT-TO LI ...","type":"numeric","start":816,"end":816}
+{"dataset":"DU3edt","name":"H3ED0817","label":"NUMBER OF UPPER TEETH ON LEFT-TO BUCCAL","type":"numeric","start":817,"end":817}
+{"dataset":"DU3edt","name":"H3ED0818","label":"NUMBER OF UPPER TEETH ON LEFT-TO LINUAL","type":"numeric","start":818,"end":818}
+{"dataset":"DU3edt","name":"H3ED0819","label":"INCISOR VERTICAL RELATIONSHIP","type":"character","start":819,"end":819}
+{"dataset":"DU3edt","name":"H3ED0820","label":"OVERJET","type":"character","start":820,"end":821}
+{"dataset":"DU3edt","name":"H3ED0822","label":"MANDIBULAR POSTUSION","type":"character","start":822,"end":823}
+{"dataset":"DU3edt","name":"H3ED0824","label":"OVERBITE","type":"character","start":824,"end":825}
+{"dataset":"DU3edt","name":"H3ED0826","label":"OPENBITE","type":"character","start":826,"end":827}
+{"dataset":"DU3edt","name":"H3ED0828","label":"UPPER ANTERIOR","type":"numeric","start":828,"end":829}
+{"dataset":"DU3edt","name":"H3ED0830","label":"UPPER POSTERIOR","type":"numeric","start":830,"end":831}
+{"dataset":"DU3edt","name":"H3ED0832","label":"LOWER ANTERIOR","type":"numeric","start":832,"end":833}
+{"dataset":"DU3edt","name":"H3ED0834","label":"LOWER POSTERIOR","type":"numeric","start":834,"end":835}
+{"dataset":"DU3edt","name":"H3ED0836","label":"UPPER ANTERIOR","type":"numeric","start":836,"end":837}
+{"dataset":"DU3edt","name":"H3ED0838","label":"UPPER POSTERIOR","type":"numeric","start":838,"end":839}
+{"dataset":"DU3edt","name":"H3ED0840","label":"LOWER ANTERIOR","type":"numeric","start":840,"end":841}
+{"dataset":"DU3edt","name":"H3ED0842","label":"LOWER POSTERIOR","type":"numeric","start":842,"end":843}
+{"dataset":"DU3edt","name":"H3ED0844","label":"ORTHODONTIC APPLIANCES","type":"numeric","start":844,"end":844}
+{"dataset":"DU3edt","name":"H3ED0845","label":"WORK AREA","type":"numeric","start":845,"end":849}
+{"dataset":"DU3edt","name":"H3ED0850","label":"VISION-WEAR GLASSES FOR COLOR VISION ...","type":"character","start":850,"end":850}
+{"dataset":"DU3edt","name":"H3ED0851","label":"ISHIHARA AND HARDY-RAND-RITTLER (H-R ...","type":"numeric","start":851,"end":851}
+{"dataset":"DU3edt","name":"H3ED0852","label":"ISHIHARA SCORE","type":"numeric","start":852,"end":852}
+{"dataset":"DU3edt","name":"H3ED0853","label":"H-R-R SCORE","type":"numeric","start":853,"end":853}
+{"dataset":"DU3edt","name":"H3ED0854","label":"COLOR VISION DEFICIENCY SEVERITY-RED ...","type":"numeric","start":854,"end":854}
+{"dataset":"DU3edt","name":"H3ED0855","label":"WORK AREA","type":"numeric","start":855,"end":855}
+{"dataset":"DU3edt","name":"H3ED0856","label":"TRIAL LENS FOR MYOPIA-RIGHT EYE","type":"numeric","start":856,"end":856}
+{"dataset":"DU3edt","name":"H3ED0857","label":"TRIAL LENS TEST SCORE-RIGHT EYE","type":"numeric","start":857,"end":858}
+{"dataset":"DU3edt","name":"H3ED0859","label":"TRIAL LENS FOR MYOPIA-LEFT EYE","type":"numeric","start":859,"end":859}
+{"dataset":"DU3edt","name":"H3ED0860","label":"TRIAL LENS TEST SCORE-LEFT EYE","type":"numeric","start":860,"end":861}
+{"dataset":"DU3edt","name":"H3ED0862","label":"DISTANCE LATERAL PHORIA-UNCORRECTED","type":"numeric","start":862,"end":862}
+{"dataset":"DU3edt","name":"H3ED0863","label":"NEAR LATERAL PHORIA-UNCORRECTED","type":"numeric","start":863,"end":863}
+{"dataset":"DU3edt","name":"H3ED0864","label":"DISTANCE LATERAL PHORIA-CORRECTED","type":"numeric","start":864,"end":864}
+{"dataset":"DU3edt","name":"H3ED0865","label":"NEAR LATERAL PHORIA-CORRECTED","type":"numeric","start":865,"end":865}
+{"dataset":"DU3edt","name":"H3ED0866","label":"MONOCULAR DISTANCE-RIGHT EYE UNCORRECTED","type":"numeric","start":866,"end":867}
+{"dataset":"DU3edt","name":"H3ED0868","label":"MONOCULAR DISTANCE-LEFT EYE, UNCORRECTED","type":"numeric","start":868,"end":869}
+{"dataset":"DU3edt","name":"H3ED0870","label":"BINOCULAR DISTANCE-UNCORRECTED","type":"numeric","start":870,"end":871}
+{"dataset":"DU3edt","name":"H3ED0872","label":"MONOCULAR NEAR-LEFT","type":"numeric","start":872,"end":873}
+{"dataset":"DU3edt","name":"H3ED0874","label":"MONOCULAR NEAR-LEFT EYE, UNCORRECTED","type":"numeric","start":874,"end":875}
+{"dataset":"DU3edt","name":"H3ED0876","label":"BINOCULAR NEAR-UNCORRECTED","type":"numeric","start":876,"end":877}
+{"dataset":"DU3edt","name":"H3ED0878","label":"MONOCULAR DISTANCE VISION-RIGHT EYE, ...","type":"numeric","start":878,"end":879}
+{"dataset":"DU3edt","name":"H3ED0880","label":"MONOCULAR DISTANCE VISION-LEFT EYE,  ...","type":"numeric","start":880,"end":881}
+{"dataset":"DU3edt","name":"H3ED0882","label":"BINOCULAR DISTANCE VISION-CORRECTED","type":"numeric","start":882,"end":883}
+{"dataset":"DU3edt","name":"H3ED0884","label":"WORK AREA","type":"numeric","start":884,"end":884}
+{"dataset":"DU3edt","name":"H3ED0885","label":"LENSOMETER READINGS-RIGHT EYE-SIGN F ...","type":"character","start":885,"end":885}
+{"dataset":"DU3edt","name":"H3ED0886","label":"FIRST READING (DIOPTERS XX.XX)","type":"numeric","start":886,"end":889}
+{"dataset":"DU3edt","name":"H3ED0890","label":"SIGN SECOND READING","type":"numeric","start":890,"end":890}
+{"dataset":"DU3edt","name":"H3ED0891","label":"SECOND READING (DIOPTERS XX.XX)","type":"numeric","start":891,"end":894}
+{"dataset":"DU3edt","name":"H3ED0895","label":"AXIS READING (IN DEGREES)","type":"numeric","start":895,"end":897}
+{"dataset":"DU3edt","name":"H3ED0898","label":"POWER OF LENS SIGN","type":"numeric","start":898,"end":898}
+{"dataset":"DU3edt","name":"H3ED0899","label":"POWER OF LENS (APPROXIMATE)","type":"numeric","start":899,"end":902}
+{"dataset":"DU3edt","name":"H3ED0903","label":"SPHERICAL EQUIVALENCE OF LENS-RIGHT  ...","type":"numeric","start":903,"end":903}
+{"dataset":"DU3edt","name":"H3ED0904","label":"POWER OF LENS (APPROXIMATE)","type":"numeric","start":904,"end":907}
+{"dataset":"DU3edt","name":"H3ED0908","label":"LENSOMETER READING-LEFT EYE-SIGN FIR ...","type":"numeric","start":908,"end":908}
+{"dataset":"DU3edt","name":"H3ED0909","label":"FIRST READING (DIOPTERS XX.XX)","type":"numeric","start":909,"end":912}
+{"dataset":"DU3edt","name":"H3ED0913","label":"SIGN SECOND READING","type":"numeric","start":913,"end":913}
+{"dataset":"DU3edt","name":"H3ED0914","label":"SECOND READING (DIOPTERS XX.XX)","type":"numeric","start":914,"end":917}
+{"dataset":"DU3edt","name":"H3ED0918","label":"AXIS READING (IN DEGREES)","type":"numeric","start":918,"end":920}
+{"dataset":"DU3edt","name":"H3ED0921","label":"POWER OF LENS SIGN","type":"numeric","start":921,"end":921}
+{"dataset":"DU3edt","name":"H3ED0922","label":"POWER OF LENS (APPROXIMATE)","type":"numeric","start":922,"end":925}
+{"dataset":"DU3edt","name":"H3ED0926","label":"SPHERICAL EQUIVALENCE OF LENS-RIGHTS ...","type":"numeric","start":926,"end":926}
+{"dataset":"DU3edt","name":"H3ED0927","label":"POWER (APPROXIMATE)","type":"numeric","start":927,"end":930}
+{"dataset":"DU3edt","name":"H3ED0931","label":"TRIAL LENS TEST MYOPIA-RIGHT EYE (WI ...","type":"numeric","start":931,"end":931}
+{"dataset":"DU3edt","name":"H3ED0932","label":"TRIAL LENS TEST SCORE-RIGHT EYE (WIT ...","type":"numeric","start":932,"end":933}
+{"dataset":"DU3edt","name":"H3ED0934","label":"TRIAL LENS TEST FOR MYOPIA-LEFT EYE  ...","type":"numeric","start":934,"end":934}
+{"dataset":"DU3edt","name":"H3ED0935","label":"TRIAL LENS TEST SCORE-LEFT EYE (WITH ...","type":"numeric","start":935,"end":936}
+{"dataset":"DU3edt","name":"H3ED0937","label":"LANDOLT RING TESTS-DISTANCE (AT 10 F ...","type":"character","start":937,"end":938}
+{"dataset":"DU3edt","name":"H3ED0939","label":"DISTANCE (AT 10 FEET) WITHOUT CORREC ...","type":"numeric","start":939,"end":940}
+{"dataset":"DU3edt","name":"H3ED0941","label":"DISTANCE (AT 10 FEET) WITHOUT CORREC ...","type":"numeric","start":941,"end":942}
+{"dataset":"DU3edt","name":"H3ED0943","label":"DISTANCE (AT 10 FEET) WITH CORRECTIO ...","type":"numeric","start":943,"end":944}
+{"dataset":"DU3edt","name":"H3ED0945","label":"DISTANCE (AT 10 FEET) WITH CORRECTIO ...","type":"numeric","start":945,"end":946}
+{"dataset":"DU3edt","name":"H3ED0947","label":"DISTANCE (AT 10 FEET) WITH CORRECTIO ...","type":"numeric","start":947,"end":948}
+{"dataset":"DU3edt","name":"H3ED0949","label":"TRIAL LENS EVALUATION OR TRIAL LENS  ...","type":"numeric","start":949,"end":949}
+{"dataset":"DU3edt","name":"H3ED0950","label":"TRIAL LENS TEST SCORE-RIGHT EYE","type":"numeric","start":950,"end":951}
+{"dataset":"DU3edt","name":"H3ED0952","label":"TRIAL LENS EVALUATION OR TRIAL LENS  ...","type":"numeric","start":952,"end":952}
+{"dataset":"DU3edt","name":"H3ED0953","label":"TRIAL LENS TEST SCORE-LEFT EYE","type":"numeric","start":953,"end":954}
+{"dataset":"DU3edt","name":"H3ED0955","label":"NEAR (AT 14 INCHES) WITH CORRECTION- ...","type":"numeric","start":955,"end":956}
+{"dataset":"DU3edt","name":"H3ED0957","label":"NEAR (AT 14 INCHES) WITH CORRECTION- ...","type":"numeric","start":957,"end":958}
+{"dataset":"DU3edt","name":"H3ED0959","label":"NEAR (AT 14 INCHES) WITH-BINOCULAR","type":"numeric","start":959,"end":960}
+{"dataset":"DU3edt","name":"H3ED0961","label":"TRIAL LENS FOR MYOPIA- WITH CORRECTI ...","type":"numeric","start":961,"end":961}
+{"dataset":"DU3edt","name":"H3ED0962","label":"TRIAL LENS TEST SCORE-RIGHT EYE","type":"numeric","start":962,"end":963}
+{"dataset":"DU3edt","name":"H3ED0964","label":"TRIAL LENS TEST FOR MYOPIA-LEFT EYE  ...","type":"numeric","start":964,"end":964}
+{"dataset":"DU3edt","name":"H3ED0965","label":"TRIAL LENS TEST SCORE -LEFT EYE","type":"numeric","start":965,"end":966}
+{"dataset":"DU3edt","name":"H3ED0967","label":"WORK AREA","type":"numeric","start":967,"end":969}
+{"dataset":"DU3edt","name":"H3ED0970","label":"EAR, NOSE AND THROAT EXAMINATION-EXT ...","type":"character","start":970,"end":970}
+{"dataset":"DU3edt","name":"H3ED0971","label":"EAR, NOSE AND THROAT EXAMINATION-EXT ...","type":"numeric","start":971,"end":971}
+{"dataset":"DU3edt","name":"H3ED0972","label":"EXTERNAL EAR FINDINGS-RIGHT","type":"numeric","start":972,"end":972}
+{"dataset":"DU3edt","name":"H3ED0973","label":"EXTERNAL EAR FINDINGS-LEFT","type":"numeric","start":973,"end":973}
+{"dataset":"DU3edt","name":"H3ED0974","label":"AUDITORY CANAL-RIGHT","type":"numeric","start":974,"end":974}
+{"dataset":"DU3edt","name":"H3ED0975","label":"AUDITORY CANAL-LEFT","type":"numeric","start":975,"end":975}
+{"dataset":"DU3edt","name":"H3ED0976","label":"OCCLUDED-RIGHT","type":"numeric","start":976,"end":976}
+{"dataset":"DU3edt","name":"H3ED0977","label":"OCCLUDED-LEFT","type":"numeric","start":977,"end":977}
+{"dataset":"DU3edt","name":"H3ED0978","label":"OCCLUDED-RIGHT","type":"numeric","start":978,"end":978}
+{"dataset":"DU3edt","name":"H3ED0979","label":"OCCLUDED-LEFT","type":"numeric","start":979,"end":979}
+{"dataset":"DU3edt","name":"H3ED0980","label":"DRUM-RIGHT","type":"numeric","start":980,"end":980}
+{"dataset":"DU3edt","name":"H3ED0981","label":"DRUM-LEFT","type":"numeric","start":981,"end":981}
+{"dataset":"DU3edt","name":"H3ED0982","label":"DULL-TRANSPARENT-RIGHT","type":"numeric","start":982,"end":982}
+{"dataset":"DU3edt","name":"H3ED0983","label":"DULL-TRANSPARENT-LEFT","type":"numeric","start":983,"end":983}
+{"dataset":"DU3edt","name":"H3ED0984","label":"BULGING-REACTED-RIGHT","type":"numeric","start":984,"end":984}
+{"dataset":"DU3edt","name":"H3ED0985","label":"BULGING-REACTED-LEFT","type":"numeric","start":985,"end":985}
+{"dataset":"DU3edt","name":"H3ED0986","label":"CALCIUM PLAQUES-RIGHT","type":"numeric","start":986,"end":986}
+{"dataset":"DU3edt","name":"H3ED0987","label":"CALCIUM PLAQUES-LEFT","type":"numeric","start":987,"end":987}
+{"dataset":"DU3edt","name":"H3ED0988","label":"COLORATION-RIGHT","type":"numeric","start":988,"end":988}
+{"dataset":"DU3edt","name":"H3ED0989","label":"COLORATION-LEFT","type":"numeric","start":989,"end":989}
+{"dataset":"DU3edt","name":"H3ED0990","label":"FLUID-RIGHT","type":"numeric","start":990,"end":990}
+{"dataset":"DU3edt","name":"H3ED0991","label":"FLUID-LEFT","type":"numeric","start":991,"end":991}
+{"dataset":"DU3edt","name":"H3ED0992","label":"PERFORATED-RIGHT","type":"numeric","start":992,"end":992}
+{"dataset":"DU3edt","name":"H3ED0993","label":"PERFORATED-LEFT","type":"numeric","start":993,"end":993}
+{"dataset":"DU3edt","name":"H3ED0994","label":"SCARS-RIGHT","type":"numeric","start":994,"end":994}
+{"dataset":"DU3edt","name":"H3ED0995","label":"SCARS-LEFT","type":"numeric","start":995,"end":995}
+{"dataset":"DU3edt","name":"H3ED0996","label":"OTHER FINDINGS-RIGHT","type":"numeric","start":996,"end":996}
+{"dataset":"DU3edt","name":"H3ED0997","label":"OTHER FINDINGS-LEFT","type":"numeric","start":997,"end":997}
+{"dataset":"DU3edt","name":"H3ED0998","label":"DRUM MOBILE-RIGHT","type":"numeric","start":998,"end":998}
+{"dataset":"DU3edt","name":"H3ED0999","label":"DRUM MOBILE-LEFT","type":"numeric","start":999,"end":999}
+{"dataset":"DU3edt","name":"H3ED1000","label":"TONSILS","type":"numeric","start":1000,"end":1000}
+{"dataset":"DU3edt","name":"H3ED1001","label":"ORAL PHARYNX","type":"numeric","start":1001,"end":1001}
+{"dataset":"DU3edt","name":"H3ED1002","label":"NARES-RIGHT","type":"numeric","start":1002,"end":1002}
+{"dataset":"DU3edt","name":"H3ED1003","label":"NARES-LEFT","type":"numeric","start":1003,"end":1003}
+{"dataset":"DU3edt","name":"H3ED1004","label":"OBSTRUCTION-RIGHT","type":"numeric","start":1004,"end":1004}
+{"dataset":"DU3edt","name":"H3ED1005","label":"OBSTRUCTION-LEFT","type":"numeric","start":1005,"end":1005}
+{"dataset":"DU3edt","name":"H3ED1006","label":"OTHER SIGNIFICANT FINDINGS-RIGHT","type":"numeric","start":1006,"end":1006}
+{"dataset":"DU3edt","name":"H3ED1007","label":"OTHER SIGNIFICANT FINDINGS-LEFT","type":"numeric","start":1007,"end":1007}
+{"dataset":"DU3edt","name":"H3ED1008","label":"PHYSICIAN'S NUMBER","type":"numeric","start":1008,"end":1009}
+{"dataset":"DU3edt","name":"H3ED1010","label":"WORK AREA","type":"numeric","start":1010,"end":1011}
+{"dataset":"DU3edt","name":"H3ED1012","label":"AUDIOMETRY-HEARING-DECIBEL LEVEL AT  ...","type":"numeric","start":1012,"end":1013}
+{"dataset":"DU3edt","name":"H3ED1014","label":"AUDIOMETRY-HEARING-DECIBEL LEVEL AT  ...","type":"numeric","start":1014,"end":1015}
+{"dataset":"DU3edt","name":"H3ED1016","label":"DECIBEL LEVEL AT 1000 CPS-RIGHT EAR","type":"numeric","start":1016,"end":1017}
+{"dataset":"DU3edt","name":"H3ED1018","label":"DECIBEL LEVEL AT 1000 CPS-LEFT EAR","type":"numeric","start":1018,"end":1019}
+{"dataset":"DU3edt","name":"H3ED1020","label":"DECIBEL LEVEL AT 6000 CPS-RIGHT EAR","type":"numeric","start":1020,"end":1021}
+{"dataset":"DU3edt","name":"H3ED1022","label":"DECIBEL LEVEL AT 6000 CPS-LEFT EAR","type":"numeric","start":1022,"end":1023}
+{"dataset":"DU3edt","name":"H3ED1024","label":"DECIBEL LEVEL AT 500 CPS-RIGHT EAR","type":"numeric","start":1024,"end":1025}
+{"dataset":"DU3edt","name":"H3ED1026","label":"DECIBEL LEVEL AT 500 CPS-LEFT EAR","type":"numeric","start":1026,"end":1027}
+{"dataset":"DU3edt","name":"H3ED1028","label":"DECIBEL LEVEL AT 2000 CPS-RIGHT EAR","type":"numeric","start":1028,"end":1029}
+{"dataset":"DU3edt","name":"H3ED1030","label":"DECIBEL LEVEL AT 2000 CPS-LEFT EAR","type":"numeric","start":1030,"end":1031}
+{"dataset":"DU3edt","name":"H3ED1032","label":"DECIBEL LEVEL AT 250 CPS-RIGHT EAR","type":"numeric","start":1032,"end":1033}
+{"dataset":"DU3edt","name":"H3ED1034","label":"DECIBEL LEVEL AT 250 CPS-LEFT EAR","type":"numeric","start":1034,"end":1035}
+{"dataset":"DU3edt","name":"H3ED1036","label":"DECIBEL LEVEL AT 4000 CPS-RIGHT EAR","type":"numeric","start":1036,"end":1037}
+{"dataset":"DU3edt","name":"H3ED1038","label":"DECIBEL LEVEL AT 4000 CPS-LEFT EAR","type":"numeric","start":1038,"end":1039}
+{"dataset":"DU3edt","name":"H3ED1040","label":"DECIBEL LEVEL AT 8000 CPS-RIGHT EAR","type":"numeric","start":1040,"end":1041}
+{"dataset":"DU3edt","name":"H3ED1042","label":"DECIBEL LEVEL AT 8000 CPS-LEFT EAR","type":"numeric","start":1042,"end":1043}
+{"dataset":"DU3edt","name":"H3ED1044","label":"DECIBEL LEVEL AT 3000 CPS-RIGHT EAR","type":"numeric","start":1044,"end":1045}
+{"dataset":"DU3edt","name":"H3ED1046","label":"DECIBEL LEVEL AT 3000 CPS-LEFT EAR","type":"numeric","start":1046,"end":1047}
+{"dataset":"DU3edt","name":"H3ED1048","label":"CONDITIONS AFFECTING TEST RESULTS","type":"character","start":1048,"end":1048}
+{"dataset":"DU3edt","name":"H3ED1049","label":"WORK AREA","type":"numeric","start":1049,"end":1049}
+{"dataset":"DU3edt","name":"H3ED1050","label":"PHYSICIAN'S EXAMINATION-LIDS, CONJUN ...","type":"character","start":1050,"end":1050}
+{"dataset":"DU3edt","name":"H3ED1051","label":"LIDS, CONJUNCTIVAE AND SCLERAE-LEFT EYE","type":"numeric","start":1051,"end":1051}
+{"dataset":"DU3edt","name":"H3ED1052","label":"PUPILS AND TRIDES-RIGHT EYE","type":"numeric","start":1052,"end":1052}
+{"dataset":"DU3edt","name":"H3ED1053","label":"PUPILS AND TRIDES-LEFT EYE","type":"numeric","start":1053,"end":1053}
+{"dataset":"DU3edt","name":"H3ED1054","label":"TROPIA-RIGHT EYE","type":"numeric","start":1054,"end":1054}
+{"dataset":"DU3edt","name":"H3ED1055","label":"TROPIA-LEFT EYE","type":"numeric","start":1055,"end":1055}
+{"dataset":"DU3edt","name":"H3ED1056","label":"EXTROACULAR MUSCLES AND CONJUGATE GA ...","type":"numeric","start":1056,"end":1056}
+{"dataset":"DU3edt","name":"H3ED1057","label":"EXTROACULAR MUSCLES AND CONJUGATE GA ...","type":"numeric","start":1057,"end":1057}
+{"dataset":"DU3edt","name":"H3ED1058","label":"OTHER EYE ABNORMALTIES","type":"numeric","start":1058,"end":1058}
+{"dataset":"DU3edt","name":"H3ED1059","label":"BREAST EXAMINATION-MALES-RIGHT","type":"numeric","start":1059,"end":1059}
+{"dataset":"DU3edt","name":"H3ED1060","label":"LEFT","type":"numeric","start":1060,"end":1060}
+{"dataset":"DU3edt","name":"H3ED1061","label":"IF FINDINGS, GYNEOMASTIA-RIGHT","type":"numeric","start":1061,"end":1061}
+{"dataset":"DU3edt","name":"H3ED1062","label":"IF FINDINGS, GYNEOMASTIA-LEFT","type":"numeric","start":1062,"end":1062}
+{"dataset":"DU3edt","name":"H3ED1063","label":"OTHER FINDING","type":"numeric","start":1063,"end":1063}
+{"dataset":"DU3edt","name":"H3ED1064","label":"BREAST EXAMINATION-FEMALE-MATURATION ...","type":"numeric","start":1064,"end":1064}
+{"dataset":"DU3edt","name":"H3ED1065","label":"MATURATION STAGE-LEFT","type":"numeric","start":1065,"end":1065}
+{"dataset":"DU3edt","name":"H3ED1066","label":"OTHER BREAST FINDINGS","type":"numeric","start":1066,"end":1066}
+{"dataset":"DU3edt","name":"H3ED1067","label":"FINDINGS-RIGHT","type":"numeric","start":1067,"end":1067}
+{"dataset":"DU3edt","name":"H3ED1068","label":"FINDINGS-LEFT","type":"numeric","start":1068,"end":1068}
+{"dataset":"DU3edt","name":"H3ED1069","label":"HEART-POINT OF MAXIMAL IMPULSE (P.M. ...","type":"numeric","start":1069,"end":1069}
+{"dataset":"DU3edt","name":"H3ED1070","label":"MIDCLAVICULAR LINE","type":"numeric","start":1070,"end":1070}
+{"dataset":"DU3edt","name":"H3ED1071","label":"THRILLS","type":"numeric","start":1071,"end":1071}
+{"dataset":"DU3edt","name":"H3ED1072","label":"SYSTOLIC-DIASTOLIC","type":"numeric","start":1072,"end":1072}
+{"dataset":"DU3edt","name":"H3ED1073","label":"BASE APEX","type":"numeric","start":1073,"end":1073}
+{"dataset":"DU3edt","name":"H3ED1074","label":"HEART SOUNDS-FIRST","type":"numeric","start":1074,"end":1074}
+{"dataset":"DU3edt","name":"H3ED1075","label":"HEART SOUNDS-SECOND","type":"numeric","start":1075,"end":1075}
+{"dataset":"DU3edt","name":"H3ED1076","label":"MURMUR PRESENTS?","type":"numeric","start":1076,"end":1076}
+{"dataset":"DU3edt","name":"H3ED1077","label":"SIGNIFICANCE OF MURMUR","type":"numeric","start":1077,"end":1077}
+{"dataset":"DU3edt","name":"H3ED1078","label":"OTHER MURMUR","type":"numeric","start":1078,"end":1078}
+{"dataset":"DU3edt","name":"H3ED1079","label":"OTHER CARDIAC OR CARDIOVASCULAR FINDINGS","type":"numeric","start":1079,"end":1079}
+{"dataset":"DU3edt","name":"H3ED1080","label":"ABDOMINAL EXAMINATION","type":"numeric","start":1080,"end":1080}
+{"dataset":"DU3edt","name":"H3ED1081","label":"ABDOMINAL EXAMINATION FINDINGS","type":"numeric","start":1081,"end":1081}
+{"dataset":"DU3edt","name":"H3ED1082","label":"HERNIORRAPHY-INGUINAL","type":"numeric","start":1082,"end":1082}
+{"dataset":"DU3edt","name":"H3ED1083","label":"OTHER ABDOMINAL FINDINGS","type":"numeric","start":1083,"end":1083}
+{"dataset":"DU3edt","name":"H3ED1084","label":"GENITALIA EXAMINATION-PUBIC HAIR MAT ...","type":"numeric","start":1084,"end":1084}
+{"dataset":"DU3edt","name":"H3ED1085","label":"GENITAL MATURATION GRADE-MALES","type":"numeric","start":1085,"end":1085}
+{"dataset":"DU3edt","name":"H3ED1086","label":"CIRCUMCISION-MALES","type":"numeric","start":1086,"end":1086}
+{"dataset":"DU3edt","name":"H3ED1087","label":"OTHER GENITAL FINDINGS-MALES","type":"numeric","start":1087,"end":1087}
+{"dataset":"DU3edt","name":"H3ED1088","label":"FINDING-RIGHT","type":"numeric","start":1088,"end":1088}
+{"dataset":"DU3edt","name":"H3ED1089","label":"FINDING-LEFT","type":"numeric","start":1089,"end":1089}
+{"dataset":"DU3edt","name":"H3ED1090","label":"WORK AREA","type":"numeric","start":1090,"end":1090}
+{"dataset":"DU3edt","name":"H3ED1091","label":"SKIN-FACIAL ACNE GRADE","type":"numeric","start":1091,"end":1091}
+{"dataset":"DU3edt","name":"H3ED1092","label":"OTHER SKIN FINDINGS","type":"numeric","start":1092,"end":1092}
+{"dataset":"DU3edt","name":"H3ED1093","label":"WORK SPACE","type":"numeric","start":1093,"end":1094}
+{"dataset":"DU3edt","name":"H3ED1095","label":"BLOOD PRESSURE (MEASURED IN MM HG.)  ...","type":"numeric","start":1095,"end":1097}
+{"dataset":"DU3edt","name":"H3ED1098","label":"DIASTOLIC (1) SUPINE-BEGINNING OF PH ...","type":"numeric","start":1098,"end":1100}
+{"dataset":"DU3edt","name":"H3ED1101","label":"SYSTOLIC (2) SUPINE-END OF PHYSICIAN ...","type":"numeric","start":1101,"end":1103}
+{"dataset":"DU3edt","name":"H3ED1104","label":"DIASTOLIC (2) SUPINE-END OF PHYSICIA ...","type":"numeric","start":1104,"end":1106}
+{"dataset":"DU3edt","name":"H3ED1107","label":"SYSTOLIC (3) SITTING-END OF PHYSICIA ...","type":"numeric","start":1107,"end":1109}
+{"dataset":"DU3edt","name":"H3ED1110","label":"DIASTOLIC (3) SITTING-END OF PHYSICI ...","type":"numeric","start":1110,"end":1112}
+{"dataset":"DU3edt","name":"H3ED1113","label":"WORK AREA","type":"numeric","start":1113,"end":1114}
+{"dataset":"DU3edt","name":"H3ED1115","label":"SYSTOLIC (1) SUPINE-BEGINNING OF PHY ...","type":"numeric","start":1115,"end":1117}
+{"dataset":"DU3edt","name":"H3ED1118","label":"DIASTOLIC (1) SUPINE-BEGINNING OF PH ...","type":"numeric","start":1118,"end":1120}
+{"dataset":"DU3edt","name":"H3ED1121","label":"SYSTOLIC (2) SUPINE-END OF PHYSICIAN ...","type":"numeric","start":1121,"end":1123}
+{"dataset":"DU3edt","name":"H3ED1124","label":"DIASTOLIC (2) SUPINE-END OF PHYSICIA ...","type":"numeric","start":1124,"end":1126}
+{"dataset":"DU3edt","name":"H3ED1127","label":"SYSTOLIC (3) SITTING-END OF PHYSICIA ...","type":"numeric","start":1127,"end":1129}
+{"dataset":"DU3edt","name":"H3ED1130","label":"DIASTOLIC (3) SITTING-END OF PHYSICI ...","type":"numeric","start":1130,"end":1132}
+{"dataset":"DU3edt","name":"H3ED1133","label":"NURSE'S NUMBER","type":"numeric","start":1133,"end":1133}
+{"dataset":"DU3edt","name":"H3ED1134","label":"WORK AREA","type":"numeric","start":1134,"end":1134}
+{"dataset":"DU3edt","name":"H3ED1135","label":"NURSE'S QUESTIONNAIRE-MONTHLY PERIOD ...","type":"character","start":1135,"end":1135}
+{"dataset":"DU3edt","name":"H3ED1136","label":"BEEN TOLD ABOUT PERIODS?","type":"numeric","start":1136,"end":1136}
+{"dataset":"DU3edt","name":"H3ED1137","label":"SOURCE OF INFORMATION ABOUT PERIODS","type":"numeric","start":1137,"end":1137}
+{"dataset":"DU3edt","name":"H3ED1138","label":"TOLD ABOUT PERIODS BEFORE THEY STARTED?","type":"numeric","start":1138,"end":1138}
+{"dataset":"DU3edt","name":"H3ED1139","label":"SOURCE OF INFORMATION ABOUT PERIODS","type":"numeric","start":1139,"end":1139}
+{"dataset":"DU3edt","name":"H3ED1140","label":"PREFERRED SOURCE OF INFORMATION","type":"numeric","start":1140,"end":1140}
+{"dataset":"DU3edt","name":"H3ED1141","label":"AGE WHEN PERIODS STARTED","type":"numeric","start":1141,"end":1144}
+{"dataset":"DU3edt","name":"H3ED1145","label":"NUMBER OF DAYS SINCE LAST PERIOD","type":"numeric","start":1145,"end":1146}
+{"dataset":"DU3edt","name":"H3ED1147","label":"LENGTH OF PERIODS","type":"numeric","start":1147,"end":1147}
+{"dataset":"DU3edt","name":"H3ED1148","label":"NUMBER OF DAYS BETWEEN PERIODS","type":"numeric","start":1148,"end":1149}
+{"dataset":"DU3edt","name":"H3ED1150","label":"PAIN OR DISCOMFORT FROM PERIODS","type":"numeric","start":1150,"end":1150}
+{"dataset":"DU3edt","name":"H3ED1151","label":"FREQUENCY OF DISCOMFORT","type":"numeric","start":1151,"end":1151}
+{"dataset":"DU3edt","name":"H3ED1152","label":"SEVERITY OF DISCOMFORT","type":"numeric","start":1152,"end":1152}
+{"dataset":"DU3edt","name":"H3ED1153","label":"MEDICINE OF DISCOMFORT?","type":"numeric","start":1153,"end":1153}
+{"dataset":"DU3edt","name":"H3ED1154","label":"SICK ROOM OR NURSE?","type":"numeric","start":1154,"end":1154}
+{"dataset":"DU3edt","name":"H3ED1155","label":"MISS SCHOOL OR WORK?","type":"numeric","start":1155,"end":1155}
+{"dataset":"DU3edt","name":"H3ED1156","label":"TALKED TO DOCTOR ABOUT PAIN OR DISCO ...","type":"numeric","start":1156,"end":1156}
+{"dataset":"DU3edt","name":"H3ED1157","label":"NUMBER OF PADS PER DAY OF PERIOD","type":"numeric","start":1157,"end":1157}
+{"dataset":"DU3edt","name":"H3ED1158","label":"WORK AREA","type":"numeric","start":1158,"end":1159}
+{"dataset":"DU3edt","name":"H3ED1160","label":"BONE AGE-READER NO.","type":"numeric","start":1160,"end":1161}
+{"dataset":"DU3edt","name":"H3ED1162","label":"QUALITY OF FILM","type":"numeric","start":1162,"end":1162}
+{"dataset":"DU3edt","name":"H3ED1163","label":"DISTAL END OF RADIUS","type":"character","start":1163,"end":1165}
+{"dataset":"DU3edt","name":"H3ED1166","label":"DISTAL END OF ULNA","type":"character","start":1166,"end":1168}
+{"dataset":"DU3edt","name":"H3ED1169","label":"CAPITATE","type":"character","start":1169,"end":1171}
+{"dataset":"DU3edt","name":"H3ED1172","label":"HAMATE","type":"character","start":1172,"end":1174}
+{"dataset":"DU3edt","name":"H3ED1175","label":"TRIQUETRAL","type":"character","start":1175,"end":1177}
+{"dataset":"DU3edt","name":"H3ED1178","label":"LUNATE","type":"character","start":1178,"end":1180}
+{"dataset":"DU3edt","name":"H3ED1181","label":"SCAPHOID","type":"character","start":1181,"end":1183}
+{"dataset":"DU3edt","name":"H3ED1184","label":"TRAPEZIUM","type":"character","start":1184,"end":1186}
+{"dataset":"DU3edt","name":"H3ED1187","label":"TRAPEZOID","type":"character","start":1187,"end":1189}
+{"dataset":"DU3edt","name":"H3ED1190","label":"METACARPAL I","type":"character","start":1190,"end":1192}
+{"dataset":"DU3edt","name":"H3ED1193","label":"METACARPAL II","type":"character","start":1193,"end":1195}
+{"dataset":"DU3edt","name":"H3ED1196","label":"METACARPAL III","type":"character","start":1196,"end":1198}
+{"dataset":"DU3edt","name":"H3ED1199","label":"METACARPAL IV","type":"character","start":1199,"end":1201}
+{"dataset":"DU3edt","name":"H3ED1202","label":"METACARPAL V","type":"character","start":1202,"end":1204}
+{"dataset":"DU3edt","name":"H3ED1205","label":"PISIFORM","type":"character","start":1205,"end":1207}
+{"dataset":"DU3edt","name":"H3ED1208","label":"ADDUCTOR SESAMOID","type":"character","start":1208,"end":1210}
+{"dataset":"DU3edt","name":"H3ED1211","label":"FLEXOR SESAMOID","type":"character","start":1211,"end":1213}
+{"dataset":"DU3edt","name":"H3ED1214","label":"PROXIMAL PHALANX I","type":"character","start":1214,"end":1216}
+{"dataset":"DU3edt","name":"H3ED1217","label":"PROXIMAL PHALANX II","type":"character","start":1217,"end":1219}
+{"dataset":"DU3edt","name":"H3ED1220","label":"PROXIMAL PHALANX III","type":"character","start":1220,"end":1222}
+{"dataset":"DU3edt","name":"H3ED1223","label":"PROXIMAL PHALANX IV","type":"character","start":1223,"end":1225}
+{"dataset":"DU3edt","name":"H3ED1226","label":"PROXIMAL PHALANX V","type":"character","start":1226,"end":1228}
+{"dataset":"DU3edt","name":"H3ED1229","label":"MIDDLE PHALANX II","type":"character","start":1229,"end":1231}
+{"dataset":"DU3edt","name":"H3ED1232","label":"MIDDLE PHALANX III","type":"character","start":1232,"end":1234}
+{"dataset":"DU3edt","name":"H3ED1235","label":"MIDDLE PHALANX IV","type":"character","start":1235,"end":1237}
+{"dataset":"DU3edt","name":"H3ED1238","label":"MIDDLE PHALANX V","type":"character","start":1238,"end":1240}
+{"dataset":"DU3edt","name":"H3ED1241","label":"DISTAL PHALANX I","type":"character","start":1241,"end":1243}
+{"dataset":"DU3edt","name":"H3ED1244","label":"DISTAL PHALANX II","type":"character","start":1244,"end":1246}
+{"dataset":"DU3edt","name":"H3ED1247","label":"DISTAL PHALANX III","type":"character","start":1247,"end":1249}
+{"dataset":"DU3edt","name":"H3ED1250","label":"DISTAL PHALANX IV","type":"character","start":1250,"end":1252}
+{"dataset":"DU3edt","name":"H3ED1253","label":"DISTAL PHALANX V","type":"character","start":1253,"end":1255}
+{"dataset":"DU3edt","name":"H3ED1256","label":"INDIVIDUAL DIFFERENCES","type":"numeric","start":1256,"end":1256}
+{"dataset":"DU3edt","name":"H3ED1257","label":"AVERAGE BONE AGE (XXX.XX)","type":"numeric","start":1257,"end":1261}
+{"dataset":"DU3edt","name":"H3ED1262","label":"BLOOD TESTING-URIC ACID (AVERAGE OF  ...","type":"numeric","start":1262,"end":1265}
+{"dataset":"DU3edt","name":"H3ED1266","label":"IMPUTATION STATUS FOR URIC ACID","type":"numeric","start":1266,"end":1266}
+{"dataset":"DU3edt","name":"H3ED1267","label":"CHOLESTEROL (AVERAGE OF TWO MEASURES)","type":"numeric","start":1267,"end":1270}
+{"dataset":"DU3edt","name":"H3ED1271","label":"IMPUTATION STATUS FOR CHOLESTEROL","type":"numeric","start":1271,"end":1271}
+{"dataset":"DU3edt","name":"H3ED1272","label":"BLOOD TYPE","type":"numeric","start":1272,"end":1272}
+{"dataset":"DU3edt","name":"H3ED1273","label":"HEMATACRIT (AVERAGE OF TWO MEASURES)","type":"numeric","start":1273,"end":1275}
+{"dataset":"DU3edt","name":"H3ED1276","label":"PROTEIN BOUND IODINE (PBI)","type":"numeric","start":1276,"end":1278}
+{"dataset":"DU3edt","name":"H3ED1279","label":"PBI QUALIFICATIONS","type":"numeric","start":1279,"end":1279}
+{"dataset":"DU3edt","name":"H3ED1280","label":"RED BLOOD CELLS (RBC) ANTIGENS- BLAN ...","type":"numeric","start":1280,"end":1280}
+{"dataset":"DU3edt","name":"H3ED1281","label":"PH-D (D LINE)","type":"numeric","start":1281,"end":1281}
+{"dataset":"DU3edt","name":"H3ED1282","label":"RH-C (C LINE)","type":"numeric","start":1282,"end":1282}
+{"dataset":"DU3edt","name":"H3ED1283","label":"RH-E (E LINE)","type":"numeric","start":1283,"end":1283}
+{"dataset":"DU3edt","name":"H3ED1284","label":"RH E CODE (E LINE)","type":"numeric","start":1284,"end":1285}
+{"dataset":"DU3edt","name":"H3ED1286","label":"ABH SECRETOR ABILITY (SE LINE)","type":"numeric","start":1286,"end":1286}
+{"dataset":"DU3edt","name":"H3ED1287","label":"PLASMA PROTEINS-HAPTOGLOBIN (HP LINE ...","type":"numeric","start":1287,"end":1287}
+{"dataset":"DU3edt","name":"H3ED1288","label":"TRANFERRINES (TR LINE) PHENOTYPE","type":"numeric","start":1288,"end":1288}
+{"dataset":"DU3edt","name":"H3ED1289","label":"GROUP SPECIFIC COMPONENT TYPE (GC LI ...","type":"numeric","start":1289,"end":1289}
+{"dataset":"DU3edt","name":"H3ED1290","label":"ALPHA AND BETA ANIBODIES ANTI-A","type":"numeric","start":1290,"end":1290}
+{"dataset":"DU3edt","name":"H3ED1291","label":"ANTI-B","type":"numeric","start":1291,"end":1291}
+{"dataset":"DU3edt","name":"H3ED1292","label":"SYPHILIS SCREENING-VDRL (VENEREAL DI ...","type":"character","start":1292,"end":1292}
+{"dataset":"DU3edt","name":"H3ED1293","label":"FTA-ABS","type":"numeric","start":1293,"end":1293}
+{"dataset":"DU3edt","name":"H3ED1294","label":"IMPUTATION STATUS OF BLOOD DATA","type":"numeric","start":1294,"end":1294}
+{"dataset":"DU3edt","name":"H3ED1295","label":"BLANK-DATA USER WORK AREA","type":"character","start":1295,"end":1295}
+{"dataset":"DU3edt","name":"H3ED1296","label":"BACTERIURIA","type":"numeric","start":1296,"end":1296}
+{"dataset":"DU3edt","name":"H3ED1297","label":"TRACHEAL DIAMETER (X.XX) DECIMAL NOT ...","type":"numeric","start":1297,"end":1299}
+{"dataset":"DU3edt","name":"H3ED1300","label":"BLANK-DATA USER WORK AREA","type":"character","start":1300,"end":1300}
+{"dataset":"growthch","name":"SEQN","label":"Respondent sequence number","type":"numeric"}
+{"dataset":"growthch","name":"SURVEY","label":"Survey number 1 to 5","type":"numeric"}
+{"dataset":"growthch","name":"PSU","label":"Pseudo-PSU","type":"numeric"}
+{"dataset":"growthch","name":"STRATA","label":"Pseudo-strata","type":"numeric"}
+{"dataset":"growthch","name":"STATWT","label":"Exam statistical weight","type":"numeric"}
+{"dataset":"growthch","name":"AGE_EXAM","label":"Age at examination in years","type":"numeric"}
+{"dataset":"growthch","name":"AGEMOS","label":"Age at examination in total months","type":"numeric"}
+{"dataset":"growthch","name":"SEX","label":"Gender","type":"numeric"}
+{"dataset":"growthch","name":"HT_CM","label":"Standing height (cm)","type":"numeric"}
+{"dataset":"growthch","name":"WT_KG","label":"Weight (kg)","type":"numeric"}
+{"dataset":"growthch","name":"BMI","label":"Body mass index (kg/m**2)","type":"numeric"}
+{"dataset":"growthch","name":"RELATION","label":"Respondents relationship to child","type":"numeric"}
+{"dataset":"growthch","name":"BWTREPT","label":"Reported birth weight (gm)","type":"numeric"}
+{"dataset":"growthch","name":"LBWFLAG2","label":"Low birth weight flag based on report","type":"numeric"}
+{"dataset":"growthch","name":"HEADCIR","label":"Head circumference (cm)","type":"numeric"}
+{"dataset":"growthch","name":"LENGTH","label":"Recumbent length (cm)","type":"numeric"}
+{"dataset":"growthch","name":"BIRTHWT","label":"Birth weight from Certificates","type":"numeric"}
+{"dataset":"growthch","name":"VLBWFLGB","label":"Very low birth wgt flag (Certificate)","type":"numeric"}
+{"dataset":"growthch","name":"LBWFLAG1","label":"Low birth wgt flag (Certificate)","type":"numeric"}
+{"dataset":"growthch","name":"DIF_FLAG","label":"Height/recumbent length diff flag","type":"numeric"}
+{"dataset":"growthch","name":"VLBWFLGR","label":"Very low birth weight flag (reported)","type":"numeric"}

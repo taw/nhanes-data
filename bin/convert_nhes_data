@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+# Converts NHES I-III data in raw_data/nhesN into JSONL in data/nhesN.
+# See lib/survey_converter.rb for the output format.
+#
+# Usage: bin/convert_nhes_data [nhes1 nhes2 nhes3]
+
+require_relative "../lib/survey_converter"
+
+SURVEYS = %w[nhes1 nhes2 nhes3]
+selected = ARGV.empty? ? SURVEYS : ARGV
+unknown = selected - SURVEYS
+abort "Unknown survey(s): #{unknown.join(", ")}. Known: #{SURVEYS.join(", ")}" unless unknown.empty?
+
+selected.each { |survey| SurveyConverter.new(survey).run }

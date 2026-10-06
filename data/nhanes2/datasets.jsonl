@@ -1,0 +1,18 @@
+{"dataset":"DU5010","title":"Medical History, 6 months - 11 years","records":6839,"variables":491,"source_data":"raw_data/nhanes2/DU5010.txt","source_layout":"raw_data/nhanes2/DU5010.sas"}
+{"dataset":"DU5020","title":"Medical History, 12-74 years","records":18447,"variables":651,"source_data":"raw_data/nhanes2/DU5020.txt","source_layout":"raw_data/nhanes2/DU5020.sas"}
+{"dataset":"DU5252","title":"Chest X-Ray Examintation","records":10450,"variables":309,"source_data":"raw_data/nhanes2/DU5252.txt","source_layout":"raw_data/nhanes2/DU5252.sas"}
+{"dataset":"DU5301","title":"Anthropometry","records":20322,"variables":175,"source_data":"raw_data/nhanes2/DU5301.txt","source_layout":"raw_data/nhanes2/DU5301.sas"}
+{"dataset":"DU5302","title":"Physician's Examination","records":20322,"variables":534,"source_data":"raw_data/nhanes2/DU5302.txt","source_layout":"raw_data/nhanes2/DU5302.sas"}
+{"dataset":"DU5305","title":"Health History Supplement","records":14479,"variables":500,"source_data":"raw_data/nhanes2/DU5305.txt","source_layout":"raw_data/nhanes2/DU5305.sas"}
+{"dataset":"DU5306","title":"Audiometric Air Conduction Test","records":5901,"variables":175,"source_data":"raw_data/nhanes2/DU5306.txt","source_layout":"raw_data/nhanes2/DU5306.sas"}
+{"dataset":"DU5309","title":"Allergy Skin Testing","records":16204,"variables":313,"source_data":"raw_data/nhanes2/DU5309.txt","source_layout":"raw_data/nhanes2/DU5309.sas"}
+{"dataset":"DU5317","title":"Behavior","records":10450,"variables":179,"source_data":"raw_data/nhanes2/DU5317.txt","source_layout":"raw_data/nhanes2/DU5317.sas"}
+{"dataset":"DU5411","title":"Hermatology and Biochemistry","records":20322,"variables":227,"source_data":"raw_data/nhanes2/DU5411.txt","source_layout":"raw_data/nhanes2/DU5411.sas"}
+{"dataset":"DU5701","title":"Total Nutrient Intake, Food Frequency, and Other Related Dietary Data","records":20322,"variables":265,"source_data":"raw_data/nhanes2/DU5701.txt","source_layout":"raw_data/nhanes2/DU5701.sas"}
+{"dataset":"DU5702","title":"Model Gram","records":2726,"variables":7,"source_data":"raw_data/nhanes2/DU5702.txt","source_layout":"raw_data/nhanes2/DU5702.sas"}
+{"dataset":"DU5703","title":"Nutrient Composition","records":2605,"variables":22,"source_data":"raw_data/nhanes2/DU5703.txt","source_layout":"raw_data/nhanes2/DU5703.sas"}
+{"dataset":"growthch","title":"Growth Chart","records":50076,"variables":21,"source_data":"raw_data/nhanes2/growthch.xpt"}
+{"dataset":"nh2ecg","records":9219,"variables":175,"source_data":"raw_data/nhanes2/nh2ecg.dat","source_layout":"raw_data/nhanes2/nh2ecg.sas"}
+{"dataset":"nh2hepat","records":14497,"variables":5,"source_data":"raw_data/nhanes2/nh2hepat.xpt"}
+{"dataset":"nh2herpe","records":3597,"variables":4,"source_data":"raw_data/nhanes2/nh2herpe.xpt"}
+{"dataset":"nh2syphi","records":14479,"variables":4,"source_data":"raw_data/nhanes2/nh2syphi.xpt"}

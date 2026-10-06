@@ -1,0 +1,2 @@
+{"dataset":"DU2idt","title":"Integrated Data Tape","records":7119,"variables":552,"source_data":"raw_data/nhes2/DU2idt.txt","source_layout":"raw_data/nhes2/DU2idt.sas"}
+{"dataset":"growthch","title":"Growth Chart","records":50076,"variables":21,"source_data":"raw_data/nhes2/growthch.xpt"}

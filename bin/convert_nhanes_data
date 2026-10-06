@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+# Converts NHANES I-III data in raw_data/nhanesN into JSONL in data/nhanesN.
+# See lib/survey_converter.rb for the output format.
+#
+# Usage: bin/convert_nhanes_data [nhanes1 nhanes2 nhanes3]
+
+require_relative "../lib/survey_converter"
+
+SURVEYS = %w[nhanes1 nhanes2 nhanes3]
+selected = ARGV.empty? ? SURVEYS : ARGV
+unknown = selected - SURVEYS
+abort "Unknown survey(s): #{unknown.join(", ")}. Known: #{SURVEYS.join(", ")}" unless unknown.empty?
+
+selected.each { |survey| SurveyConverter.new(survey).run }

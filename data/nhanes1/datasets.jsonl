@@ -1,0 +1,22 @@
+{"dataset":"DU4067","title":"Medical History, 1 - 11 years","records":4972,"variables":256,"source_data":"raw_data/nhanes1/DU4067.txt","source_layout":"raw_data/nhanes1/DU4067.sas"}
+{"dataset":"DU4081","title":"Medical History, 12 - 74 years","records":18836,"variables":305,"source_data":"raw_data/nhanes1/DU4081.txt","source_layout":"raw_data/nhanes1/DU4081.sas"}
+{"dataset":"DU4091","title":"Health Care Needs, General Medical History Supplement, and Respiratory and Cardiovascular Supplements","records":6913,"variables":697,"source_data":"raw_data/nhanes1/DU4091.txt","source_layout":"raw_data/nhanes1/DU4091.sas"}
+{"dataset":"DU4111","title":"Anthropometry Goniometry, Skeletal Age, Bone Density, and Cortical Thickness","records":23808,"variables":204,"source_data":"raw_data/nhanes1/DU4111.txt","source_layout":"raw_data/nhanes1/DU4111.sas"}
+{"dataset":"DU4121","title":"Arthritis Data","records":6913,"variables":546,"source_data":"raw_data/nhanes1/DU4121.txt","source_layout":"raw_data/nhanes1/DU4121.sas"}
+{"dataset":"DU4140","title":"Computer Measurements and Interpretations of Electrocardiograms","records":6913,"variables":138,"source_data":"raw_data/nhanes1/DU4140.txt","source_layout":"raw_data/nhanes1/DU4140.sas"}
+{"dataset":"DU4151","title":"Dermatology","records":20749,"variables":692,"source_data":"raw_data/nhanes1/DU4151.txt","source_layout":"raw_data/nhanes1/DU4151.sas"}
+{"dataset":"DU4161","title":"Ophthalmology","records":10127,"variables":332,"source_data":"raw_data/nhanes1/DU4161.txt","source_layout":"raw_data/nhanes1/DU4161.sas"}
+{"dataset":"DU4163","title":"Near and Distant Vision","records":3059,"variables":216,"source_data":"raw_data/nhanes1/DU4163.txt","source_layout":"raw_data/nhanes1/DU4163.sas"}
+{"dataset":"DU4171","title":"General Well-Being and the CES-D Depression Scale","records":6913,"variables":163,"source_data":"raw_data/nhanes1/DU4171.txt","source_layout":"raw_data/nhanes1/DU4171.sas"}
+{"dataset":"DU4233","title":"Medical Examination","records":23808,"variables":545,"source_data":"raw_data/nhanes1/DU4233.txt","source_layout":"raw_data/nhanes1/DU4233.sas"}
+{"dataset":"DU4235","title":"Dental","records":20749,"variables":238,"source_data":"raw_data/nhanes1/DU4235.txt","source_layout":"raw_data/nhanes1/DU4235.sas"}
+{"dataset":"DU4241","title":"Audiometric","records":6913,"variables":438,"source_data":"raw_data/nhanes1/DU4241.txt","source_layout":"raw_data/nhanes1/DU4241.sas"}
+{"dataset":"DU4250","title":"Spirometry-Best Trials Only","records":6913,"variables":165,"source_data":"raw_data/nhanes1/DU4250.txt","source_layout":"raw_data/nhanes1/DU4250.sas"}
+{"dataset":"DU4251","title":"Chest X-Ray, Pulmonary Diffusion, and Tuberculin Test Results","records":6913,"variables":280,"source_data":"raw_data/nhanes1/DU4251.txt","source_layout":"raw_data/nhanes1/DU4251.sas"}
+{"dataset":"DU4701","title":"Dietary Frequency and Adequacy","records":20749,"variables":155,"source_data":"raw_data/nhanes1/DU4701.txt","source_layout":"raw_data/nhanes1/DU4701.sas"}
+{"dataset":"DU4702","title":"Model Gram","records":3728,"variables":5,"source_data":"raw_data/nhanes1/DU4702.txt","source_layout":"raw_data/nhanes1/DU4702.sas"}
+{"dataset":"DU4703","title":"Nutrient Composition","records":3481,"variables":18,"source_data":"raw_data/nhanes1/DU4703.txt","source_layout":"raw_data/nhanes1/DU4703.sas"}
+{"dataset":"DU4704","title":"24-Hour Food Consumption Intake","records":371889,"variables":126,"source_data":"raw_data/nhanes1/DU4704.txt","source_layout":"raw_data/nhanes1/DU4704.sas"}
+{"dataset":"DU4800","title":"Biochemistry, Serology, Hematology, Blood Slides, Urine Dipst.","records":23808,"variables":217,"source_data":"raw_data/nhanes1/DU4800.txt","source_layout":"raw_data/nhanes1/DU4800.sas"}
+{"dataset":"growthch","title":"Growth Chart","records":50076,"variables":21,"source_data":"raw_data/nhanes1/growthch.xpt"}
+{"dataset":"nh1ecg","records":6316,"variables":176,"source_data":"raw_data/nhanes1/nh1ecg.dat","source_layout":"raw_data/nhanes1/nh1ecg.sas"}

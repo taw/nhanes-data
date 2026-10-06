@@ -1,0 +1,8 @@
+{"dataset":"DU1001","title":"Demographic Characteristics","records":6672,"variables":81,"source_data":"raw_data/nhes1/DU1001.txt","source_layout":"raw_data/nhes1/DU1001.sas"}
+{"dataset":"DU1002","title":"Phsychological Distress","records":6672,"variables":91,"source_data":"raw_data/nhes1/DU1002.txt","source_layout":"raw_data/nhes1/DU1002.sas"}
+{"dataset":"DU1003","title":"Physical Measurements","records":6672,"variables":48,"source_data":"raw_data/nhes1/DU1003.txt","source_layout":"raw_data/nhes1/DU1003.sas"}
+{"dataset":"DU1004","title":"Cardiovascular Data","records":6672,"variables":191,"source_data":"raw_data/nhes1/DU1004.txt","source_layout":"raw_data/nhes1/DU1004.sas"}
+{"dataset":"DU1005","title":"Osteoarthritis and Rheumatoid Arthritis","records":6672,"variables":33,"source_data":"raw_data/nhes1/DU1005.txt","source_layout":"raw_data/nhes1/DU1005.sas"}
+{"dataset":"DU1006","title":"Dental Findings","records":6672,"variables":31,"source_data":"raw_data/nhes1/DU1006.txt","source_layout":"raw_data/nhes1/DU1006.sas"}
+{"dataset":"DU1007","title":"Diabetes Findings","records":6672,"variables":52,"source_data":"raw_data/nhes1/DU1007.txt","source_layout":"raw_data/nhes1/DU1007.sas"}
+{"dataset":"DU1008","title":"Visions","records":6672,"variables":35,"source_data":"raw_data/nhes1/DU1008.txt","source_layout":"raw_data/nhes1/DU1008.sas"}

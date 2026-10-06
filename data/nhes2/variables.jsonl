@@ -1,0 +1,573 @@
+{"dataset":"DU2idt","name":"SEQN","label":"SAMPLE SEQUENCE NUMBER","type":"numeric","start":1,"end":4}
+{"dataset":"DU2idt","name":"H2ID0005","label":"BLANK-AVAILABLE FOR TAE USER PURPOSES","type":"character","start":5,"end":14}
+{"dataset":"DU2idt","name":"H2ID0015","label":"NUMBER OF CONTACTS WITH PARENT OR GU ...","type":"numeric","start":15,"end":15}
+{"dataset":"DU2idt","name":"H2ID0016","label":"FINAL ADJUSTED WEIGHT: POPULATION FA ...","type":"numeric","start":16,"end":20}
+{"dataset":"DU2idt","name":"H2ID0021","label":"DATE OF EXAMINATION(MONTH, DAY, YEAR)","type":"numeric","start":21,"end":26}
+{"dataset":"DU2idt","name":"H2ID0027","label":"DATE OF BIRTH (MONTH, DAY, YEAR)","type":"numeric","start":27,"end":32}
+{"dataset":"DU2idt","name":"H2ID0033","label":"BACKGROUND CHARACTERISTICS OF EXAMIN ...","type":"numeric","start":33,"end":33}
+{"dataset":"DU2idt","name":"H2ID0034","label":"RACE","type":"numeric","start":34,"end":34}
+{"dataset":"DU2idt","name":"H2ID0035","label":"SEX-RACE RECODE","type":"numeric","start":35,"end":35}
+{"dataset":"DU2idt","name":"H2ID0036","label":"AGE","type":"numeric","start":36,"end":37}
+{"dataset":"DU2idt","name":"H2ID0038","label":"AGE-SEX RECODE","type":"numeric","start":38,"end":39}
+{"dataset":"DU2idt","name":"H2ID0040","label":"AGE-6 MONTH INTERVALS","type":"numeric","start":40,"end":41}
+{"dataset":"DU2idt","name":"H2ID0042","label":"AGE-4 MONTH INTERVALS","type":"numeric","start":42,"end":43}
+{"dataset":"DU2idt","name":"H2ID0044","label":"AGE- IN MONTHS (072-145)","type":"numeric","start":44,"end":46}
+{"dataset":"DU2idt","name":"H2ID0047","label":"GRADE IN SCHOOL","type":"character","start":47,"end":47}
+{"dataset":"DU2idt","name":"H2ID0048","label":"TWIN STATUS","type":"numeric","start":48,"end":48}
+{"dataset":"DU2idt","name":"H2ID0049","label":"BLANK","type":"character","start":49,"end":49}
+{"dataset":"DU2idt","name":"H2ID0050","label":"DEMOGRAPHIC REGION","type":"numeric","start":50,"end":50}
+{"dataset":"DU2idt","name":"H2ID0051","label":"POPULATION SIZE","type":"numeric","start":51,"end":51}
+{"dataset":"DU2idt","name":"H2ID0052","label":"RATE OF POPULATION CHANGE","type":"numeric","start":52,"end":52}
+{"dataset":"DU2idt","name":"H2ID0053","label":"SIZE OF PLACE","type":"numeric","start":53,"end":53}
+{"dataset":"DU2idt","name":"H2ID0054","label":"SMSA-NOTSMSA","type":"numeric","start":54,"end":54}
+{"dataset":"DU2idt","name":"H2ID0055","label":"LAND USAGE","type":"numeric","start":55,"end":55}
+{"dataset":"DU2idt","name":"H2ID0056","label":"FAMILY INCOME (ANNUAL)","type":"numeric","start":56,"end":57}
+{"dataset":"DU2idt","name":"H2ID0058","label":"FIRST LISTED PARENT OR GUARDIAN-RELA ...","type":"numeric","start":58,"end":58}
+{"dataset":"DU2idt","name":"H2ID0059","label":"SECOND LISTED PARENT OR GUARDIAN-REL ...","type":"character","start":59,"end":59}
+{"dataset":"DU2idt","name":"H2ID0060","label":"PARENTAL RELATIONSHIPS TO CHILD OF 1 ...","type":"numeric","start":60,"end":60}
+{"dataset":"DU2idt","name":"H2ID0061","label":"EDUCATION OF FIRST LISTED PARENT-COM ...","type":"numeric","start":61,"end":62}
+{"dataset":"DU2idt","name":"H2ID0063","label":"RACE OF FIRST LISTED PARENT","type":"numeric","start":63,"end":64}
+{"dataset":"DU2idt","name":"H2ID0065","label":"RACE OF SECOND LISTED PARENT","type":"numeric","start":65,"end":65}
+{"dataset":"DU2idt","name":"H2ID0066","label":"SEX OF FIRST LISTED PARENT","type":"numeric","start":66,"end":66}
+{"dataset":"DU2idt","name":"H2ID0067","label":"AGE OF FIRST LISTED PARENT (AT TIME  ...","type":"numeric","start":67,"end":67}
+{"dataset":"DU2idt","name":"H2ID0068","label":"SEX OF SECOND LISTED PARENT","type":"numeric","start":68,"end":68}
+{"dataset":"DU2idt","name":"H2ID0069","label":"AGE OF FIRST LISTED PARENT (AT TIME  ...","type":"numeric","start":69,"end":70}
+{"dataset":"DU2idt","name":"H2ID0071","label":"AGE OF SECOND LISTED PARENT (AT TIME ...","type":"numeric","start":71,"end":72}
+{"dataset":"DU2idt","name":"H2ID0073","label":"PLACE OF BIRTH OF FIRST LISTED PAREN ...","type":"numeric","start":73,"end":73}
+{"dataset":"DU2idt","name":"H2ID0074","label":"PLACE OF BIRTH OF SECOND LISTED PARE ...","type":"numeric","start":74,"end":74}
+{"dataset":"DU2idt","name":"H2ID0075","label":"HANDEDNESS OF FIRST LISTED PARENT","type":"numeric","start":75,"end":75}
+{"dataset":"DU2idt","name":"H2ID0076","label":"HANDEDNESS OF SECOND LISTED PARENT","type":"numeric","start":76,"end":76}
+{"dataset":"DU2idt","name":"H2ID0077","label":"USUAL ACTIVITY OF FIRST LISTED PARENT","type":"character","start":77,"end":77}
+{"dataset":"DU2idt","name":"H2ID0078","label":"USUAL ACTIVITY OF SECOND  LISTED PARENT","type":"character","start":78,"end":78}
+{"dataset":"DU2idt","name":"H2ID0079","label":"MATERIAL STATUS OF FIRST LISTED PARENT","type":"character","start":79,"end":79}
+{"dataset":"DU2idt","name":"H2ID0080","label":"MATERIAL STATUS OF SECOND LISTED PARENT","type":"character","start":80,"end":80}
+{"dataset":"DU2idt","name":"H2ID0081","label":"OTHER CHILDREN, NOT LIVING IN HOUSEHOLD","type":"numeric","start":81,"end":81}
+{"dataset":"DU2idt","name":"H2ID0082","label":"NUMBER OF PERSONS IN HOUSEHOLD 20 YE ...","type":"numeric","start":82,"end":82}
+{"dataset":"DU2idt","name":"H2ID0083","label":"AGE ORDER OF CHILD (AMONG PERSONS IN ...","type":"numeric","start":83,"end":83}
+{"dataset":"DU2idt","name":"H2ID0084","label":"TOTAL NUMBER OF PERSONS IN THE HOUSE ...","type":"character","start":84,"end":85}
+{"dataset":"DU2idt","name":"H2ID0086","label":"FOREIGN LANGUAGE SPOKEN IN THE HOME","type":"numeric","start":86,"end":86}
+{"dataset":"DU2idt","name":"H2ID0087","label":"MARTIAL HISTORY OF HUSBAND AND WIFE","type":"character","start":87,"end":88}
+{"dataset":"DU2idt","name":"H2ID0089","label":"YEAR LATEST MARRIAGE DETERMINED","type":"character","start":89,"end":90}
+{"dataset":"DU2idt","name":"H2ID0091","label":"WIFE","type":"character","start":91,"end":91}
+{"dataset":"DU2idt","name":"H2ID0092","label":"YEAR WIFE'S PREVIOUS MARRIAGE TERMINATED","type":"character","start":92,"end":93}
+{"dataset":"DU2idt","name":"H2ID0094","label":"REASON FOR TERMINATION OF WIFE'S PRE ...","type":"character","start":94,"end":94}
+{"dataset":"DU2idt","name":"H2ID0095","label":"TOTAL MARRIAGES OF WIFE","type":"character","start":95,"end":95}
+{"dataset":"DU2idt","name":"H2ID0096","label":"HUSBAND","type":"character","start":96,"end":96}
+{"dataset":"DU2idt","name":"H2ID0097","label":"YEAR PREVIOUS MARRIAGE TERMINATED","type":"character","start":97,"end":98}
+{"dataset":"DU2idt","name":"H2ID0099","label":"HUSBAND (MARITAL HISTORY)","type":"character","start":99,"end":99}
+{"dataset":"DU2idt","name":"H2ID0100","label":"TOTAL MARRIAGES OF (HUSBAND)","type":"character","start":100,"end":100}
+{"dataset":"DU2idt","name":"H2ID0101","label":"HOUSEHOLD HEALTH EPISODES OVER PAST  ...","type":"numeric","start":101,"end":101}
+{"dataset":"DU2idt","name":"H2ID0102","label":"SOMEONE CONFINED TO BED AT HOME FOR  ...","type":"character","start":102,"end":102}
+{"dataset":"DU2idt","name":"H2ID0103","label":"YEAR OF OCCURRENCE OF EPISODE#1","type":"numeric","start":103,"end":104}
+{"dataset":"DU2idt","name":"H2ID0105","label":"SOMEONE CONFINED TO BED AT HOME FOR  ...","type":"numeric","start":105,"end":105}
+{"dataset":"DU2idt","name":"H2ID0106","label":"YEAR OF OCCURRENCES OF #1 EPISODE","type":"numeric","start":106,"end":107}
+{"dataset":"DU2idt","name":"H2ID0108","label":"SOMEONE UNABLE TO WORK OR CARRY ON U ...","type":"numeric","start":108,"end":108}
+{"dataset":"DU2idt","name":"H2ID0109","label":"YEAR OF OCCURRENCE OF EPISODE#3","type":"numeric","start":109,"end":110}
+{"dataset":"DU2idt","name":"H2ID0111","label":"SOMEONE DIED WHILE LIVING IN HOUSEHOLD","type":"numeric","start":111,"end":111}
+{"dataset":"DU2idt","name":"H2ID0112","label":"YEAR OF OCCURRENCE OF EPISODE #4","type":"numeric","start":112,"end":113}
+{"dataset":"DU2idt","name":"H2ID0114","label":"BIRTH CERTIFICATE INFORMATION AVAILABLE","type":"numeric","start":114,"end":114}
+{"dataset":"DU2idt","name":"H2ID0115","label":"SATE OF BIRTH","type":"numeric","start":115,"end":116}
+{"dataset":"DU2idt","name":"H2ID0117","label":"PLACE OF BIRTH","type":"numeric","start":117,"end":117}
+{"dataset":"DU2idt","name":"H2ID0118","label":"RESIDENCE OF MOTHER","type":"numeric","start":118,"end":118}
+{"dataset":"DU2idt","name":"H2ID0119","label":"AGE OF FATHER","type":"numeric","start":119,"end":120}
+{"dataset":"DU2idt","name":"H2ID0121","label":"AGE OF MOTHER (IN YEARS)","type":"numeric","start":121,"end":122}
+{"dataset":"DU2idt","name":"H2ID0123","label":"BIRTH PLACE OF FATHER","type":"numeric","start":123,"end":123}
+{"dataset":"DU2idt","name":"H2ID0124","label":"BIRTH PLACE OF MOTHER","type":"numeric","start":124,"end":124}
+{"dataset":"DU2idt","name":"H2ID0125","label":"RACE OF FATHER","type":"numeric","start":125,"end":125}
+{"dataset":"DU2idt","name":"H2ID0126","label":"RACE OF MOTHER","type":"numeric","start":126,"end":126}
+{"dataset":"DU2idt","name":"H2ID0127","label":"NUMBER CHILDREN (BORN TO MOTHER) ALL ...","type":"numeric","start":127,"end":128}
+{"dataset":"DU2idt","name":"H2ID0129","label":"ALL OTHER CHILDREN BORN ALIVE, NOW DEAD","type":"numeric","start":129,"end":130}
+{"dataset":"DU2idt","name":"H2ID0131","label":"ALL OTHER CHILDREN BORN DEAD (INCLUD ...","type":"numeric","start":131,"end":132}
+{"dataset":"DU2idt","name":"H2ID0133","label":"ATTENDANT AT BIRTH","type":"numeric","start":133,"end":133}
+{"dataset":"DU2idt","name":"H2ID0134","label":"LENGTH OF PREGNANCY","type":"numeric","start":134,"end":135}
+{"dataset":"DU2idt","name":"H2ID0136","label":"WEIGHT AT BIRTH","type":"numeric","start":136,"end":139}
+{"dataset":"DU2idt","name":"H2ID0140","label":"NUMBER AT BIRTH","type":"numeric","start":140,"end":140}
+{"dataset":"DU2idt","name":"H2ID0141","label":"BIRTH ORDER-MULTIPLE BIRTHS","type":"numeric","start":141,"end":141}
+{"dataset":"DU2idt","name":"H2ID0142","label":"LEGITIMACY","type":"numeric","start":142,"end":142}
+{"dataset":"DU2idt","name":"H2ID0143","label":"CONGENITAL MALFORMATION","type":"numeric","start":143,"end":143}
+{"dataset":"DU2idt","name":"H2ID0144","label":"COMPLICATIONS OF PREGNANCY AND LABOR","type":"numeric","start":144,"end":144}
+{"dataset":"DU2idt","name":"H2ID0145","label":"BIRTH INJURY","type":"numeric","start":145,"end":145}
+{"dataset":"DU2idt","name":"H2ID0146","label":"PROPHYLACTIC DRUG USED IN EYES","type":"numeric","start":146,"end":146}
+{"dataset":"DU2idt","name":"H2ID0147","label":"INDUCTION ATTEMPTED","type":"numeric","start":147,"end":147}
+{"dataset":"DU2idt","name":"H2ID0148","label":"BORN IN HOSPITAL","type":"numeric","start":148,"end":148}
+{"dataset":"DU2idt","name":"H2ID0149","label":"LENGTH OF STAY OF MOTHER IN HOSPITAL","type":"numeric","start":149,"end":149}
+{"dataset":"DU2idt","name":"H2ID0150","label":"LENGTH OF STAY OF BABY IN HOSPITAL","type":"numeric","start":150,"end":150}
+{"dataset":"DU2idt","name":"H2ID0151","label":"WEIGHT AT BIRTH","type":"numeric","start":151,"end":151}
+{"dataset":"DU2idt","name":"H2ID0152","label":"ARRIVAL OF BABY AS EXPECTED","type":"numeric","start":152,"end":152}
+{"dataset":"DU2idt","name":"H2ID0153","label":"IF EARLY, HOW EARLY","type":"numeric","start":153,"end":153}
+{"dataset":"DU2idt","name":"H2ID0154","label":"ANYTHING WRONG WITH BABY","type":"numeric","start":154,"end":154}
+{"dataset":"DU2idt","name":"H2ID0155","label":"ANY MEDICAL PROBLEM OR COMPLICATIONS ...","type":"numeric","start":155,"end":155}
+{"dataset":"DU2idt","name":"H2ID0156","label":"PREVIOUS PREGNANCIES","type":"numeric","start":156,"end":156}
+{"dataset":"DU2idt","name":"H2ID0157","label":"DOCTOR SEEN DURING PREGNANCY","type":"numeric","start":157,"end":157}
+{"dataset":"DU2idt","name":"H2ID0158","label":"MONTHS PREGNANT WHEN FIRST SAW DOCTOR","type":"numeric","start":158,"end":158}
+{"dataset":"DU2idt","name":"H2ID0159","label":"TIMES DOCTOR SEEN","type":"numeric","start":159,"end":159}
+{"dataset":"DU2idt","name":"H2ID0160","label":"TROUBLE WITH PREGNANCY OR BIRTH","type":"numeric","start":160,"end":160}
+{"dataset":"DU2idt","name":"H2ID0161","label":"HEALTH OF BABY AT ONE YEAR","type":"numeric","start":161,"end":161}
+{"dataset":"DU2idt","name":"H2ID0162","label":"ANYTHING WRONG WITH CHILD AS A BABY","type":"numeric","start":162,"end":162}
+{"dataset":"DU2idt","name":"H2ID0163","label":"DOCTOR SEEN ABOUT TROUBLE","type":"numeric","start":163,"end":163}
+{"dataset":"DU2idt","name":"H2ID0164","label":"BREAST FED","type":"numeric","start":164,"end":164}
+{"dataset":"DU2idt","name":"H2ID0165","label":"MONTHS BREAST FED","type":"numeric","start":165,"end":165}
+{"dataset":"DU2idt","name":"H2ID0166","label":"ACCEPTANCE OF CHANGE FROM BREAST FEEDING","type":"numeric","start":166,"end":166}
+{"dataset":"DU2idt","name":"H2ID0167","label":"AGE FIRST WALKED","type":"numeric","start":167,"end":167}
+{"dataset":"DU2idt","name":"H2ID0168","label":"AGE SPOKE FIRST REAL WORD","type":"numeric","start":168,"end":168}
+{"dataset":"DU2idt","name":"H2ID0169","label":"LEARNING SPEEDS","type":"numeric","start":169,"end":169}
+{"dataset":"DU2idt","name":"H2ID0170","label":"KINDERGARTEN OR NURSERY SCHOOL","type":"numeric","start":170,"end":170}
+{"dataset":"DU2idt","name":"H2ID0171","label":"CHILD'S PRESENTS HEALTH","type":"numeric","start":171,"end":171}
+{"dataset":"DU2idt","name":"H2ID0172","label":"CURRENT HEALTH PROBLEM(S) OF CHILD T ...","type":"numeric","start":172,"end":172}
+{"dataset":"DU2idt","name":"H2ID0173","label":"THUMB SUCKED AT PRESENT TIME","type":"numeric","start":173,"end":173}
+{"dataset":"DU2idt","name":"H2ID0174","label":"FREQUENCY OF THUMB SUCKING","type":"numeric","start":174,"end":174}
+{"dataset":"DU2idt","name":"H2ID0175","label":"REGULAR MEDICINE","type":"numeric","start":175,"end":175}
+{"dataset":"DU2idt","name":"H2ID0176","label":"MEDICINE UNDER DOCTOR'S ORDER","type":"numeric","start":176,"end":176}
+{"dataset":"DU2idt","name":"H2ID0177","label":"BED WETTER AT PRESENT TIME","type":"numeric","start":177,"end":177}
+{"dataset":"DU2idt","name":"H2ID0178","label":"FREQUENCY OF BED WETTING","type":"numeric","start":178,"end":178}
+{"dataset":"DU2idt","name":"H2ID0179","label":"BROKEN BONES","type":"numeric","start":179,"end":179}
+{"dataset":"DU2idt","name":"H2ID0180","label":"KNOCKED UNCONSCIOUS","type":"numeric","start":180,"end":180}
+{"dataset":"DU2idt","name":"H2ID0181","label":"SCAR FROM BURN","type":"numeric","start":181,"end":181}
+{"dataset":"DU2idt","name":"H2ID0182","label":"OTHER ACCIDENT","type":"numeric","start":182,"end":182}
+{"dataset":"DU2idt","name":"H2ID0183","label":"TONSILS OUT","type":"numeric","start":183,"end":183}
+{"dataset":"DU2idt","name":"H2ID0184","label":"OTHER OPERATIONS","type":"numeric","start":184,"end":184}
+{"dataset":"DU2idt","name":"H2ID0185","label":"HOSPITALIZATION FOR OTHER SICKNESS O ...","type":"numeric","start":185,"end":185}
+{"dataset":"DU2idt","name":"H2ID0186","label":"CHILDHOOD DISEASES SCARLET FEVER","type":"numeric","start":186,"end":186}
+{"dataset":"DU2idt","name":"H2ID0187","label":"RHEUMATIC FEVER","type":"numeric","start":187,"end":187}
+{"dataset":"DU2idt","name":"H2ID0188","label":"POLIO","type":"numeric","start":188,"end":188}
+{"dataset":"DU2idt","name":"H2ID0189","label":"DIPHTHERIA","type":"numeric","start":189,"end":189}
+{"dataset":"DU2idt","name":"H2ID0190","label":"MENINGITIS OR SLEEPING SICKNESS","type":"numeric","start":190,"end":190}
+{"dataset":"DU2idt","name":"H2ID0191","label":"TUBERCULOSIS","type":"numeric","start":191,"end":191}
+{"dataset":"DU2idt","name":"H2ID0192","label":"DIABETES OR SUGAR DIABETES","type":"numeric","start":192,"end":192}
+{"dataset":"DU2idt","name":"H2ID0193","label":"EPILEPSY","type":"numeric","start":193,"end":193}
+{"dataset":"DU2idt","name":"H2ID0194","label":"CHOREA OR ST. VITUS' DANCE","type":"numeric","start":194,"end":194}
+{"dataset":"DU2idt","name":"H2ID0195","label":"CEREBRAL PALSY","type":"numeric","start":195,"end":195}
+{"dataset":"DU2idt","name":"H2ID0196","label":"WHOOPING COUGH","type":"numeric","start":196,"end":196}
+{"dataset":"DU2idt","name":"H2ID0197","label":"OTHER ILLNESSES OR CONDITIONS ASTHMA","type":"character","start":197,"end":197}
+{"dataset":"DU2idt","name":"H2ID0198","label":"HAY FEVER","type":"numeric","start":198,"end":198}
+{"dataset":"DU2idt","name":"H2ID0199","label":"ANY OTHER KINDS OF ALLERGIES","type":"numeric","start":199,"end":199}
+{"dataset":"DU2idt","name":"H2ID0200","label":"OTHER ILLNESSES OR CONDITIONS-ANY TR ...","type":"numeric","start":200,"end":200}
+{"dataset":"DU2idt","name":"H2ID0201","label":"A HEART MURMUR","type":"numeric","start":201,"end":201}
+{"dataset":"DU2idt","name":"H2ID0202","label":"ANYTHING WRONG WITH HIS (HER) HEARTS","type":"numeric","start":202,"end":202}
+{"dataset":"DU2idt","name":"H2ID0203","label":"A CONVULSION","type":"numeric","start":203,"end":203}
+{"dataset":"DU2idt","name":"H2ID0204","label":"OTHER ILLNESSES OR CONDITIONS-A FIT","type":"numeric","start":204,"end":204}
+{"dataset":"DU2idt","name":"H2ID0205","label":"MEASLES","type":"numeric","start":205,"end":205}
+{"dataset":"DU2idt","name":"H2ID0206","label":"AGE HAD MEASLES","type":"numeric","start":206,"end":206}
+{"dataset":"DU2idt","name":"H2ID0207","label":"SICK LONGER THAN USUAL (MEASLES)","type":"numeric","start":207,"end":208}
+{"dataset":"DU2idt","name":"H2ID0209","label":"OTHER ILLNESSES OR CONDITIONS-HOSPIT ...","type":"numeric","start":209,"end":209}
+{"dataset":"DU2idt","name":"H2ID0210","label":"FEVER MORE THAN WEEK (MEASLES)","type":"numeric","start":210,"end":210}
+{"dataset":"DU2idt","name":"H2ID0211","label":"SLEEPY AFTER MEASLES","type":"numeric","start":211,"end":211}
+{"dataset":"DU2idt","name":"H2ID0212","label":"MUMPS","type":"numeric","start":212,"end":212}
+{"dataset":"DU2idt","name":"H2ID0213","label":"AGE HAD MUMPS","type":"numeric","start":213,"end":214}
+{"dataset":"DU2idt","name":"H2ID0215","label":"SICK LONGER THAN USUAL WITH MUMPS","type":"numeric","start":215,"end":215}
+{"dataset":"DU2idt","name":"H2ID0216","label":"SICK LONGER THAN USUAL (MEASLES)","type":"numeric","start":216,"end":216}
+{"dataset":"DU2idt","name":"H2ID0217","label":"FEVER MORE THAN WEEK WITH MUMPS","type":"numeric","start":217,"end":217}
+{"dataset":"DU2idt","name":"H2ID0218","label":"SLEEPY AFTER MUMPS","type":"numeric","start":218,"end":218}
+{"dataset":"DU2idt","name":"H2ID0219","label":"SORE THROATS","type":"numeric","start":219,"end":219}
+{"dataset":"DU2idt","name":"H2ID0220","label":"COLDS","type":"numeric","start":220,"end":220}
+{"dataset":"DU2idt","name":"H2ID0221","label":"COUGHS","type":"numeric","start":221,"end":221}
+{"dataset":"DU2idt","name":"H2ID0222","label":"BRONCHITIS","type":"numeric","start":222,"end":222}
+{"dataset":"DU2idt","name":"H2ID0223","label":"CHEST COLDS","type":"numeric","start":223,"end":223}
+{"dataset":"DU2idt","name":"H2ID0224","label":"CROSSED EYES","type":"numeric","start":224,"end":224}
+{"dataset":"DU2idt","name":"H2ID0225","label":"OPERATION ON EYES","type":"numeric","start":225,"end":225}
+{"dataset":"DU2idt","name":"H2ID0226","label":"OTHER EYE TROUBLE","type":"numeric","start":226,"end":226}
+{"dataset":"DU2idt","name":"H2ID0227","label":"GLASSES OR CONTACT LENSES","type":"numeric","start":227,"end":227}
+{"dataset":"DU2idt","name":"H2ID0228","label":"IF GLASSES ARE NOT WORN: DOES HE (SH ...","type":"numeric","start":228,"end":228}
+{"dataset":"DU2idt","name":"H2ID0229","label":"DO HIS (HER) EYES OR EYELIDS EVER SW ...","type":"numeric","start":229,"end":229}
+{"dataset":"DU2idt","name":"H2ID0230","label":"DOES HE(SHE) EVER HAVE STYES, INFECT ...","type":"numeric","start":230,"end":230}
+{"dataset":"DU2idt","name":"H2ID0231","label":"DO HIS (HER) EYES OFTEN WATER?","type":"numeric","start":231,"end":231}
+{"dataset":"DU2idt","name":"H2ID0232","label":"ARE HIS (HER) EYES OFTEN BLOODSHOT?","type":"numeric","start":232,"end":232}
+{"dataset":"DU2idt","name":"H2ID0233","label":"DOES HE(SHE) EVER SAY THAT HIS (HER  ...","type":"numeric","start":233,"end":233}
+{"dataset":"DU2idt","name":"H2ID0234","label":"DOES BRIGHT LIGHT BOTHER HIS (HER) EYES?","type":"numeric","start":234,"end":234}
+{"dataset":"DU2idt","name":"H2ID0235","label":"DOES HE (SHE) EVER SEE DOUBLE OR SEE ...","type":"numeric","start":235,"end":235}
+{"dataset":"DU2idt","name":"H2ID0236","label":"HAVE YOU SEEN HIM (HER) OFTEN RUB HI ...","type":"numeric","start":236,"end":236}
+{"dataset":"DU2idt","name":"H2ID0237","label":"DOES HE (SHE) SOMETIMES CLOSE COVER  ...","type":"numeric","start":237,"end":237}
+{"dataset":"DU2idt","name":"H2ID0238","label":"HEARING TROUBLE","type":"numeric","start":238,"end":238}
+{"dataset":"DU2idt","name":"H2ID0239","label":"EAR ACHES","type":"numeric","start":239,"end":239}
+{"dataset":"DU2idt","name":"H2ID0240","label":"INJURY TO EARS","type":"numeric","start":240,"end":240}
+{"dataset":"DU2idt","name":"H2ID0241","label":"EARDRUMS OPENED OR LANCED","type":"numeric","start":241,"end":241}
+{"dataset":"DU2idt","name":"H2ID0242","label":"IF YES, TIMES EARDRUMS OPENED OR LANCED","type":"numeric","start":242,"end":242}
+{"dataset":"DU2idt","name":"H2ID0243","label":"OTHER EAR OPERATIONS","type":"numeric","start":243,"end":243}
+{"dataset":"DU2idt","name":"H2ID0244","label":"RUNNING EAR","type":"numeric","start":244,"end":244}
+{"dataset":"DU2idt","name":"H2ID0245","label":"IF YES, FREQUENCY OF RUNNING EAR","type":"numeric","start":245,"end":245}
+{"dataset":"DU2idt","name":"H2ID0246","label":"IF YES, LEFT, RIGHT OR BOTH EARS?","type":"numeric","start":246,"end":246}
+{"dataset":"DU2idt","name":"H2ID0247","label":"OTHER EAR TROUBLE","type":"numeric","start":247,"end":247}
+{"dataset":"DU2idt","name":"H2ID0248","label":"TALKING PROBLEMS","type":"numeric","start":248,"end":248}
+{"dataset":"DU2idt","name":"H2ID0249","label":"IF YES, NATURE OF TALKING PROBLEM","type":"numeric","start":249,"end":249}
+{"dataset":"DU2idt","name":"H2ID0250","label":"TROUBLE WALKING","type":"numeric","start":250,"end":250}
+{"dataset":"DU2idt","name":"H2ID0251","label":"ARM OR LEG WEAKNESS OR PARALYSIS","type":"numeric","start":251,"end":251}
+{"dataset":"DU2idt","name":"H2ID0252","label":"HARD EXERCISING OR PLAYING EVER REST ...","type":"numeric","start":252,"end":252}
+{"dataset":"DU2idt","name":"H2ID0253","label":"IF YES, DID DOCTOR ORDER THIS","type":"numeric","start":253,"end":253}
+{"dataset":"DU2idt","name":"H2ID0254","label":"IF YES, IS CHILD PRESENTLY RESTRICTED","type":"numeric","start":254,"end":254}
+{"dataset":"DU2idt","name":"H2ID0255","label":"LAST TIME BEEN TO A DOCTOR","type":"numeric","start":255,"end":255}
+{"dataset":"DU2idt","name":"H2ID0256","label":"LAST TIME BEEN TO A DENTIST","type":"numeric","start":256,"end":256}
+{"dataset":"DU2idt","name":"H2ID0257","label":"EVER HAD TEETH STRAIGHTENED OR HAD B ...","type":"numeric","start":257,"end":257}
+{"dataset":"DU2idt","name":"H2ID0258","label":"IF NO, DO TEETH NEED STRAIGHTENING","type":"numeric","start":258,"end":258}
+{"dataset":"DU2idt","name":"H2ID0259","label":"TIME USUALLY GOES TO BED WHEN NEXT D ...","type":"numeric","start":259,"end":262}
+{"dataset":"DU2idt","name":"H2ID0263","label":"DO CERTAIN KINDS OF T.V. OR RADIO PR ...","type":"numeric","start":263,"end":263}
+{"dataset":"DU2idt","name":"H2ID0264","label":"DOES CHILD HAVE BAD (UNPLEASANT) DRE ...","type":"numeric","start":264,"end":264}
+{"dataset":"DU2idt","name":"H2ID0265","label":"WALK IN SLEEP","type":"numeric","start":265,"end":265}
+{"dataset":"DU2idt","name":"H2ID0266","label":"EVER SLEPT OVERNIGHT AT FRIENDS HOME","type":"numeric","start":266,"end":266}
+{"dataset":"DU2idt","name":"H2ID0267","label":"IF EVER SLEPT OVERNIGHT AT FRIENDS,  ...","type":"numeric","start":267,"end":267}
+{"dataset":"DU2idt","name":"H2ID0268","label":"SLEEPING ARRANGEMENTS AT HOME","type":"numeric","start":268,"end":268}
+{"dataset":"DU2idt","name":"H2ID0269","label":"CHILD SAYS IS AFRAID TO BE LEFT ALON ...","type":"numeric","start":269,"end":269}
+{"dataset":"DU2idt","name":"H2ID0270","label":"HAVE GIRL'S MONTHLY PERIODS STARTED","type":"numeric","start":270,"end":270}
+{"dataset":"DU2idt","name":"H2ID0271","label":"AGE WHEN PERIODS STARTED (YEAR)","type":"numeric","start":271,"end":272}
+{"dataset":"DU2idt","name":"H2ID0273","label":"AGE WHEN PERIODS STARTED (MONTH)","type":"numeric","start":273,"end":274}
+{"dataset":"DU2idt","name":"H2ID0275","label":"CHILD'S MEDICAL HISTORY-INTERVIEWER  ...","type":"numeric","start":275,"end":275}
+{"dataset":"DU2idt","name":"H2ID0276","label":"NUMBER OF MEALS EATEN YESTERDAY WITH ...","type":"numeric","start":276,"end":276}
+{"dataset":"DU2idt","name":"H2ID0277","label":"AMOUNT OF FOOD EATEN","type":"numeric","start":277,"end":277}
+{"dataset":"DU2idt","name":"H2ID0278","label":"SELECTIVITY OF FOODS","type":"numeric","start":278,"end":278}
+{"dataset":"DU2idt","name":"H2ID0279","label":"NUMBER OF MEALS USUALLY EATEN WITH F ...","type":"numeric","start":279,"end":279}
+{"dataset":"DU2idt","name":"H2ID0280","label":"REGULAR TASKS OR JOB AS PART OF FAMI ...","type":"numeric","start":280,"end":280}
+{"dataset":"DU2idt","name":"H2ID0281","label":"DOES CHILD HAVE PET AND TAKES CARE OF IT","type":"numeric","start":281,"end":281}
+{"dataset":"DU2idt","name":"H2ID0282","label":"NUMBER OF FRIENDS","type":"numeric","start":282,"end":282}
+{"dataset":"DU2idt","name":"H2ID0283","label":"COMPARATIVE AGE OF FRIENDS","type":"numeric","start":283,"end":283}
+{"dataset":"DU2idt","name":"H2ID0284","label":"HOW MANY FRIENDS PARENT KNOWS","type":"numeric","start":284,"end":284}
+{"dataset":"DU2idt","name":"H2ID0285","label":"REACTION OF MEETING NEW CHILDREN OR  ...","type":"numeric","start":285,"end":285}
+{"dataset":"DU2idt","name":"H2ID0286","label":"HOW WELL GETS ALONG WITH OTHER CHILDREN","type":"numeric","start":286,"end":286}
+{"dataset":"DU2idt","name":"H2ID0287","label":"EVER 'RUN AWAY FROM HOME'","type":"numeric","start":287,"end":287}
+{"dataset":"DU2idt","name":"H2ID0288","label":"REASON GIVEN FOR RUNNING AWAY","type":"numeric","start":288,"end":288}
+{"dataset":"DU2idt","name":"H2ID0289","label":"ANYTHING EVER HAPPEN TO SERIOUSLY UP ...","type":"numeric","start":289,"end":289}
+{"dataset":"DU2idt","name":"H2ID0290","label":"AGE OF CHILD AT TIME OF DISTURBANCE","type":"character","start":290,"end":291}
+{"dataset":"DU2idt","name":"H2ID0292","label":"RATING OF HOW RELAXED, TENSE OR NERV ...","type":"numeric","start":292,"end":292}
+{"dataset":"DU2idt","name":"H2ID0293","label":"TEMPERAMENT","type":"numeric","start":293,"end":293}
+{"dataset":"DU2idt","name":"H2ID0294","label":"SPECIAL CLASSES, CLUBS OR GROUP ACTI ...","type":"numeric","start":294,"end":294}
+{"dataset":"DU2idt","name":"H2ID0295","label":"BIBLE SCHOOL, CHOIR, OTHER RELIGIOUS ...","type":"numeric","start":295,"end":295}
+{"dataset":"DU2idt","name":"H2ID0296","label":"LITTLE LEAGUE, BOWLING, SWIMMING, RI ...","type":"numeric","start":296,"end":296}
+{"dataset":"DU2idt","name":"H2ID0297","label":"MUSIC, PAINTING, DANCING AND SCULPTURING","type":"numeric","start":297,"end":297}
+{"dataset":"DU2idt","name":"H2ID0298","label":"SOME OTHER ACTIVITY NOT LISTED IN A- ...","type":"numeric","start":298,"end":298}
+{"dataset":"DU2idt","name":"H2ID0299","label":"TIME SPENT ON USUAL DAY AWAY FROM HO ...","type":"numeric","start":299,"end":299}
+{"dataset":"DU2idt","name":"H2ID0300","label":"TIME SPENT ON USUAL DAY FOR VARIOUS  ...","type":"character","start":300,"end":300}
+{"dataset":"DU2idt","name":"H2ID0301","label":"TIME SPENT LISTENING TO RADIO","type":"character","start":301,"end":301}
+{"dataset":"DU2idt","name":"H2ID0302","label":"TIME SPENT READING NEWSPAPERS, COMIC ...","type":"character","start":302,"end":302}
+{"dataset":"DU2idt","name":"H2ID0303","label":"TIME SPENT READING BOOKS (EXCEPT COM ...","type":"character","start":303,"end":303}
+{"dataset":"DU2idt","name":"H2ID0304","label":"TIME SPENT WITH FRIENDS","type":"character","start":304,"end":304}
+{"dataset":"DU2idt","name":"H2ID0305","label":"TIME SPENT PLAYING BY SELF","type":"character","start":305,"end":305}
+{"dataset":"DU2idt","name":"H2ID0306","label":"TIME SPENT WORKING (DOING CHORES)","type":"character","start":306,"end":306}
+{"dataset":"DU2idt","name":"H2ID0307","label":"EVER HAD, OVER A CONSIDERABLE PERIOD ...","type":"numeric","start":307,"end":307}
+{"dataset":"DU2idt","name":"H2ID0308","label":"GET TO SLEEP AFTER HAS GONE TO BED","type":"numeric","start":308,"end":308}
+{"dataset":"DU2idt","name":"H2ID0309","label":"TAKE A NAP WHEN LITTLE","type":"numeric","start":309,"end":309}
+{"dataset":"DU2idt","name":"H2ID0310","label":"CHILD'S BEST AND WORST POINTS MENTIONED","type":"numeric","start":310,"end":310}
+{"dataset":"DU2idt","name":"H2ID0311","label":"QUESTIONNAIRE INFORMATION AVAILABILITY","type":"numeric","start":311,"end":311}
+{"dataset":"DU2idt","name":"H2ID0312","label":"GRADE QUALIFICATION GIVEN","type":"character","start":312,"end":312}
+{"dataset":"DU2idt","name":"H2ID0313","label":"GRADE(S) SKIPPED OR DOUBLE PROMOTION ...","type":"character","start":313,"end":313}
+{"dataset":"DU2idt","name":"H2ID0314","label":"GRADE(S REPEATED","type":"character","start":314,"end":314}
+{"dataset":"DU2idt","name":"H2ID0315","label":"REASON GRADE REPEATED","type":"character","start":315,"end":315}
+{"dataset":"DU2idt","name":"H2ID0316","label":"ABSENT FROM SCHOOL AN UNUSUAL NUMBER ...","type":"character","start":316,"end":316}
+{"dataset":"DU2idt","name":"H2ID0317","label":"MAIN REASON FOR UNUSUAL ABSENCE","type":"character","start":317,"end":317}
+{"dataset":"DU2idt","name":"H2ID0318","label":"SPECIAL RESOURCES RECOMMENDATION, AV ...","type":"character","start":318,"end":318}
+{"dataset":"DU2idt","name":"H2ID0319","label":"B. 'SIGHT SAVING'","type":"character","start":319,"end":319}
+{"dataset":"DU2idt","name":"H2ID0320","label":"C. SPEECH THERAPY","type":"character","start":320,"end":320}
+{"dataset":"DU2idt","name":"H2ID0321","label":"D. ORTHORPEDICALLY HANDICAPPED","type":"character","start":321,"end":321}
+{"dataset":"DU2idt","name":"H2ID0322","label":"E. GIFTED CHILD","type":"character","start":322,"end":322}
+{"dataset":"DU2idt","name":"H2ID0323","label":"F. SLOWER LEARNER","type":"character","start":323,"end":323}
+{"dataset":"DU2idt","name":"H2ID0324","label":"G. CLASS FOR MENTALLY RETARDED","type":"character","start":324,"end":324}
+{"dataset":"DU2idt","name":"H2ID0325","label":"H. EMOTIONALLY DISTURBED","type":"character","start":325,"end":325}
+{"dataset":"DU2idt","name":"H2ID0326","label":"I. 'OTHER' RESOURCES","type":"character","start":326,"end":326}
+{"dataset":"DU2idt","name":"H2ID0327","label":"J. ANY RESOURCE RECOMMENDED","type":"numeric","start":327,"end":327}
+{"dataset":"DU2idt","name":"H2ID0328","label":"ADJUSTMENT EVALUATION","type":"numeric","start":328,"end":328}
+{"dataset":"DU2idt","name":"H2ID0329","label":"ATTENTION SPAN (COMPARED TO OTHERS O ...","type":"numeric","start":329,"end":329}
+{"dataset":"DU2idt","name":"H2ID0330","label":"RESTLESS CLASSROOM MOVEMENT ( COMPAR ...","type":"numeric","start":330,"end":330}
+{"dataset":"DU2idt","name":"H2ID0331","label":"CHILD BEHAVIOR CHARACTERISTICS A. OT ...","type":"character","start":331,"end":331}
+{"dataset":"DU2idt","name":"H2ID0332","label":"B. TOO 'ROUGH' WITH OTHER CHILDREN","type":"character","start":332,"end":332}
+{"dataset":"DU2idt","name":"H2ID0333","label":"C. FREQUENTLY INJURED","type":"character","start":333,"end":333}
+{"dataset":"DU2idt","name":"H2ID0334","label":"D. AGGRESSIVE BEHAVIOR (FREQUENTLY M ...","type":"character","start":334,"end":334}
+{"dataset":"DU2idt","name":"H2ID0335","label":"E. CHILD FREQUENTLY COMPLAIN THAT HE ...","type":"character","start":335,"end":335}
+{"dataset":"DU2idt","name":"H2ID0336","label":"F. OTHER CHILDREN'S PARENTS COMPLAIN ...","type":"character","start":336,"end":336}
+{"dataset":"DU2idt","name":"H2ID0337","label":"G. NO METHOD OF DISCIPLINE SEEMS TO WORK","type":"character","start":337,"end":337}
+{"dataset":"DU2idt","name":"H2ID0338","label":"H. NO BASIS FOR JUDGING CHILD CHARAC ...","type":"character","start":338,"end":338}
+{"dataset":"DU2idt","name":"H2ID0339","label":"I. ANY OF ABOVE (A-H) APPLY","type":"character","start":339,"end":339}
+{"dataset":"DU2idt","name":"H2ID0340","label":"FREQUENCY OF SPECIFIC DISCIPLINARY A ...","type":"numeric","start":340,"end":340}
+{"dataset":"DU2idt","name":"H2ID0341","label":"FREQUENCY OF BEING CHOSEN WHEN CHILD ...","type":"numeric","start":341,"end":341}
+{"dataset":"DU2idt","name":"H2ID0342","label":"FREQUENCY OF BEING CHOSEN AS LEADER  ...","type":"numeric","start":342,"end":342}
+{"dataset":"DU2idt","name":"H2ID0343","label":"JUDGED INTELLECTUAL ABILITY (FOR AGE)","type":"numeric","start":343,"end":343}
+{"dataset":"DU2idt","name":"H2ID0344","label":"JUDGED ACADEMIC PERFORMANCE (FOR AGE)","type":"character","start":344,"end":344}
+{"dataset":"DU2idt","name":"H2ID0345","label":"TIME KNOWN (BY RATER)","type":"character","start":345,"end":345}
+{"dataset":"DU2idt","name":"H2ID0346","label":"CAPACITY RATER KNOWS CHILD","type":"character","start":346,"end":346}
+{"dataset":"DU2idt","name":"H2ID0347","label":"F. PSYCHOLOGICAL EXAMINATION WISC. W ...","type":"numeric","start":347,"end":348}
+{"dataset":"DU2idt","name":"H2ID0349","label":"BLOCK DESIGN RAW SCORES (ACTUAL RANG ...","type":"numeric","start":349,"end":350}
+{"dataset":"DU2idt","name":"H2ID0351","label":"VOC. AND E. D. TEST QUALIFICATIONS","type":"numeric","start":351,"end":351}
+{"dataset":"DU2idt","name":"H2ID0352","label":"WRAT (WIDE RANGE ACHIEVEMENT TEST) R ...","type":"numeric","start":352,"end":353}
+{"dataset":"DU2idt","name":"H2ID0354","label":"TEST LEVEL GIVEN","type":"numeric","start":354,"end":355}
+{"dataset":"DU2idt","name":"H2ID0356","label":"ARITHMETIC RAW SCORE (ACTUAL RANGE 0 ...","type":"numeric","start":356,"end":356}
+{"dataset":"DU2idt","name":"H2ID0357","label":"READING AND ARITHMETIC TEST QUALIFIC ...","type":"numeric","start":357,"end":357}
+{"dataset":"DU2idt","name":"H2ID0358","label":"HARRIS-GOOD ENOUGH DRAW A PERSON TES ...","type":"numeric","start":358,"end":359}
+{"dataset":"DU2idt","name":"H2ID0360","label":"SEX OF DRAWING BY SEX OF CHILD","type":"numeric","start":360,"end":360}
+{"dataset":"DU2idt","name":"H2ID0361","label":"CLASS A DRAWING  (AIMLESS SCRIBBLING ...","type":"numeric","start":361,"end":361}
+{"dataset":"DU2idt","name":"H2ID0362","label":"H-G TEST QUALIFICATION","type":"numeric","start":362,"end":362}
+{"dataset":"DU2idt","name":"H2ID0363","label":"OTHER PSYCHOLOGICAL DATA OBTAINED FR ...","type":"character","start":363,"end":363}
+{"dataset":"DU2idt","name":"H2ID0364","label":"A FOREIGN LANGUAGE PROBLEM NOTED","type":"numeric","start":364,"end":364}
+{"dataset":"DU2idt","name":"H2ID0365","label":"NORMALIZED STANDARD SCORES T-SCORES  ...","type":"numeric","start":365,"end":366}
+{"dataset":"DU2idt","name":"H2ID0367","label":"BLOCK DESIGN RANGE: 19-81","type":"numeric","start":367,"end":368}
+{"dataset":"DU2idt","name":"H2ID0369","label":"WRAT READING RANGE: 14-86","type":"numeric","start":369,"end":370}
+{"dataset":"DU2idt","name":"H2ID0371","label":"ARITHMETIC RANGE: 16-88","type":"numeric","start":371,"end":372}
+{"dataset":"DU2idt","name":"H2ID0373","label":"H-G DRAW A PERSON RANGE: 17-83","type":"numeric","start":373,"end":374}
+{"dataset":"DU2idt","name":"H2ID0375","label":"COMPOSITE T-SCORES SUM VOCABULARY PL ...","type":"numeric","start":375,"end":377}
+{"dataset":"DU2idt","name":"H2ID0378","label":"SUM READING PLUS ARITHMETIC T-SCORES ...","type":"numeric","start":378,"end":380}
+{"dataset":"DU2idt","name":"H2ID0381","label":"SUM OF ALL 5 TEST' T-SCORES (094-378)","type":"numeric","start":381,"end":383}
+{"dataset":"DU2idt","name":"H2ID0384","label":"NORMALIZED STANDARD SCORES-CONT'D. I ...","type":"numeric","start":384,"end":386}
+{"dataset":"DU2idt","name":"H2ID0387","label":"INDEX OF EDUCATIONAL ACHIEVEMENT","type":"numeric","start":387,"end":389}
+{"dataset":"DU2idt","name":"H2ID0390","label":"COMPOSITE INDEX OF MEASURED PERFORMANCE","type":"numeric","start":390,"end":392}
+{"dataset":"DU2idt","name":"H2ID0393","label":"DESCRIPTIVE  LEVELS FOR INTELLECTUAL ...","type":"numeric","start":393,"end":393}
+{"dataset":"DU2idt","name":"H2ID0394","label":"WISC: BASED ON 4 MONTH AGE INTERVALS ...","type":"numeric","start":394,"end":395}
+{"dataset":"DU2idt","name":"H2ID0396","type":"numeric","start":396,"end":397}
+{"dataset":"DU2idt","name":"H2ID0398","type":"numeric","start":398,"end":400}
+{"dataset":"DU2idt","name":"H2ID0401","type":"numeric","start":401,"end":403}
+{"dataset":"DU2idt","name":"H2ID0404","type":"numeric","start":404,"end":406}
+{"dataset":"DU2idt","name":"H2ID0407","type":"numeric","start":407,"end":409}
+{"dataset":"DU2idt","name":"H2ID0410","type":"numeric","start":410,"end":412}
+{"dataset":"DU2idt","name":"H2ID0413","type":"numeric","start":413,"end":416}
+{"dataset":"DU2idt","name":"H2ID0417","type":"numeric","start":417,"end":420}
+{"dataset":"DU2idt","name":"H2ID0421","type":"numeric","start":421,"end":422}
+{"dataset":"DU2idt","name":"H2ID0423","type":"numeric","start":423,"end":424}
+{"dataset":"DU2idt","name":"H2ID0425","type":"numeric","start":425,"end":426}
+{"dataset":"DU2idt","name":"H2ID0427","type":"numeric","start":427,"end":429}
+{"dataset":"DU2idt","name":"H2ID0430","type":"numeric","start":430,"end":433}
+{"dataset":"DU2idt","name":"H2ID0434","type":"numeric","start":434,"end":434}
+{"dataset":"DU2idt","name":"H2ID0435","type":"numeric","start":435,"end":436}
+{"dataset":"DU2idt","name":"H2ID0437","type":"numeric","start":437,"end":437}
+{"dataset":"DU2idt","name":"H2ID0438","type":"character","start":438,"end":449}
+{"dataset":"DU2idt","name":"H2ID0450","type":"character","start":450,"end":452}
+{"dataset":"DU2idt","name":"H2ID0453","type":"character","start":453,"end":455}
+{"dataset":"DU2idt","name":"H2ID0456","type":"character","start":456,"end":456}
+{"dataset":"DU2idt","name":"H2ID0457","type":"character","start":457,"end":457}
+{"dataset":"DU2idt","name":"H2ID0458","type":"character","start":458,"end":458}
+{"dataset":"DU2idt","name":"H2ID0459","type":"character","start":459,"end":459}
+{"dataset":"DU2idt","name":"H2ID0460","type":"character","start":460,"end":460}
+{"dataset":"DU2idt","name":"H2ID0461","type":"numeric","start":461,"end":461}
+{"dataset":"DU2idt","name":"H2ID0462","type":"character","start":462,"end":462}
+{"dataset":"DU2idt","name":"H2ID0463","type":"character","start":463,"end":463}
+{"dataset":"DU2idt","name":"H2ID0464","type":"character","start":464,"end":464}
+{"dataset":"DU2idt","name":"H2ID0465","type":"character","start":465,"end":465}
+{"dataset":"DU2idt","name":"H2ID0466","type":"character","start":466,"end":466}
+{"dataset":"DU2idt","name":"H2ID0467","type":"character","start":467,"end":467}
+{"dataset":"DU2idt","name":"H2ID0468","type":"character","start":468,"end":468}
+{"dataset":"DU2idt","name":"H2ID0469","type":"character","start":469,"end":469}
+{"dataset":"DU2idt","name":"H2ID0470","type":"character","start":470,"end":470}
+{"dataset":"DU2idt","name":"H2ID0471","type":"character","start":471,"end":471}
+{"dataset":"DU2idt","name":"H2ID0472","type":"character","start":472,"end":472}
+{"dataset":"DU2idt","name":"H2ID0473","type":"character","start":473,"end":473}
+{"dataset":"DU2idt","name":"H2ID0474","type":"character","start":474,"end":474}
+{"dataset":"DU2idt","name":"H2ID0475","type":"numeric","start":475,"end":477}
+{"dataset":"DU2idt","name":"H2ID0478","type":"numeric","start":478,"end":480}
+{"dataset":"DU2idt","name":"H2ID0481","type":"numeric","start":481,"end":483}
+{"dataset":"DU2idt","name":"H2ID0484","type":"numeric","start":484,"end":486}
+{"dataset":"DU2idt","name":"H2ID0487","type":"numeric","start":487,"end":490}
+{"dataset":"DU2idt","name":"H2ID0491","type":"numeric","start":491,"end":494}
+{"dataset":"DU2idt","name":"H2ID0495","type":"numeric","start":495,"end":496}
+{"dataset":"DU2idt","name":"H2ID0497","type":"numeric","start":497,"end":498}
+{"dataset":"DU2idt","name":"H2ID0499","type":"numeric","start":499,"end":499}
+{"dataset":"DU2idt","name":"H2ID0500","type":"character","start":500,"end":500}
+{"dataset":"DU2idt","name":"H2ID0501","type":"character","start":501,"end":501}
+{"dataset":"DU2idt","name":"H2ID0502","type":"character","start":502,"end":502}
+{"dataset":"DU2idt","name":"H2ID0503","type":"character","start":503,"end":503}
+{"dataset":"DU2idt","name":"H2ID0504","type":"character","start":504,"end":504}
+{"dataset":"DU2idt","name":"H2ID0505","type":"character","start":505,"end":505}
+{"dataset":"DU2idt","name":"H2ID0506","type":"character","start":506,"end":506}
+{"dataset":"DU2idt","name":"H2ID0507","type":"character","start":507,"end":507}
+{"dataset":"DU2idt","name":"H2ID0508","type":"character","start":508,"end":508}
+{"dataset":"DU2idt","name":"H2ID0509","type":"character","start":509,"end":509}
+{"dataset":"DU2idt","name":"H2ID0510","type":"character","start":510,"end":510}
+{"dataset":"DU2idt","name":"H2ID0511","type":"character","start":511,"end":511}
+{"dataset":"DU2idt","name":"H2ID0512","type":"character","start":512,"end":512}
+{"dataset":"DU2idt","name":"H2ID0513","type":"character","start":513,"end":513}
+{"dataset":"DU2idt","name":"H2ID0514","type":"character","start":514,"end":514}
+{"dataset":"DU2idt","name":"H2ID0515","type":"character","start":515,"end":515}
+{"dataset":"DU2idt","name":"H2ID0516","type":"character","start":516,"end":516}
+{"dataset":"DU2idt","name":"H2ID0517","type":"character","start":517,"end":517}
+{"dataset":"DU2idt","name":"H2ID0518","type":"character","start":518,"end":518}
+{"dataset":"DU2idt","name":"H2ID0519","type":"character","start":519,"end":519}
+{"dataset":"DU2idt","name":"H2ID0520","type":"character","start":520,"end":520}
+{"dataset":"DU2idt","name":"H2ID0521","type":"character","start":521,"end":521}
+{"dataset":"DU2idt","name":"H2ID0522","type":"character","start":522,"end":522}
+{"dataset":"DU2idt","name":"H2ID0523","type":"character","start":523,"end":523}
+{"dataset":"DU2idt","name":"H2ID0524","type":"character","start":524,"end":524}
+{"dataset":"DU2idt","name":"H2ID0525","type":"character","start":525,"end":525}
+{"dataset":"DU2idt","name":"H2ID0526","type":"character","start":526,"end":526}
+{"dataset":"DU2idt","name":"H2ID0527","type":"character","start":527,"end":527}
+{"dataset":"DU2idt","name":"H2ID0528","type":"character","start":528,"end":528}
+{"dataset":"DU2idt","name":"H2ID0529","type":"character","start":529,"end":529}
+{"dataset":"DU2idt","name":"H2ID0530","type":"character","start":530,"end":530}
+{"dataset":"DU2idt","name":"H2ID0531","type":"character","start":531,"end":531}
+{"dataset":"DU2idt","name":"H2ID0532","type":"character","start":532,"end":532}
+{"dataset":"DU2idt","name":"H2ID0533","type":"character","start":533,"end":533}
+{"dataset":"DU2idt","name":"H2ID0534","type":"character","start":534,"end":534}
+{"dataset":"DU2idt","name":"H2ID0535","type":"character","start":535,"end":535}
+{"dataset":"DU2idt","name":"H2ID0536","type":"character","start":536,"end":536}
+{"dataset":"DU2idt","name":"H2ID0537","type":"character","start":537,"end":537}
+{"dataset":"DU2idt","name":"H2ID0538","type":"character","start":538,"end":538}
+{"dataset":"DU2idt","name":"H2ID0539","type":"character","start":539,"end":539}
+{"dataset":"DU2idt","name":"H2ID0540","type":"character","start":540,"end":540}
+{"dataset":"DU2idt","name":"H2ID0541","type":"character","start":541,"end":541}
+{"dataset":"DU2idt","name":"H2ID0542","type":"character","start":542,"end":542}
+{"dataset":"DU2idt","name":"H2ID0543","type":"character","start":543,"end":543}
+{"dataset":"DU2idt","name":"H2ID0544","type":"character","start":544,"end":544}
+{"dataset":"DU2idt","name":"H2ID0545","type":"character","start":545,"end":545}
+{"dataset":"DU2idt","name":"H2ID0546","type":"character","start":546,"end":546}
+{"dataset":"DU2idt","name":"H2ID0547","type":"character","start":547,"end":547}
+{"dataset":"DU2idt","name":"H2ID0548","type":"character","start":548,"end":548}
+{"dataset":"DU2idt","name":"H2ID0549","type":"character","start":549,"end":549}
+{"dataset":"DU2idt","name":"H2ID0550","type":"character","start":550,"end":550}
+{"dataset":"DU2idt","name":"H2ID0551","type":"character","start":551,"end":551}
+{"dataset":"DU2idt","name":"H2ID0552","type":"character","start":552,"end":552}
+{"dataset":"DU2idt","name":"H2ID0553","type":"character","start":553,"end":553}
+{"dataset":"DU2idt","name":"H2ID0554","type":"character","start":554,"end":554}
+{"dataset":"DU2idt","name":"H2ID0555","type":"character","start":555,"end":555}
+{"dataset":"DU2idt","name":"H2ID0556","type":"character","start":556,"end":556}
+{"dataset":"DU2idt","name":"H2ID0557","type":"character","start":557,"end":557}
+{"dataset":"DU2idt","name":"H2ID0558","type":"character","start":558,"end":558}
+{"dataset":"DU2idt","name":"H2ID0559","type":"character","start":559,"end":559}
+{"dataset":"DU2idt","name":"H2ID0560","type":"character","start":560,"end":560}
+{"dataset":"DU2idt","name":"H2ID0561","type":"character","start":561,"end":561}
+{"dataset":"DU2idt","name":"H2ID0562","type":"character","start":562,"end":562}
+{"dataset":"DU2idt","name":"H2ID0563","type":"numeric","start":563,"end":564}
+{"dataset":"DU2idt","name":"H2ID0565","type":"character","start":565,"end":565}
+{"dataset":"DU2idt","name":"H2ID0566","type":"character","start":566,"end":566}
+{"dataset":"DU2idt","name":"H2ID0567","type":"character","start":567,"end":567}
+{"dataset":"DU2idt","name":"H2ID0568","type":"character","start":568,"end":568}
+{"dataset":"DU2idt","name":"H2ID0569","type":"character","start":569,"end":572}
+{"dataset":"DU2idt","name":"H2ID0573","type":"character","start":573,"end":573}
+{"dataset":"DU2idt","name":"H2ID0574","type":"character","start":574,"end":609}
+{"dataset":"DU2idt","name":"H2ID0610","type":"character","start":610,"end":610}
+{"dataset":"DU2idt","name":"H2ID0611","type":"numeric","start":611,"end":611}
+{"dataset":"DU2idt","name":"H2ID0612","type":"numeric","start":612,"end":612}
+{"dataset":"DU2idt","name":"H2ID0613","type":"numeric","start":613,"end":613}
+{"dataset":"DU2idt","name":"H2ID0614","type":"character","start":614,"end":615}
+{"dataset":"DU2idt","name":"H2ID0616","type":"character","start":616,"end":616}
+{"dataset":"DU2idt","name":"H2ID0617","type":"character","start":617,"end":617}
+{"dataset":"DU2idt","name":"H2ID0618","type":"numeric","start":618,"end":619}
+{"dataset":"DU2idt","name":"H2ID0620","type":"numeric","start":620,"end":620}
+{"dataset":"DU2idt","name":"H2ID0621","type":"numeric","start":621,"end":622}
+{"dataset":"DU2idt","name":"H2ID0623","type":"numeric","start":623,"end":624}
+{"dataset":"DU2idt","name":"H2ID0625","type":"numeric","start":625,"end":626}
+{"dataset":"DU2idt","name":"H2ID0627","type":"numeric","start":627,"end":628}
+{"dataset":"DU2idt","name":"H2ID0629","type":"numeric","start":629,"end":630}
+{"dataset":"DU2idt","name":"H2ID0631","type":"numeric","start":631,"end":632}
+{"dataset":"DU2idt","name":"H2ID0633","type":"numeric","start":633,"end":634}
+{"dataset":"DU2idt","name":"H2ID0635","type":"numeric","start":635,"end":636}
+{"dataset":"DU2idt","name":"H2ID0637","type":"numeric","start":637,"end":638}
+{"dataset":"DU2idt","name":"H2ID0639","type":"numeric","start":639,"end":640}
+{"dataset":"DU2idt","name":"H2ID0641","type":"numeric","start":641,"end":642}
+{"dataset":"DU2idt","name":"H2ID0643","type":"character","start":643,"end":643}
+{"dataset":"DU2idt","name":"H2ID0644","type":"character","start":644,"end":645}
+{"dataset":"DU2idt","name":"H2ID0646","type":"numeric","start":646,"end":646}
+{"dataset":"DU2idt","name":"H2ID0647","type":"character","start":647,"end":647}
+{"dataset":"DU2idt","name":"H2ID0648","type":"character","start":648,"end":649}
+{"dataset":"DU2idt","name":"H2ID0650","type":"character","start":650,"end":650}
+{"dataset":"DU2idt","name":"H2ID0651","type":"character","start":651,"end":652}
+{"dataset":"DU2idt","name":"H2ID0653","type":"character","start":653,"end":654}
+{"dataset":"DU2idt","name":"H2ID0655","type":"numeric","start":655,"end":655}
+{"dataset":"DU2idt","name":"H2ID0656","type":"character","start":656,"end":656}
+{"dataset":"DU2idt","name":"H2ID0657","type":"numeric","start":657,"end":659}
+{"dataset":"DU2idt","name":"H2ID0660","type":"character","start":660,"end":660}
+{"dataset":"DU2idt","name":"H2ID0661","type":"character","start":661,"end":661}
+{"dataset":"DU2idt","name":"H2ID0662","type":"character","start":662,"end":662}
+{"dataset":"DU2idt","name":"H2ID0663","type":"character","start":663,"end":663}
+{"dataset":"DU2idt","name":"H2ID0664","type":"character","start":664,"end":664}
+{"dataset":"DU2idt","name":"H2ID0665","type":"character","start":665,"end":665}
+{"dataset":"DU2idt","name":"H2ID0666","type":"character","start":666,"end":666}
+{"dataset":"DU2idt","name":"H2ID0667","type":"character","start":667,"end":668}
+{"dataset":"DU2idt","name":"H2ID0669","type":"character","start":669,"end":670}
+{"dataset":"DU2idt","name":"H2ID0671","type":"character","start":671,"end":672}
+{"dataset":"DU2idt","name":"H2ID0673","type":"character","start":673,"end":674}
+{"dataset":"DU2idt","name":"H2ID0675","type":"character","start":675,"end":675}
+{"dataset":"DU2idt","name":"H2ID0676","type":"character","start":676,"end":676}
+{"dataset":"DU2idt","name":"H2ID0677","type":"character","start":677,"end":677}
+{"dataset":"DU2idt","name":"H2ID0678","type":"character","start":678,"end":678}
+{"dataset":"DU2idt","name":"H2ID0679","type":"character","start":679,"end":679}
+{"dataset":"DU2idt","name":"H2ID0680","type":"character","start":680,"end":680}
+{"dataset":"DU2idt","name":"H2ID0681","type":"character","start":681,"end":681}
+{"dataset":"DU2idt","name":"H2ID0682","type":"character","start":682,"end":682}
+{"dataset":"DU2idt","name":"H2ID0683","type":"character","start":683,"end":683}
+{"dataset":"DU2idt","name":"H2ID0684","type":"numeric","start":684,"end":686}
+{"dataset":"DU2idt","name":"H2ID0687","type":"numeric","start":687,"end":689}
+{"dataset":"DU2idt","name":"H2ID0690","type":"numeric","start":690,"end":693}
+{"dataset":"DU2idt","name":"H2ID0694","type":"numeric","start":694,"end":697}
+{"dataset":"DU2idt","name":"H2ID0698","type":"numeric","start":698,"end":701}
+{"dataset":"DU2idt","name":"H2ID0702","type":"numeric","start":702,"end":704}
+{"dataset":"DU2idt","name":"H2ID0705","type":"numeric","start":705,"end":707}
+{"dataset":"DU2idt","name":"H2ID0708","type":"numeric","start":708,"end":711}
+{"dataset":"DU2idt","name":"H2ID0712","type":"numeric","start":712,"end":714}
+{"dataset":"DU2idt","name":"H2ID0715","type":"numeric","start":715,"end":717}
+{"dataset":"DU2idt","name":"H2ID0718","type":"numeric","start":718,"end":720}
+{"dataset":"DU2idt","name":"H2ID0721","type":"numeric","start":721,"end":723}
+{"dataset":"DU2idt","name":"H2ID0724","type":"numeric","start":724,"end":726}
+{"dataset":"DU2idt","name":"H2ID0727","type":"numeric","start":727,"end":729}
+{"dataset":"DU2idt","name":"H2ID0730","type":"numeric","start":730,"end":732}
+{"dataset":"DU2idt","name":"H2ID0733","type":"numeric","start":733,"end":736}
+{"dataset":"DU2idt","name":"H2ID0737","type":"numeric","start":737,"end":739}
+{"dataset":"DU2idt","name":"H2ID0740","type":"numeric","start":740,"end":742}
+{"dataset":"DU2idt","name":"H2ID0743","type":"numeric","start":743,"end":745}
+{"dataset":"DU2idt","name":"H2ID0746","type":"numeric","start":746,"end":748}
+{"dataset":"DU2idt","name":"H2ID0749","type":"numeric","start":749,"end":751}
+{"dataset":"DU2idt","name":"H2ID0752","type":"numeric","start":752,"end":755}
+{"dataset":"DU2idt","name":"H2ID0756","type":"numeric","start":756,"end":759}
+{"dataset":"DU2idt","name":"H2ID0760","type":"numeric","start":760,"end":763}
+{"dataset":"DU2idt","name":"H2ID0764","type":"numeric","start":764,"end":766}
+{"dataset":"DU2idt","name":"H2ID0767","type":"numeric","start":767,"end":769}
+{"dataset":"DU2idt","name":"H2ID0770","type":"numeric","start":770,"end":772}
+{"dataset":"DU2idt","name":"H2ID0773","type":"numeric","start":773,"end":775}
+{"dataset":"DU2idt","name":"H2ID0776","type":"numeric","start":776,"end":778}
+{"dataset":"DU2idt","name":"H2ID0779","type":"numeric","start":779,"end":782}
+{"dataset":"DU2idt","name":"H2ID0783","type":"numeric","start":783,"end":786}
+{"dataset":"DU2idt","name":"H2ID0787","type":"numeric","start":787,"end":788}
+{"dataset":"DU2idt","name":"H2ID0789","type":"numeric","start":789,"end":790}
+{"dataset":"DU2idt","name":"H2ID0791","type":"character","start":791,"end":792}
+{"dataset":"DU2idt","name":"H2ID0793","type":"character","start":793,"end":794}
+{"dataset":"DU2idt","name":"H2ID0795","type":"character","start":795,"end":795}
+{"dataset":"DU2idt","name":"H2ID0796","type":"character","start":796,"end":796}
+{"dataset":"DU2idt","name":"H2ID0797","type":"numeric","start":797,"end":800}
+{"dataset":"DU2idt","name":"H2ID0801","type":"numeric","start":801,"end":804}
+{"dataset":"DU2idt","name":"H2ID0805","type":"numeric","start":805,"end":806}
+{"dataset":"DU2idt","name":"H2ID0807","type":"numeric","start":807,"end":807}
+{"dataset":"DU2idt","name":"H2ID0808","type":"numeric","start":808,"end":810}
+{"dataset":"DU2idt","name":"H2ID0811","type":"numeric","start":811,"end":813}
+{"dataset":"DU2idt","name":"H2ID0814","type":"numeric","start":814,"end":816}
+{"dataset":"DU2idt","name":"H2ID0817","type":"numeric","start":817,"end":819}
+{"dataset":"DU2idt","name":"H2ID0820","type":"numeric","start":820,"end":822}
+{"dataset":"DU2idt","name":"H2ID0823","type":"numeric","start":823,"end":825}
+{"dataset":"DU2idt","name":"H2ID0826","type":"numeric","start":826,"end":828}
+{"dataset":"DU2idt","name":"H2ID0829","type":"numeric","start":829,"end":831}
+{"dataset":"DU2idt","name":"H2ID0832","type":"numeric","start":832,"end":834}
+{"dataset":"DU2idt","name":"H2ID0835","type":"numeric","start":835,"end":837}
+{"dataset":"DU2idt","name":"H2ID0838","type":"numeric","start":838,"end":840}
+{"dataset":"DU2idt","name":"H2ID0841","type":"numeric","start":841,"end":843}
+{"dataset":"DU2idt","name":"H2ID0844","type":"numeric","start":844,"end":846}
+{"dataset":"DU2idt","name":"H2ID0847","type":"numeric","start":847,"end":849}
+{"dataset":"DU2idt","name":"H2ID0850","type":"numeric","start":850,"end":852}
+{"dataset":"DU2idt","name":"H2ID0853","type":"numeric","start":853,"end":855}
+{"dataset":"DU2idt","name":"H2ID0856","type":"numeric","start":856,"end":858}
+{"dataset":"DU2idt","name":"H2ID0859","type":"numeric","start":859,"end":861}
+{"dataset":"DU2idt","name":"H2ID0862","type":"numeric","start":862,"end":864}
+{"dataset":"DU2idt","name":"H2ID0865","type":"numeric","start":865,"end":867}
+{"dataset":"DU2idt","name":"H2ID0868","type":"numeric","start":868,"end":870}
+{"dataset":"DU2idt","name":"H2ID0871","type":"numeric","start":871,"end":873}
+{"dataset":"DU2idt","name":"H2ID0874","type":"numeric","start":874,"end":876}
+{"dataset":"DU2idt","name":"H2ID0877","type":"numeric","start":877,"end":879}
+{"dataset":"DU2idt","name":"H2ID0880","type":"numeric","start":880,"end":882}
+{"dataset":"DU2idt","name":"H2ID0883","type":"numeric","start":883,"end":885}
+{"dataset":"DU2idt","name":"H2ID0886","type":"numeric","start":886,"end":888}
+{"dataset":"DU2idt","name":"H2ID0889","type":"numeric","start":889,"end":891}
+{"dataset":"DU2idt","name":"H2ID0892","type":"numeric","start":892,"end":894}
+{"dataset":"DU2idt","name":"H2ID0895","type":"numeric","start":895,"end":897}
+{"dataset":"DU2idt","name":"H2ID0898","type":"numeric","start":898,"end":900}
+{"dataset":"DU2idt","name":"H2ID0901","type":"numeric","start":901,"end":901}
+{"dataset":"DU2idt","name":"H2ID0902","type":"numeric","start":902,"end":906}
+{"dataset":"DU2idt","name":"H2ID0907","type":"numeric","start":907,"end":910}
+{"dataset":"growthch","name":"SEQN","label":"Respondent sequence number","type":"numeric"}
+{"dataset":"growthch","name":"SURVEY","label":"Survey number 1 to 5","type":"numeric"}
+{"dataset":"growthch","name":"PSU","label":"Pseudo-PSU","type":"numeric"}
+{"dataset":"growthch","name":"STRATA","label":"Pseudo-strata","type":"numeric"}
+{"dataset":"growthch","name":"STATWT","label":"Exam statistical weight","type":"numeric"}
+{"dataset":"growthch","name":"AGE_EXAM","label":"Age at examination in years","type":"numeric"}
+{"dataset":"growthch","name":"AGEMOS","label":"Age at examination in total months","type":"numeric"}
+{"dataset":"growthch","name":"SEX","label":"Gender","type":"numeric"}
+{"dataset":"growthch","name":"HT_CM","label":"Standing height (cm)","type":"numeric"}
+{"dataset":"growthch","name":"WT_KG","label":"Weight (kg)","type":"numeric"}
+{"dataset":"growthch","name":"BMI","label":"Body mass index (kg/m**2)","type":"numeric"}
+{"dataset":"growthch","name":"RELATION","label":"Respondents relationship to child","type":"numeric"}
+{"dataset":"growthch","name":"BWTREPT","label":"Reported birth weight (gm)","type":"numeric"}
+{"dataset":"growthch","name":"LBWFLAG2","label":"Low birth weight flag based on report","type":"numeric"}
+{"dataset":"growthch","name":"HEADCIR","label":"Head circumference (cm)","type":"numeric"}
+{"dataset":"growthch","name":"LENGTH","label":"Recumbent length (cm)","type":"numeric"}
+{"dataset":"growthch","name":"BIRTHWT","label":"Birth weight from Certificates","type":"numeric"}
+{"dataset":"growthch","name":"VLBWFLGB","label":"Very low birth wgt flag (Certificate)","type":"numeric"}
+{"dataset":"growthch","name":"LBWFLAG1","label":"Low birth wgt flag (Certificate)","type":"numeric"}
+{"dataset":"growthch","name":"DIF_FLAG","label":"Height/recumbent length diff flag","type":"numeric"}
+{"dataset":"growthch","name":"VLBWFLGR","label":"Very low birth weight flag (reported)","type":"numeric"}
